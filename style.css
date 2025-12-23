@@ -1,0 +1,32 @@
+/* Subset of Source Han Sans JP for suits */
+@font-face {
+	font-family: "Source Han Suits";
+	font-weight: 1 1000;
+	font-style: oblique -90deg 90deg;
+	src: url("fonts/suits-505e1eb1.woff2") format("woff2");
+}
+
+html {
+	font-family: "Open Sans", "Source Han Suits", sans-serif;
+	hyphens: auto;
+}
+
+.♥,
+.♦ {
+	color: #d33;
+}
+
+.♠,
+.♣ {
+	color: var(--fg);
+}
+
+.chapter .♠,
+.chapter .♣ {
+	color: var(--sidebar-fg);
+}
+
+.table-wrapper {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}

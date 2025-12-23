@@ -1,6 +1,4 @@
-# Introduction
-
-![&spades; &hearts; &diams; &clubs;](favicon-743d6a64.svg)
+# ![Strawberry Polish Club](favicon-743d6a64.svg)
 
 I have been studying forcing club systems since reading *Good, Better, Best* by
 Jan Eric Larsson, whose simulations show that forcing club systems tend to

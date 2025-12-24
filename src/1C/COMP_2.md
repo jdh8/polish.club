@@ -9,7 +9,7 @@ Competition at 1♣ (*) share properties of the following auctions:
 
 I recommend a transfer system below 3NT.  Since X frees up 2NT, 2NT and above
 become transfers (cf. Rubens advances).  Below 2NT, continuations to
-[1NT](../../1NT_BTU.md) form a major-oriented structure.  Such structure
+[1NT](../../1NT.md) form a major-oriented structure.  Such structure
 allows bidding a 5-card major regardless of strength.
 
 | 1♣ (1NT)  | - |
@@ -28,7 +28,7 @@ allows bidding a 5-card major regardless of strength.
 
 ## 1♣ (2♣)
 
-Deem this situation as [1NT (2♣)](../../1NT_BTU/COMP_2.md#1NT(2C)).
+Deem this situation as [1NT (2♣)](../../1NT/COMP_2.md#1NT(2C)).
 
 ## 1♣ (2♦♥♠) {#strawberry-adjunct}
 

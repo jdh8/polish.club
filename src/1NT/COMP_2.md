@@ -59,7 +59,7 @@ Ignore the (2♣) overcall.  X replaces the Stayman 2♣ as usual.
 
 ## 1NT (2NT)
 
-[BTU vs Unusual](../BTU_v_U.md) suffices.
+[BTU vs Unusual](../BTUVU.md) suffices.
 
 | 1NT (2NT) | 5+♦, 5+♣ |
 |-----------|----------|

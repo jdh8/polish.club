@@ -16,7 +16,7 @@ unbid (minor) suits.
 | 3♦    | NAT, 8--13, 6+♦
 | 3M!   | NF Michaels, 5+#, usually 5+♦♣
 
-Different from [BTU vs Unusual](BTU_v_U.md), 2♠ and 2NT are two-under transfers.
+Different from [BTU vs Unusual](BTUVU.md), 2♠ and 2NT are two-under transfers.
 The non-forcing Herbert negative step serves as an escape.
 
 ## (2♦) X

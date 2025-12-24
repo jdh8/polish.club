@@ -32,20 +32,20 @@
   - [Maggie 2♣](1S/2C.md)
   - [Game-forcing 2♦♥](1S/2R.md)
   - [Strawberry Stenberg 2NT](1S/2NT.md)
-- [BTU 1NT](1NT_BTU.md)
-  - [BTU Stayman 2♣](1NT_BTU/2C.md)
-  - [BTU transfers 2♦♥](1NT_BTU/2R.md)
-  - [Competitive bidding](1NT_BTU/COMP_2.md)
+- [BTU 1NT](1NT.md)
+  - [BTU Stayman 2♣](1NT/2C.md)
+  - [BTU transfers 2♦♥](1NT/2R.md)
+  - [Competitive bidding](1NT/COMP_2.md)
 - [Strawberry Ekren 2♣](2C.md)
-- [Multi 2♦](2D_Multi.md)
-- [Muiderberg 2M](2M_Muiderberg.md)
-- [Unusual 2NT opening](2NT_UNT.md)
-- [BTU Namyats](4X_BTU.md)
+- [Multi 2♦](2D.md)
+- [Muiderberg 2M](2M.md)
+- [Unusual 2NT opening](2NT.md)
+- [BTU Namyats](4X.md)
 
 # Competitive conventions
 
 - [Rubinsohl](Rubinsohl.md)
-- [BTU vs Unusual](BTU_v_U.md)
+- [BTU vs Unusual](BTUVU.md)
 
 # Slam bidding
 

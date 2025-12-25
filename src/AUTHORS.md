@@ -1,9 +1,15 @@
 # Author
 
-I am Chen-Pang He.  I have been studying forcing club systems since reading
-*Good, Better, Best* by Jan Eric Larsson, whose simulations show that forcing
-club systems tend to outperform other systems.  I believe opening 1♣ for all
-strong hands is a superior treatment.
+I am Chen-Pang He (何震邦).  I have been studying forcing club systems since
+reading *Good, Better, Best* by Jan Eric Larsson, whose simulations show that
+forcing club systems tend to outperform other systems.  I believe opening 1♣ for
+all strong hands is a superior treatment.
+
+I play bridge in BTU, the bridge club at National Taiwan University.  I usually
+discuss bidding methods with:
+
+- 葉庭佑 (Ting-Yu Ye)
+- 黃順捷 "Steven Jocker"
 
 ## My other bidding systems
 

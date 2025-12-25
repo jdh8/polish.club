@@ -11,6 +11,8 @@ discuss bidding methods with:
 - 葉庭佑 (Ting-Yu Ye)
 - 黃順捷 "Steven Jocker"
 
+We are also influenced by Bo-Yin Yang "Terrorist", our legendary bidding theorist.
+
 ## My other bidding systems
 
 - [Blueberry Precision Club](https://jdh8.github.io/blueberry-precision/)

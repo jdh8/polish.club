@@ -2,6 +2,7 @@
 # Summary
 
 [Introduction](README.md)
+[Author](AUTHORS.md)
 
 - [Openings](Openings.md)
 - [Polish 1♣](1C.md)

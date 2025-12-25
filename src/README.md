@@ -1,10 +1,5 @@
 # ![Strawberry Polish Club](favicon-743d6a64.svg)
 
-I have been studying forcing club systems since reading *Good, Better, Best* by
-Jan Eric Larsson, whose simulations show that forcing club systems tend to
-outperform other systems.
-I believe opening 1♣ for all strong hands is a superior treatment.
-
 Strawberry Polish Club is a BTU-flavored Polish Club largely based on *Polish
 Club 2020: Expert*.  Polish Club serves as a gateway to the world of forcing
 clubs.  It is 5-card major.  Its main opening range is 12--17. Sharing these

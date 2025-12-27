@@ -6,7 +6,8 @@ relays in the 3-way checkback:
 - **2♣:** several variants:
   - to play 2X
   - strongly shaped invitation
-  - balanced invitation or choice of games
+  - balanced invitation
+  - balanced choice of games with the 5-card major
 - **2♦:** game-forcing checkback, usually a choice of games
 - **2NT:** transfer to clubs
 
@@ -14,13 +15,10 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 
 ## 1♣-1♥-1♠ {#1C-1H-1S}
 
-In this particular case of BTU checkback, opener can pass 1♣-1♥ 1♠-2♣ with
-minimum long clubs.  Otherwise, BTU checkback is forcing.
-
 | 1♣-1♥ 1♠- | F, 4+♠ |
 |-----------|--------|
 | 1NT       | MIN, 7--10, 0--3♠, 4--5♥
-| 2♣!       | BTU CB, NF
+| 2♣!       | BTU CB, F1
 | 2♦!       | FG CB
 | 2♥        | INV, 5+♥
 | 2♠        | INV, 4+♠
@@ -29,7 +27,8 @@ minimum long clubs.  Otherwise, BTU checkback is forcing.
 | 3♦        | S/T, 5+♦, 5+♥
 | 3♥        | S/T, 6+♥
 | 3♠        | S/T, 4+♠
-| 3NT       | 12--15, 0--3♠, 4=♥, 0--5♦, 0--5♣
+| 3NT       | BAL COG, 44(32)
+| 4♥♠       | NAT PRE
 
 | 1♣-1♥ 1♠-1NT | NAT MIN |
 |--------------|---------|

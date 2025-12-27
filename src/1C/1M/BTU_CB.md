@@ -7,8 +7,8 @@ relays in the 3-way checkback:
   - to play 2X
   - strongly shaped invitation
   - balanced invitation
-  - balanced choice of games with the 5-card major
-- **2♦:** game-forcing checkback, usually a choice of games
+  - balanced 15--17, too strong for a direct 3NT
+- **2♦:** game-forcing checkback
 - **2NT:** transfer to clubs
 
 As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
@@ -27,7 +27,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦        | S/T, 5+♦, 5+♥
 | 3♥        | S/T, 6+♥
 | 3♠        | S/T, 4+♠
-| 3NT       | BAL COG, 44(32)
+| 3NT!      | COG, 44(32)
 | 4♥♠       | NAT PRE
 
 | 1♣-1♥ 1♠-1NT | NAT MIN |
@@ -43,18 +43,17 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 
 | 1♣-1♥ 1♠-2♣ | BTU CB |
 |-------------|--------|
-| P           | S/O, 12--13, 6+♣
-| 2♦!         | MIN, 12--15
+| 2♦!         | P/C, 11--16
 | 2♥          | INV, 3=♥
 | 2♠          | FG, 5+♠, 0--2♥
 | 2NT         | FG, 4=♠
-| 3♣          | INV, 16--17, 5+♣, 0--2♥
-| 3♦          | FG, 5+♦
+| 3♣          | FG, 6+♣
+| 3♦          | FG, 6+♦
 | 3♥          | FG, 5+♠, 3=♥
 | 3♠!         | FG, 5+♣, 4=♠, 0--2♥
-| 3NT         | Mild S/T, 21--23, 4=♠
+| 3NT         | BAL S/T, 21--23, 4=♠
 
-| 1♣-1♥ 1♠-2♣ 2♦- | MIN, 12--15 |
+| 1♣-1♥ 1♠-2♣ 2♦- | P/C, 11--16 |
 |-----------------|-------------|
 | P               | MIN, 5+♦
 | 2♥              | UNBAL MIN, 5+♥
@@ -64,6 +63,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦              | INV, 6+♦
 | 3♥              | INV, S-SOL 6+♥
 | 3♠              | INV, 4+♠, 5+♥
+| 3NT             | BAL 15--17
 
 ## 1♣-1♥-1NT {#1C-1H-1NT}
 
@@ -80,7 +80,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦         | S/T, 5+♦, 5+♥
 | 3♥         | S/T, 6+♥
 | 3♠!        | SPL, 0--1♠, 6+♥
-| 3N         | 12--15, 4=♥
+| 3NT        | 12--15, 4=♥
 | 4♣!        | SPL, 0--1♣, 6+♥
 | 4♦!        | SPL, 0--1♦, 6+♥
 
@@ -92,7 +92,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♣               | INV, 6+♣
 | 3♦               | INV, 6+♦
 | 3♥               | INV, S-SOL 6+♥
-| 3NT              | COG, 5♥(332)
+| 3NT              | BAL 15--17
 
 ## 1♣-1♠-1NT {#1C-1S-1NT}
 
@@ -124,4 +124,4 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦               | INV, 6+♦
 | 3♥               | INV, 4+♥, 6+♠
 | 3♠               | INV, S-SOL 6+♠
-| 3NT              | COG, 5♠(332)
+| 3NT              | BAL 15--17

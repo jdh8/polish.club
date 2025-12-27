@@ -6,8 +6,9 @@ relays in the 3-way checkback:
 - **2♣:** several variants:
   - to play 2X
   - strongly shaped invitation
-  - balanced invitation or choice of games
-- **2♦:** game-forcing checkback, usually a choice of games
+  - balanced invitation
+  - balanced 15--17, too strong for a direct 3NT
+- **2♦:** game-forcing checkback
 - **2NT:** transfer to clubs
 
 As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
@@ -56,6 +57,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦              | INV, 4+♦
 | 3♥              | INV, S-SOL 6+♥
 | 3♠              | INV, 4+♠, 5+♥
+| 3NT             | BAL 15--17
 
 ## 1♦-1♥-1NT {#1D-1H-1NT}
 
@@ -83,6 +85,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♣               | INV, 6+♣
 | 3♦               | INV, 4+♦
 | 3♥               | INV, S-SOL 6+♥
+| 3NT              | BAL 15--17
 
 ## 1♦-1♠-1NT {#1D-1S-1NT}
 
@@ -114,3 +117,4 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦               | INV, 6+♦
 | 3♥               | INV, 5+♥, 5+♠
 | 3♠               | INV, S-SOL 6+♠
+| 3NT              | BAL 15--17

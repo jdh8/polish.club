@@ -32,11 +32,11 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 
 | 1♣-1♥ 1♠-1NT | NAT MIN |
 |--------------|---------|
-| 2♣           | NF, 12--15, 5+♣
-| 2♦!          | 4SF1, INV+, 0--2♥
+| 2♣           | NF, 11--16, 5+♣
+| 2♦!          | 4SFG
 | 2♥           | INV, 3=♥
 | 2♠           | FG, 5+♠
-| 2NT          | INV, 16--17, 0--2♥
+| 2NT          | BAL FG
 | 3♣           | FG, 6+♣
 | 3♦           | FG, 6+♦
 | 3♥           | FG, 5+♠, 3=♥

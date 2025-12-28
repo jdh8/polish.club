@@ -7,11 +7,13 @@ relays in the 3-way checkback:
   - to play 2X
   - strongly shaped invitation
   - balanced invitation
-  - balanced 15--17, too strong for a direct 3NT
+  - special game force to rebid 3NT
 - **2♦:** game-forcing checkback
 - **2NT:** transfer to clubs
 
 As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
+Compared with XYZ in literature, direct 2X are swapped with the variants in 2♣.
+This is because invitations are prone to competition.
 
 ## 1♣-1♥-1♠ {#1C-1H-1S}
 
@@ -41,6 +43,11 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦           | FG, 6+♦
 | 3♥           | FG, 5+♠, 3=♥
 
+### The 2♣ checkback
+
+The special game force here is mild balanced slam try (15--17), interested when
+opener bypasses 2♦.
+
 | 1♣-1♥ 1♠-2♣ | BTU CB |
 |-------------|--------|
 | 2♦!         | P/C, 11--16
@@ -67,6 +74,9 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 
 ## 1♣-1♥-1NT {#1C-1H-1NT}
 
+The special game force via 2♣ is choice of games with (5332).  This treatment
+helps concealing declarer's distribution most of the time.
+
 | 1♣-1♥ 1NT- | BAL 12--14 |
 |------------|------------|
 | 2♣!        | BTU CB, F1
@@ -92,7 +102,7 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♣               | INV, 6+♣
 | 3♦               | INV, 6+♦
 | 3♥               | INV, S-SOL 6+♥
-| 3NT              | BAL 15--17
+| 3NT              | COG, 5♥(332)
 
 ## 1♣-1♠-1NT {#1C-1S-1NT}
 
@@ -124,4 +134,4 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 | 3♦               | INV, 6+♦
 | 3♥               | INV, 4+♥, 6+♠
 | 3♠               | INV, S-SOL 6+♠
-| 3NT              | BAL 15--17
+| 3NT              | COG, 5(332)

@@ -15,6 +15,14 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 Compared with XYZ in literature, direct 2X are swapped with the variants in 2♣.
 This is because invitations are prone to competition.
 
+## By passed hand
+
+There are definitely no slam tries by passed hand.  Direct 3X become strongly
+shaped invitations without a doubt.  The debate is whether 2♦ is still an
+artificial checkback.  To avoid confusion, I suggest keeping 2♦ artificial.
+Openings in the third and fourth seat can be light.  Hence, 2♦ invites full
+openers.
+
 ## 1♣-1♥-1♠ {#1C-1H-1S}
 
 | 1♣-1♥ 1♠- | F, 4+♠ |

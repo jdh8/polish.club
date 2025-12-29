@@ -72,6 +72,21 @@ opener bypasses 2♦.
 | 3♠              | INV, 4+♠, 5+♥
 | 3NT             | BAL 15--17
 
+### The 2♦ game force
+
+This game-forcing checkback probes 3-card support or a whole extra trick (about
+15--17).  This strength cut helps slam investigation since the 2♣ checkback
+asks for half-tricks.
+
+| 1♣-1♥ 1♠-2♦ | FG CB |
+|-------------|-------|
+| 2♥          | 11--17, 3=♥
+| 2♠          | 18+, 5+♠, 0--2♥
+| 2NT         | 11--14, 0--2♥
+| 3♣          | 15+, 5+♣, 0--2♥
+| 3♦          | 18+, 5+♦, 0--2♥
+| 3♥          | 18+, 5+♠, 3=♥
+
 ## 1♣-1♥-1NT {#1C-1H-1NT}
 
 The special game force via 2♣ is choice of games with (5332).  This treatment

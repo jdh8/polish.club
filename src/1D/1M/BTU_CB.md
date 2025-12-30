@@ -32,14 +32,15 @@ This is because invitations are prone to competition.
 
 | 1♦-1♥ 1♠-1NT | NAT MIN |
 |--------------|---------|
-| 2♣           | NF, 4=♣
+| 2♣           | NF, 4+♣
 | 2♦           | NF, 6+♦
 | 2♥           | INV, 3=♥
-| 2♠           | INV, 5+♠, 6+♦
-| 2NT          | NAT INV
-| 3♣           | FG, 4=♣
-| 3♦           | FG, 6+♦
+| 2♠           | INV, 4=♠, 0--2♥
+| 2NT          | FG, 0--2♥
+| 3♣           | INV, 4+♣
+| 3♦           | INV, 6+♦
 | 3♥           | FG, 3=♥
+| 3♠           | INV, 5+♠, 6+♦
 
 ### The 2♣ checkback
 
@@ -48,12 +49,14 @@ opener bypasses 2♦.
 
 | 1♦-1♥ 1♠-2♣ | BTU CB |
 |-------------|--------|
-| 2♦          | MIN
-| 2♥          | MAX, 3=♥
-| 2♠          | MAX, at most partial stop in ♣
-| 2NT         | MAX, likely stop in ♣
-| 3♣          | MAX, 4054
-| 3♦          | MAX, 6+♦
+| 2♦          | (R) MIN
+| 2♥          | INV, 3=♥
+| 2♠          | INV, 4=♠, 0--2♥
+| 2NT         | FG, 0--2♥
+| 3♣          | INV, 4+♣
+| 3♦          | INV, 6+♦
+| 3♥          | FG, 3=♥
+| 3♠          | INV, 5+♠, 6+♦
 
 | 1♦-1♥ 1♠-2♣ 2♦- | MIN |
 |-----------------|-----|

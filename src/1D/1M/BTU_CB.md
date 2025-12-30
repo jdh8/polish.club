@@ -66,6 +66,33 @@ opener bypasses 2♦.
 | 3♠              | INV, 4+♠, 5+♥
 | 3NT             | BAL 15--17
 
+### The 2♦ game force
+
+This game-forcing checkback probes 3-card support or a whole extra trick (about
+15--17).  This strength cut helps slam investigation since the 2♣ checkback
+asks for half-tricks.
+
+| 1♦-1♥ 1♠-2♦ | FG CB |
+|-------------|-------|
+| 2♥          | 11--14, 3=♥
+| 2♠          | 15+, 4+♠, 0--2♥
+| 2NT         | 11--14, 1--2♥
+| 3♣          | 11--14, 3+♣, 0--2♥
+| 3♦          | 11--14, 6+♦, 0--2♥
+| 3♥          | 15+, 3=♥
+
+### By passed hand
+
+There are definitely no slam tries by passed hand.  Direct 3X become strongly
+shaped invitations without a doubt.  The debate is whether 2♦ is still an
+artificial checkback.  To avoid confusion, I suggest keeping 2♦ artificial.
+Openings in the third and fourth seat can be light.  Hence, 2♦ invites full
+openers.
+
+| P-1♦-1♥ 1♠- | 4+♠ |
+|-------------|-----|
+| 2♦!         | STR INV, 5--6♥
+
 ## 1♦-1♥-1NT {#1D-1H-1NT}
 
 The special game force via 2♣ is choice of games with relatively balanced and

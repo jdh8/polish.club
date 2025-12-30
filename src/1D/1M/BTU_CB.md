@@ -17,7 +17,7 @@ This is because invitations are prone to competition.
 
 ## 1♦-1♥-1♠ {#1D-1H-1S}
 
-| 1♦-1♥ 1♠- | 12--17, 4+♠ |
+| 1♦-1♥ 1♠- | 11--17, 4+♠ |
 |-----------|-------------|
 | 1NT       | MIN, 0--3♠, 4--5♥, 0--3♦
 | 2♣!       | BTU CB, F1

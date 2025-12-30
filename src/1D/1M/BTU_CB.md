@@ -72,6 +72,8 @@ This game-forcing checkback probes 3-card support or a whole extra trick (about
 15--17).  This strength cut helps slam investigation since the 2♣ checkback
 asks for half-tricks.
 
+Obvious maximum rebids are 2♠ and 3♥.  The other rebids show minimum hands.
+
 | 1♦-1♥ 1♠-2♦ | FG CB |
 |-------------|-------|
 | 2♥          | 11--14, 3=♥

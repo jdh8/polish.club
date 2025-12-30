@@ -78,6 +78,8 @@ This game-forcing checkback probes 3-card support or a whole extra trick (about
 15--17).  This strength cut helps slam investigation since the 2♣ checkback
 asks for half-tricks.
 
+Overload 15--17 to 2♥ and 3♣ because the range only consists of ~10% of 1♣.
+
 | 1♣-1♥ 1♠-2♦ | FG CB |
 |-------------|-------|
 | 2♥          | 11--17, 3=♥

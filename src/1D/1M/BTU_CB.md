@@ -94,8 +94,8 @@ artificial checkback.  To avoid confusion, I suggest keeping 2♦ artificial.
 Openings in the third and fourth seat can be light.  Hence, 2♦ invites full
 openers.
 
-| P-1♦-1♥ 1♠- | 4+♠ |
-|-------------|-----|
+| P-1♦-1♥ 1♠- | 11--17, 4+♠ |
+|-------------|-------------|
 | 2♦!         | STR INV, 5--6♥
 
 ## 1♦-1♥-1NT {#1D-1H-1NT}

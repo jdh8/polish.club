@@ -1,7 +1,7 @@
-# Forcing 1NT
+# Semi-forcing 1NT
 
-Unpassed 1♠-1NT is forcing to accommodate strong invitations, especially 6+♥,
-which is one step away from 4♥.
+The best hands in 1NT are invitations with 3=♠ or 6+♥.  Opener only passes when
+rejecting both invitations, preferably minimum 5233.
 
 | 1♠-1NT | Usually 7--11, 0--3♠ |
 |--------|----------------------|

@@ -29,7 +29,7 @@
   - [Game-forcing 2♣♦](1H/2CD.md)
   - [Strawberry Stenberg 2NT](1H/2NT.md)
 - [Natural 1♠](1S.md)
-  - [Forcing 1NT](1S/1NT.md)
+  - [Semi-forcing 1NT](1S/1NT.md)
   - [Maggie 2♣](1S/2C.md)
   - [Game-forcing 2♦♥](1S/2R.md)
   - [Strawberry Stenberg 2NT](1S/2NT.md)

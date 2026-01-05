@@ -22,24 +22,32 @@ Just like [1♠-1NT](../1S/1NT.md), the threshold of suit quality is based on
 
 ## Impossible spades
 
-As 1NT denies 4+♠, the 2♠ rebid must be artificial.  The **impossible 2♠** is a
-forcing raise that is stronger than a courtesy raise.
+Spades that responder rebids must be artificial because 1NT already denies
+spades.  The impossible 2♠ asks for a stopper in spades before subsequent
+invitations. Direct invitations are otherwise indifferent to quality in spades.
 
 | 1♥-1NT 2♣- | NF, 3+♣ |
 |------------|---------|
 | 2♦         | NF, 5+♦
 | 2♥         | NF, usually 2--3♥
-| 2♠!        | STR INV, 4+♣
+| 2♠!        | Ask for ♠ stopper
 | 2NT        | BAL INV
-| 3♣         | Mild INV, usually 5+♣
+| 3♣         | INV, 4+♣
 | 3♦         | INV, 6+♦
 | 3♥         | INV, 3=♥
 
 | 1♥-1NT 2♦- | NF, 4+♦ |
 |------------|---------|
 | 2♥         | NF, usually 2--3♥
-| 2♠!        | STR INV, 4+♦
+| 2♠!        | Ask for ♠ stopper
 | 2NT        | BAL INV
 | 3♣         | INV, 6+♣
-| 3♦         | Mild INV, 4+♦
+| 3♦         | INV, 4+♦
 | 3♥         | INV, 3=♥
+
+| 1♥-1NT 2♥- | NF, 6+♥ |
+|------------|---------|
+| 2♠!        | Ask for ♠ stopper
+| 2NT        | BAL INV
+| 3♣♦        | INV, 6+#
+| 3♥         | INV, 2+♥

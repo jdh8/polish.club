@@ -12,7 +12,7 @@
     - [Odwrotka 2♦](1C/1M/2D.md)
     - [Inviting 2M](1C/1M/2M.md)
   - [Positive 1NT, 2NT](1C/1NT.md)
-  - [Game-forcing 2♣♦](1C/2CD.md)
+  - [Swapped 2♣♦](1C/2CD.md)
   - [Flannery 2♥](1C/2H.md)
   - [Competing at the 1-level](1C/COMP_1.md)
   - [Competing at the 2-level](1C/COMP_2.md)

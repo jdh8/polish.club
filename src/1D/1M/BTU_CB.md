@@ -152,7 +152,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 
 | 1♦-1♠ 1NT-2♣ 2♦- | P/C |
 |------------------|-----|
-| 2♥               | MIN, 4+♥, 5+♠
+| 2♥               | INV, 4+♥, 6+♠
 | 2♠               | S/O, 5+♠
 | 2NT              | BAL INV
 | 3♣               | INV, 5+♣, 5+♠

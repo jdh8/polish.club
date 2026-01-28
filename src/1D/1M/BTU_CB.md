@@ -124,7 +124,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 2♥               | S/O, 5+♥
 | 2♠               | INV, 4+♠, 6+♥
 | 2NT              | BAL INV
-| 3♣               | INV, 6+♣
+| 3♣               | INV, 5+♣, 5+♥
 | 3♦               | INV, 4+♦
 | 3♥               | INV, S-SOL 6+♥
 | 3NT              | COG, 6=♥
@@ -155,8 +155,8 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 2♥               | MIN, 4+♥, 5+♠
 | 2♠               | S/O, 5+♠
 | 2NT              | BAL INV
-| 3♣               | INV, 6+♣
-| 3♦               | INV, 6+♦
+| 3♣               | INV, 5+♣, 5+♠
+| 3♦               | INV, 4+♦
 | 3♥               | INV, 5+♥, 5+♠
 | 3♠               | INV, S-SOL 6+♠
 | 3NT              | COG, 6=♠

@@ -24,8 +24,8 @@ Natural 1NT is not very useful after a double.  Rebrand it as transfer.
 | 1♥!    | TRF, 7+, 4+♠
 | 1♠!    | TRF, 7+, 5+♣
 | 1NT!   | TRF, 7+, 5+♦
-| 2♣     | PRE, 0--9, 5+♣
-| 2X     | PRE, 0--9, 6+#
+| 2♣     | PRE, 0--7, 5+♣
+| 2X     | PRE, 0--7, 6+#
 | 2NT!   | TRF, PRE 7+♣ or FG 6+♣
 | 3♣!    | TRF, PRE 7+♦ or FG 6+♦
 | 3♦!    | TRF, PRE 7+♥ or FG 6+♥

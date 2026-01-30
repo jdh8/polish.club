@@ -18,7 +18,7 @@ instead.  Unlike 1♣ (X), there is no space for Transfer Walsh here.
 | 2NT!     | TRF, PRE 7+♣ or FG 6+♣
 | 3♣!      | INV+ TRF, 4+♦
 | 3♦       | PRE, 0--7, 4+♦
-| 3M!, 4♣! | SPL, 0--1#, 4+♦
+| 3M       | PRE, 7+#
 
 Spades below 3NT are transfer cuebids.
 

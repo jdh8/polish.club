@@ -26,7 +26,7 @@ Spades below 3NT are transfer cuebids.
 |---------|---|
 | 1NT     | NAT, 8--11
 | 2♣      | NF, 8--11, 5+♣
-| 2♦      | NF, 6--10, 3+♦
+| 2♦      | NF, 5--9, 3+♦
 | 2♠!     | INV+, ask for stopper
 | 2NT     | NAT FG
 | 3♣!     | CONST, 7--9, 4+♦

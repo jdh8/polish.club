@@ -5,7 +5,7 @@ them from the general to the specific.
 
 ## Italian control bids
 
-The famous Italian Blue team devised the Italian style of control bidding.  A 
+The famous Italian Blue team devised the Italian style of control bidding.  A
 control can be 1st-round (ace or void) or 2nd-round (king or singleton).  It is
 more important to show controls at low steps.  Bypassing a step denies all
 controls in that suit.

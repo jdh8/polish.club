@@ -43,14 +43,11 @@
 - [Unusual 2NT opening](2NT.md)
 - [BTU Namyats](4X.md)
 
-# Competitive conventions
+# Conventions
 
 - [Rubinsohl](Rubinsohl.md)
 - [BTU vs Unusual](BTUVU.md)
-
-# Slam bidding
-
-- [Overview](Slam.md)
+- [Slam bidding](Slam.md)
 - [Kickback RKCB 1430](Slam/Kickback_1430.md)
 
 # Defensive bidding

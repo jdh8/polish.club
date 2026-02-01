@@ -22,8 +22,8 @@ Natural 1NT is not very useful after a double.  Rebrand it as transfer.
 | XX     | NF BAL G/T, 10+
 | 1♦!    | TRF, 7+, 4+♥
 | 1♥!    | TRF, 7+, 4+♠
-| 1♠!    | TRF, 7+, 5+♣
-| 1NT!   | TRF, 7+, 5+♦
+| 1♠!    | TRF, 7+, 5+♦
+| 1NT!   | TRF, 7+, 5+♣
 | 2♣     | PRE, 0--7, 5+♣
 | 2X     | PRE, 0--7, 6+#
 | 2NT!   | TRF, PRE 7+♣ or FG 6+♣
@@ -43,14 +43,14 @@ to 3♣.
 | X!      | TRF, 7+, 4+ next suit
 | 1♥!     | TRF, 7+, 4+♠
 | 1♠!     | TRF to 1NT, 8+, 0--3♠, 0--3♥
-| 1NT     | NAT, 8--11
+| 1NT     | NAT, 8--10
 | 2X      | NF, 8--11, 5+#
 | 2YZ!    | TRF, 6+ next suit
-| 2♠!     | FG, ask for stopper
-| 2NT     | NAT FG
-| 3X      | INV, 6+#
+| 2♠!     | INV+ T/O, no biddable major suit
+| 2NT     | NAT INV, 10--11
+| 3X      | FG, 6+#
 | 3YZ     | INV+ TRF, 6+ next suit
-| 3♠!     | FG, 6+♣
+| 3♠!     | Gambling, SOL 7+ suit w/o stopper
 
 The whole bidding structure leans toward hearts over (1♠).  A well-known example
 is the negative double.
@@ -59,6 +59,7 @@ is the negative double.
 |---------|---|
 | X!      | TRF, 7+, 4+♥
 | 2♥      | NF, 5+♥, 7--11 or 6+♥
+| 3♥      | INV, 6+♥
 | 3♠!     | FG, 6+♥
 
 ## Transfer Walsh
@@ -80,12 +81,12 @@ Transfer Walsh in competition is also called Cachalot in French.
 | 2♥        | MIN, 12--14, 4=♥
 | 3♥        | INV, 15--17, 4+♥
 
-| <div>1♣ (1♦) 1♥- or</div><div>1♣ (1♥) X-</div> | 7+, 4+♠ |
-|:----|-------------------|
-| 1♠  | SUPP, 12--17, 3=♠ |
-| 2♦! | FG, 3+♠           |
-| 2♠  | MIN, 12--14, 4=♠  |
-| 3♠  | INV, 15--17, 4+♠  |
+| 1♣ (1♦) 1♥- or<br>1♣ (1♥) X- | 7+, 4+♠ |
+|:-----------------------------|---------|
+| 1♠                           | SUPP, 12--17, 3=♠
+| 2♦!                          | FG, 3+♠
+| 2♠                           | MIN, 12--14, 4=♠
+| 3♠                           | INV, 15--17, 4+♠
 
 The cuebid is a useful tool to ask for stopper by ceding notrump declaration. I
 decide to have a dual meaning 2♥, similar to 4SF.  It asks for a stopper by

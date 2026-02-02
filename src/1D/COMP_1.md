@@ -4,16 +4,18 @@ This part shares similarities with [the 1♣ opening](../1C/COMP_1.md).
 There are also differences since 1♦ shows a long suit that allows further
 preempts.
 
-Like 1♣ (X), natural 1NT is not very useful after a double.  Transfer to clubs
-instead.  Unlike 1♣ (X), there is no space for Transfer Walsh here.
+- Like 1♣ (X), 1NT transfers to clubs as its natural meaning is not very useful.
+- Unlike 1♣ (X), there is no space for Transfer Walsh here.
+- Reuse 1♦ (X) 2♣ for Flannery because the rebidding problem persists.
 
 | 1♦ (X)   | - |
 |----------|---|
 | XX       | NF BAL G/T, 10+
 | 1M       | F, 7+, 4+#
 | 1NT!     | TRF, 7+, 5+♣
+| 2♣!      | ART, 5--11, 5+♠, 4+♥
 | 2♦       | PRE, 0--7, 4+♦
-| 2X       | PRE, 0--7, 6+#
+| 2M       | PRE, 0--7, 6+#
 | 2NT!     | TRF, PRE 7+♣ or FG 6+♣
 | 3♣!      | INV+ TRF, 4+♦
 | 3♦       | CONST, 8--10, 4+♦

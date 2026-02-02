@@ -14,11 +14,11 @@ As clubs are directly under diamonds, bidding after 1♦ (2♣) is pretty natura
 | 1♦ (2♣)  | - |
 |----------|---|
 | X!       | T/O, INV+
-| 2♦       | CONST, 3+♦
+| 2♦       | PRE, 4+♦
 | 2M       | NF, 5+#
 | 2NT      | NAT INV
 | 3♣!      | INV+, 4+♦
-| 3♦       | PRE, 4+♦
+| 3♦       | CONST, 4+♦
 | 3M       | FG, usually 6+#
 
 Competition with 1♦ (2M) models after [Rubinsohl](../../Rubinsohl.md).  The
@@ -31,8 +31,8 @@ Strawberry adjunct](../1C/COMP_2.md#strawberry-adjunct) applies here just like
 | X!       | OPT, INV+
 | 2♠       | NF, 5+♠
 | 2NT!     | TRF, 5+♣
-| 3♣!      | INV+, 3+♦
-| 3♦       | PRE, 4+♦
+| 3♣!      | INV+, 4+♦
+| 3♦       | NF, 4+♦
 | 3♥!      | FG, 5=OM
 | 3♥-3♠!   | Ask for stopper
 | 3♠!      | FG, 6+OM

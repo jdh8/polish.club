@@ -1,20 +1,13 @@
 # Competing at the 2-level
 
-Major-oriented transfer system competes well with (1NT).
+Bidding against 1♣♦ (1NT) is analogous to a weak notrump.  The agreement to
+borrow Landy 2♣ here is also called Landik.
 
 | 1♦ (1NT)  | - |
 |-----------|---|
-| X         | PEN, nearly BAL INV+
-| 2♣!       | TRF, 3+♦
-| 2♦!       | TRF, 5+♥
-| 2♥!       | TRF, 5+♠
-| 2♠!       | TRF, 5+♣
-| 2NT!      | TRF, PRE 7+♣ or FG 6+♣
-| 3♣!       | TRF, PRE 7+♦ or FG 6+♦
-| 3♦!       | TRF, PRE 7+♥ or FG 6+♥
-| 3♥!       | TRF, PRE 7+♠ or FG 6+♠
-| 3♠!       | Gambling, SOL 7+ suit with no stopper outside
-| 3NT!      | Gambling, SOL 7+ suit with one stopper outside
+| X         | PEN, INV+
+| 2♣!       | UNBAL, 4+♠, 4+♥
+| 2NT!      | UNBAL FG
 
 As clubs are directly under diamonds, bidding after 1♦ (2♣) is pretty natural.
 

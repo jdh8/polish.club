@@ -7,24 +7,14 @@ Competition at 1♣ (*) share properties of the following auctions:
 
 ## 1♣ (1NT)
 
-I recommend a transfer system below 3NT.  Since X frees up 2NT, 2NT and above
-become transfers (cf. Rubens advances).  Below 2NT, continuations to
-[1NT](../../1NT.md) form a major-oriented structure.  Such structure
-allows bidding a 5-card major regardless of strength.
+Bidding against 1♣♦ (1NT) is analogous to a weak notrump.  The agreement to
+borrow Landy 2♣ here is also called Landik.
 
 | 1♣ (1NT)  | - |
 |-----------|---|
-| X         | PEN, nearly BAL INV+
-| 2♣!       | (Garbage) STAY; INV 5=♠
-| 2♦!       | TRF, 5+♥
-| 2♥!       | TRF, 5+♠
-| 2♠!       | Minor suit Multi/STAY, 6+♦♣ or FG 4+♦ 4+♣
-| 2NT!      | TRF, PRE 7+♣ or FG 6+♣
-| 3♣!       | TRF, PRE 7+♦ or FG 6+♦
-| 3♦!       | TRF, PRE 7+♥ or FG 6+♥
-| 3♥!       | TRF, PRE 7+♠ or FG 6+♠
-| 3♠!       | Gambling, SOL 7+ suit with no stopper outside
-| 3NT!      | Gambling, SOL 7+ suit with one stopper outside
+| X         | PEN, INV+
+| 2♣!       | UNBAL, 4+♠, 4+♥
+| 2NT!      | UNBAL FG
 
 ## 1♣ (2♣)
 

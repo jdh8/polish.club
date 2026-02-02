@@ -46,7 +46,7 @@ to 3♣.
 | 1NT     | NAT, 8--10
 | 2X      | NF, 8--11, 5+#
 | 2YZ!    | TRF, 6+ next suit
-| 2♠!     | INV+ T/O, no biddable major suit
+| 2♠!     | INV+ T/O, no other suitable call
 | 2NT     | NAT INV, 10--11
 | 3X      | FG, 6+#
 | 3YZ     | INV+ TRF, 6+ next suit

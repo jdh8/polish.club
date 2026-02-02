@@ -12,26 +12,24 @@ instead.  Unlike 1♣ (X), there is no space for Transfer Walsh here.
 | XX       | NF BAL G/T, 10+
 | 1M       | F, 7+, 4+#
 | 1NT!     | TRF, 7+, 5+♣
-| 2♣!      | CONST+, 8+, 3+♦
-| 2♦       | PRE, 0--7, 3+♦
-| 2M       | PRE, 0--7, 6+#
+| 2♦       | PRE, 0--7, 4+♦
+| 2X       | PRE, 0--7, 6+#
 | 2NT!     | TRF, PRE 7+♣ or FG 6+♣
 | 3♣!      | INV+ TRF, 4+♦
-| 3♦       | PRE, 0--7, 4+♦
+| 3♦       | CONST, 8--10, 4+♦
 | 3M       | PRE, 7+#
 
 Spades below 3NT are transfer cuebids.
 
 | 1♦ (1M) | - |
 |---------|---|
-| 1NT     | NAT, 8--11
+| 1NT     | NAT, 8--10
 | 2♣      | NF, 8--11, 5+♣
-| 2♦      | NF, 5--9, 3+♦
-| 2♠!     | INV+, ask for stopper
-| 2NT     | NAT FG
-| 3♣!     | CONST, 7--9, 4+♦
-| 3♦      | PRE, 4--6, 4+♦
-| 3NT     | NAT S/T, 15--17
+| 2♦      | PRE, 0--7, 4+♦
+| 2♠!     | INV+ T/O, no other suitable call
+| 2NT     | NAT INV, 10--11
+| 3♣!     | INV+ TRF, 4+♦
+| 3♦      | CONST, 8--10, 4+♦
 | 4OM     | To play
 | 4M!     | S/T, ask for CTRL
 
@@ -43,7 +41,7 @@ Transfer Walsh only applies to 1♦ (1♥), the only 1-level red suit.
 | 1♠!     | TRF to 1NT, 8+
 | 2♥!     | TRF, 6+♠
 | 3♥!     | INV+ TRF, 6+♠
-| 3♠!     | S/T, 4+♦, about 15--17
+| 3♠!     | FG, 6+♣
 
 The whole bidding structure leans toward hearts over (1♠).  A well-known example
 is the negative double.

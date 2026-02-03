@@ -38,16 +38,22 @@
   - [BTU Stayman 2♣](1NT/2C.md)
   - [BTU transfers 2♦♥](1NT/2R.md)
   - [Competitive bidding](1NT/COMP_2.md)
+
+# Preempts
+
 - [Strawberry Ekren 2♣](2C.md)
 - [Multi 2♦](2D.md)
 - [Muiderberg 2M](2M.md)
 - [Unusual 2NT opening](2NT.md)
 - [BTU Namyats](4X.md)
 
-# Conventions
+# Competitive conventions
 
 - [Rubinsohl](Rubinsohl.md)
 - [BTU vs Unusual](BTUVU.md)
+
+# Slam bidding
+
 - [Slam bidding](Slam.md)
 - [Kickback RKCB 1430](Slam/Kickback_1430.md)
 

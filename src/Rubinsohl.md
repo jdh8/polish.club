@@ -6,8 +6,6 @@ convey conventional meanings.  I am generalizing onset conditions as follows:
 
 1. Partner has ever bid a non-pass.
 2. Moreover, the last non-pass is (2♦♥♠) by either opponent.
-3. There is no 2-level raise because partner has not yet shown a suit higher
-   than the overcall.
 
 If the last non-pass is an artificial call by partner, such as a takeout double,
 I recommend [Rumpelsohl](#rumpelsohl) instead.
@@ -57,7 +55,6 @@ modify the bidding structure for this subtle difference.
 
 1. The last bid is 2♦♥♠
 2. The last non-pass is an artificial call by partner.
-3. There is no 2-level raise.
 
 In this section, I list (2X) X as examples.  The meaning of each step varies
 with partner's call.  There are several reasons to invite with 2NT.

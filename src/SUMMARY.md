@@ -28,6 +28,7 @@
   - [Non-forcing 1NT](1H/1NT.md)
   - [Game-forcing 2♣♦](1H/2CD.md)
   - [Strawberry Stenberg 2NT](1H/2NT.md)
+  - [Competitive bidding](1H/COMP.md)
 - [Natural 1♠](1S.md)
   - [Semi-forcing 1NT](1S/1NT.md)
   - [Maggie 2♣](1S/2C.md)

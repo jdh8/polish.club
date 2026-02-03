@@ -15,8 +15,8 @@ notrump opening.  As for strength, I recommend 10--15 but 5--11 by passed hand.
 
 The aritificial bids correspond to similar preemptive openings.
 
-- (1NT) 2♣: [Ekren 2♣](../2C.md)
-- (1NT) 2NT: [Unusual notrump opening](../2NT.md)
+- (1NT)2♣: [Ekren 2♣](../2C.md)
+- (1NT)2NT: [Unusual notrump opening](../2NT.md)
 
 ## Woolsey double
 
@@ -28,7 +28,7 @@ Against strong notrump or by passed hand, play [Woolsey] double in any seat.
 |--------|--------------|
 | X!     | ART, 5+♦♣, 4+♠♥; UNBAL 16+
 
-| (1NT) X- | ART, 5+♦♣, 4+♠♥; UNBAL 16+ |
-|----------|----------------------------|
-| 2♣!      | P/C
-| 2♦!      | Ask for the major suit
+| (1NT)X- | ART, 5+♦♣, 4+♠♥; UNBAL 16+ |
+|---------|----------------------------|
+| 2♣!     | P/C
+| 2♦!     | Ask for the major suit

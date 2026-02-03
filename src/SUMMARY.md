@@ -61,9 +61,9 @@
 
 - [Suit variables](Defense/SuitVariables.md)
 - [Natural (1Y)](Defense/1Y.md)
-  - [(1Y) X](Defense/1Y/X.md)
-  - [(1Y) 1Z](Defense/1Y/1Z.md)
-  - [(1Y) 1NT](Defense/1Y/1NT.md)
+  - [(1Y)X](Defense/1Y/X.md)
+  - [(1Y)1Z](Defense/1Y/1Z.md)
+  - [(1Y)1NT](Defense/1Y/1NT.md)
   - [(1Y-1Z)](Defense/1Y/_1Z.md)
 - [Natural (1NT)](Defense/1NT.md)
 - [Natural (2X)](Defense/2X.md)

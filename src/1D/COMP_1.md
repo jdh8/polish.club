@@ -4,7 +4,7 @@ This part shares similarities with [the 1♣ opening](../1C/COMP_1.md).
 There are also differences since 1♦ shows a long suit that allows further
 preempts.
 
-- Like 1♣ (X), 1NT transfers to clubs as its natural meaning is not very useful.
+- Notrump transfers to clubs as its natural meaning is not very useful.
 - Unlike 1♣ (X), there is no space for Transfer Walsh here.
 - Reuse 1♦ (X) 2♣ for Flannery because the rebidding problem persists.
 

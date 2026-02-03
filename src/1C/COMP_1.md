@@ -10,12 +10,14 @@ by accepting the transfer.
 We treat 1♣ as a weak notrump more than a club opening.  Club support is not
 very effective.  We have a transfer scheme for all levels below 3NT.
 
-- **1♦♥♠:** Transfer to the next strain. The low-level cuebid of 1♠ lets opener
-  declare notrump.
-- **From 2Q to 3♥:** A weak or strong transfer of 6+ cards.
+- **1♦♥:** Transfer to the next strain, a major suit.
+- **1♠:** Transfer to diamonds for the assumed misfit.
+- **1NT:** Transfer to clubs for the assumed fit.
+- **2NT through 3♥:** A weak or strong transfer of 6+ cards.
 - **3♠:** Transfer Gambling 3NT.
 
-Natural 1NT is not very useful after a double.  Rebrand it as transfer.
+Notrump is cuebid as its natural meaning is not very useful after a double.
+Transfer structures start there à la Rubens.
 
 | 1♣ (X) | - |
 |--------|---|

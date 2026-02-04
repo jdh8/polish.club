@@ -1,6 +1,6 @@
 # Competitive bidding
 
-## 1NT (X)
+## 1NT(X)
 
 I suggest [Terrorist's runout][run] regardless of what (X) means.  This runout
 also applies to a conventional double, yet responder can also pass balanced

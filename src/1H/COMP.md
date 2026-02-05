@@ -1,5 +1,7 @@
 # Competitive bidding
 
+## At the 1-level
+
 Notrump becomes cuebid after a double.  We still need fit-showing jumps, so
 Truscott 2NT fits well.
 
@@ -36,6 +38,8 @@ bidding structure to BTU in 1999.
 | 4♣!    | FRAG, 3+♥, 0--1♠
 | 4♦!    | STR PRE, 4+♥
 | 4♥     | PRE, UNBAL 4+♥
+
+## At the 2-level
 
 I suggest bidding mostly naturally over 1♥(1NT), including 2♣.
 

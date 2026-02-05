@@ -21,6 +21,17 @@ As clubs are directly under diamonds, bidding after 1♦(2♣) is pretty natural
 | 3♦     | CONST, 4+♦
 | 3M     | FG, usually 6+#
 
+BTU vs Unusual handles 1♦(2♦) well.  The third cuebid 2NT shows tolerance in
+both minors.
+
+| 1♦(2♦) | Both majors |
+|--------|-------------|
+| X      | PEN for either major
+| 2♥!    | FG+, 5+♣
+| 2♠!    | INV+, 4+♦
+| 2NT!   | INV+, 3+♦, 4+♣
+| 3♥♠!   | Ask for stopper
+
 Competition with 1♦(2M) models after [Rubinsohl](../../Rubinsohl.md).  The
 forcing raise 3♣ and the preemptive raise 3♦ weaponize the diamond fit.  [The
 Strawberry adjunct](../1C/COMP_2.md#strawberry-adjunct) applies here just like

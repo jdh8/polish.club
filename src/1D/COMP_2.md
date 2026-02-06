@@ -32,10 +32,9 @@ both minors.
 | 2NT!   | INV+, 3+♦, 4+♣
 | 3♥♠!   | Ask for stopper
 
-Competition with 1♦(2M) models after [Rubinsohl](../../Rubinsohl.md).  The
-forcing raise 3♣ and the preemptive raise 3♦ weaponize the diamond fit.  [The
-Strawberry adjunct](../1C/COMP_2.md#strawberry-adjunct) applies here just like
-1♣(2M).
+Transfer Lebensohl follows 1♦(2M).  The forcing raise 3♣ and the preemptive
+raise 3♦ weaponize the diamond fit. FunBridge also inspires the Strawberry
+adjunct of 3♥♠.
 
 | 1♦(2M) | - |
 |--------|---|
@@ -47,3 +46,13 @@ Strawberry adjunct](../1C/COMP_2.md#strawberry-adjunct) applies here just like
 | 3♥!    | FG, 5=OM
 | 3♥-3♠! | Ask for stopper
 | 3♠!    | FG, 6+OM
+
+<figure>
+    <img src="funbridge-spec.png" alt="">
+    <figcaption>
+        The screenshot from
+        <a href="https://play.funbridge.com/settings/engine">
+            FunBridge game engine specifications (requires login)
+        </a>
+    </figcaption>
+</figure>

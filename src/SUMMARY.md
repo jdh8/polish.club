@@ -49,7 +49,6 @@
 
 # Competitive conventions
 
-- [Rubinsohl](Rubinsohl.md)
 - [BTU vs Unusual](BTUVU.md)
 
 # Slam bidding

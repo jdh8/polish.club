@@ -48,9 +48,6 @@ I suggest bidding mostly naturally over 1♥(1NT), including 2♣.
 | X       | PEN, INV+
 | 2NT!    | LIM 4+♥ or UNBAL FG
 
-Despite that 1♥(2♦) is eligible for Rubinsohl, natural 2NT is decent.  The
-transfer structure starts from the cuebid, à la Rubens.
-
 | 1♥(2♣♦) | - |
 |---------|---|
 | X       | T/O

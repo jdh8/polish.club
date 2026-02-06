@@ -1,13 +1,13 @@
 # Multi (2♦)
 
-I regard [Multi vs Multi][mvm] as a specialized version of Unusual vs Unusual.  X
-remains "penalizing" either suit but longer.  Cuebids are reordered and show
+I regard [Multi vs Multi][mvm] as a specialized version of Unusual vs Unusual.
+X remains "penalizing" either suit but longer.  Cuebids are reordered and show
 unbid (minor) suits.
 
 [mvm]: https://chrisryall.net/bridge/multi-v-multi-2d.htm
 
 | (2♦)  | PRE, 6+♠♥ |
-|-------|----------|
+|-------|-----------|
 | X!    | OPT: 12+, 5+♠♥; 15+, (41)44; 19+, 1--4♠, 1--4♥, 1--4♦, 1--4♣
 | 2♥!   | BAL, 16--18
 | 2♠!   | TRF, 14+, 5+♣

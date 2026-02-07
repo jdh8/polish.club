@@ -49,6 +49,7 @@
 
 # Competitive conventions
 
+- [Cuebids](Cuebids.md)
 - [BTU vs Unusual](BTUVU.md)
 
 # Slam bidding

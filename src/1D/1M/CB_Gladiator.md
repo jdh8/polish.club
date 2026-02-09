@@ -1,7 +1,7 @@
-# BTU 3-way checkback (XYZ)
+# Checkback Gladiator (XYZ variant)
 
-We use BTU-style 3-way checkback to an XYZ auction.  There are 3 artificial
-relays in the 3-way checkback:
+We use Checkback Gladiator to an XYZ auction.  There are 3 artificial
+relays in Checkback Gladiator:
 
 - **2♣:** several variants:
   - to play 2X
@@ -20,7 +20,7 @@ This is because invitations are prone to competition.
 | 1♦-1♥ 1♠- | 11--17, 4+♠ |
 |-----------|-------------|
 | 1NT       | MIN, 0--3♠, 4--5♥, 0--3♦
-| 2♣!       | BTU CB, F1
+| 2♣!       | CB Gladiator, F1
 | 2♦!       | FG CB
 | 2♥!       | INV, 5+♥
 | 2♠!       | INV, 4+♠
@@ -47,7 +47,7 @@ This is because invitations are prone to competition.
 The special game force here is mild balanced slam try (15--17), interested when
 opener bypasses 2♦.
 
-| 1♦-1♥ 1♠-2♣ | BTU CB |
+| 1♦-1♥ 1♠-2♣ | CB Gladiator |
 |-------------|--------|
 | 2♦          | (R) MIN
 | 2♥          | INV, 3=♥
@@ -105,7 +105,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 
 | 1♦-1♥ 1NT- | BAL MIN |
 |------------|---------|
-| 2♣!        | BTU CB, F1
+| 2♣!        | CB Gladiator, F1
 | 2♣ 2♦      | P/C
 | 2♣ 2♥      | MAX, 3=♥
 | 2♦!        | FG CB
@@ -133,7 +133,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 
 | 1♦-1♠ 1NT- | BAL MIN |
 |------------|---------|
-| 2♣!        | BTU CB, F1
+| 2♣!        | CB Gladiator, F1
 | 2♣ 2♦      | P/C
 | 2♣ 2♥      | MAX, 4+♥
 | 2♣ 2♠      | MAX, 3=♠

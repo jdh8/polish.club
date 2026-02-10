@@ -1,14 +1,12 @@
 # Positive 1NT, 2NT
 
 I group these suitless positive responses together for simplicity. These
-responses deny 4-card majors and 6-card minors.  I also list 1♣-3NT here as
-reference because it takes precedence over 1♣-2NT.
+responses deny 4-card majors and 6-card minors.
 
 | 1♣- | Strength | Distribution |
 |-----|----------|--------------|
 | 1NT |  8--10   | 2--3♠, 2--3♥, 2--5♦, 2--5♣
 | 2NT | 10--11   | 2--3♠, 2--3♥, 2--5♦, 2--5♣
-| 3NT | 12--15   | 33(43)
 
 ## 1♣-1NT {#1C-1NT}
 

@@ -13,19 +13,19 @@ responses deny 4-card majors and 6-card minors.
 I took the artificial 2♦ relay from [FunBridge](https://funbridge.com).  I found
 it better than most Polish Club literature.
 
-| 1♣-1NT | BAL 8--10 |
-|--------|-----------|
-| 2♣     | S/O, 12--14, 6+♣
-| 2♦!    | (R) INV+
-| 2M     | S/T, 18+, 5+#
-| 2NT    | INV, 14--15
-| 3♣     | S/T, 18+, 6+♣
-| 3♦     | S/T, 18+, 6+♦
-| 3M     | S/T, 18+, 7+#
-| 3NT    | S/O, 16+
-| 4♣♦    | S/T, SOL 7+#
+| 1♣-1NT- | BAL 8--10 |
+|---------|-----------|
+| 2♣      | S/O, 12--14, 6+♣
+| 2♦!     | (R) INV+
+| 2M      | S/T, 18+, 5+#
+| 2NT     | INV, 14--15
+| 3♣      | S/T, 18+, 6+♣
+| 3♦      | S/T, 18+, 6+♦
+| 3M      | S/T, 18+, 7+#
+| 3NT     | S/O, 16+
+| 4♣♦     | S/T, SOL 7+#
 
-| 1♣-1NT 2♦- | (R) INV+ |
+| 1♣-1NT-2♦- | (R) INV+ |
 |------------|----------|
 | 2♥!        | 5--6♣
 | 2♠!        | 5--6♦
@@ -38,9 +38,9 @@ it better than most Polish Club literature.
 
 ## 1♣-2NT {#1C-2NT}
 
-| 1♣-2NT | INV 10--11 |
-|--------|------------|
-| 3♣     | S/O, 12--13, 6+♣
-| 3♦!    | S/T, 18+, 0--4♠, 0--4♥
-| 3M     | S/T, 18+, 5+#
-| 3NT    | S/O
+| 1♣-2NT- | INV 10--11 |
+|---------|------------|
+| 3♣      | S/O, 12--13, 6+♣
+| 3♦!     | S/T, 18+, 0--4♠, 0--4♥
+| 3M      | S/T, 18+, 5+#
+| 3NT     | S/O

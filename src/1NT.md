@@ -25,18 +25,18 @@ of invitation with 5+ spades.
 
 ## Minor suit transfers
 
-| 1NT-2♠ | 6+♣; BAL INV; S/T, 5+♣, 4+♦ |
-|--------|-----------------------------|
-| 2NT    | MIN
-| 3♣!    | MAX, 1--3♣
-| 3♦♥♠!  | MAX, 4--6♣, good stopper
+| 1NT-2♠- | 6+♣; BAL INV; S/T, 5+♣, 4+♦ |
+|---------|-----------------------------|
+| 2NT     | MIN
+| 3♣!     | MAX, 1--3♣
+| 3♦♥♠!   | MAX, 4--6♣, good stopper
 
-| 1NT-2NT | 5+♦, 4+♣ or 6+♦ |
-|---------|-----------------|
-| 3♣!     | 1--2♦
-| 3♦      | 3--4♦
-| 3♥♠!    | 5--6♦, good stopper
-| 3NT!    | 5--6♦, good ♣ stopper
+| 1NT-2NT- | 5+♦, 4+♣ or 6+♦ |
+|----------|-----------------|
+| 3♣!      | 1--2♦
+| 3♦       | 3--4♦
+| 3♥♠!     | 5--6♦, good stopper
+| 3NT!     | 5--6♦, good ♣ stopper
 
 ## BTU QUANT scheme
 
@@ -44,16 +44,16 @@ BTU reuses 4♠ for QUANT.  This fills the blank that Gerber and Texas leave.
 Standard QUANT usually invites the upper 1/2 to 2/3 of the opening range.  This
 4♠ serves as a narrower QUANT than 4NT or 5NT by only inviting the top 1/3.
 
-| 1NT-4NT | QUANT INV to 6NT |
-|---------|------------------|
-| 6NT     | S/O, 16--17 HCP  |
+| 1NT-4NT- | QUANT INV to 6NT |
+|----------|------------------|
+| 6NT      | S/O, 16--17 HCP  |
 
-| 1NT-5NT | QUANT INV to 7NT |
-|---------|------------------|
-| 6NT     | S/O, 15 HCP      |
-| 7NT     | S/O, 16--17 HCP  |
+| 1NT-5NT- | QUANT INV to 7NT |
+|----------|------------------|
+| 6NT      | S/O, 15 HCP      |
+| 7NT      | S/O, 16--17 HCP  |
 
-| 1NT-4♠   | F QUANT |
+| 1NT-4♠-  | F QUANT |
 |----------|---------|
 | 4NT      | 15--16 HCP
 | 4NT-5NT! | F to a 5-card suit or 6NT

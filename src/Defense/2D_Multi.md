@@ -36,11 +36,11 @@ diamonds to ease slam exploration, especially for minor suit slams.
 | 4♣!    | STR choice of games
 | 4♦!    | PRE choice of games
 
-| (2♦)X-2NT | REV LEB |
-|-----------|---------|
-| 3♣!       | P/C, 12--14
-| 3♦!       | S/T, 18+
-| 3M        | NAT, 15--17, 5+#
+| (2♦)X-2NT- | REV LEB |
+|------------|---------|
+| 3♣!        | P/C, 12--14
+| 3♦!        | S/T, 18+
+| 3M         | NAT, 15--17, 5+#
 
 When RHO bids, X is penalty and usually short in the other major.  We play
 Rubinsohl here because we need to bid diamonds.  Please refrain from penalizing

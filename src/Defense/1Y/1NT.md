@@ -17,7 +17,7 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 | 2♣!      | (R), Gladiator
 | 2♦♥      | INV, 5+#
 | 2♠!      | STAY, INV+, 4=♥
-| 2♠ 3♠!   | COG, e.g. MAX 3433
+| 2♠-3♠!   | COG, e.g. MAX 3433
 | 2NT!     | NF INV, 5+♣
 | 3X       | FG, 5+#
 | 3♠!      | SPL, 0--1♠, 4=♥
@@ -25,13 +25,13 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 | 4♥       | S/O, 6+♥
 | 4♠!      | Leaping Michaels, 5+♦, 5+♣
 
-| (1♠)1NT-2♣ | Gladiator |
-|------------|-----------|
-| 2♦!        | P/C
-| 2♥!        | P/C, 5+♦
-| 2♠!        | MAX, 4=♥, 4+♦
+| (1♠)1NT-2♣- | Gladiator |
+|-------------|-----------|
+| 2♦!         | P/C
+| 2♥!         | P/C, 5+♦
+| 2♠!         | MAX, 4=♥, 4+♦
 
-| (1♠)1NT-2♣ 2♦- | P/C |
+| (1♠)1NT-2♣-2♦- | P/C |
 |----------------|-----|
 | P              | S/O, 5+♦
 | 2♥             | S/O, 5+♥
@@ -74,7 +74,7 @@ I have not yet come up with how we utilize the slow cuebid.
 | 2♣!      | (R), Gladiator
 | 2♦♠      | INV, 5+#
 | 2♥!      | STAY, INV+, 4=♠
-| 2♥ 3♥!   | COG, e.g. MAX 4333
+| 2♥-3♥!   | COG, e.g. MAX 4333
 | 2NT!     | NF INV, 5+♣
 | 3X       | FG, 5+#
 | 3♥!      | SPL, 0--1♥, 4=♠
@@ -88,7 +88,7 @@ I have not yet come up with how we utilize the slow cuebid.
 | 2♥!        | P/C, 5+♦
 | 2♠!        | P/C, MAX, 4=♠, 4+♦
 
-| (1♥)1NT-2♣ 2♦- | P/C |
+| (1♥)1NT-2♣-2♦- | P/C |
 |----------------|-----|
 | P              | S/O, 5+♦
 | 2♠!            | S/O, 5+♠

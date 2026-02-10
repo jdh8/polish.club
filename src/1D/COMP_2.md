@@ -32,9 +32,9 @@ both minors.
 | 2NT!   | INV+, 3+♦, 4+♣
 | 3♥♠!   | Ask for stopper
 
-Transfer Lebensohl follows 1♦(2M).  The forcing raise 3♣ and the preemptive
-raise 3♦ weaponize the diamond fit. FunBridge also inspires the Strawberry
-adjunct of 3♥♠.
+Rubinsohl follows 1♦(2M).  The forcing raise 3♣ and the preemptive raise 3♦
+weaponize the diamond fit. FunBridge also inspires the Strawberry adjunct of
+3♥♠.
 
 | 1♦(2M) | - |
 |--------|---|

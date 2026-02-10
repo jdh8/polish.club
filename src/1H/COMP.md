@@ -48,6 +48,9 @@ I suggest bidding mostly naturally over 1♥(1NT), including 2♣.
 | X       | PEN, INV+
 | 2NT!    | LIM 4+♥ or UNBAL FG
 
+Transfers à la Rubens applies over 1♥(2♣♦).  Note that 2NT is natural because we
+still have 2♥.
+
 | 1♥(2♣♦) | - |
 |---------|---|
 | X       | T/O
@@ -67,8 +70,8 @@ I suggest bidding mostly naturally over 1♥(1NT), including 2♣.
 | 3♣     | INV, 6+♣
 | 3♦!    | LIM+, 3+♥
 
-Transfer Lebensohl applies when opponents bid spades, the only suit higher than
-our hearts.
+Rubinsohl applies when opponents bid spades, the only suit higher than our
+hearts.
 
 | 1♥(2♠) | - |
 |--------|---|

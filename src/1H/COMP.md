@@ -66,3 +66,19 @@ I suggest bidding mostly naturally over 1♥(1NT), including 2♣.
 |--------|---|
 | 3♣     | INV, 6+♣
 | 3♦!    | LIM+, 3+♥
+
+Transfer Lebensohl applies when opponents bid spades, the only suit higher than
+our hearts.
+
+| 1♥(2♠) | - |
+|--------|---|
+| X!     | OPT, INV+
+| 2NT!   | TRF, 5+♣
+| 3♣!    | TRF, 5+♦
+| 3♦!    | INV+, 3+♥
+| 3♥     | COMP, 3+♥
+| 3♠!    | S/T, 3+♥ w/o ♠ CTRL
+| 3NT!   | COG, 3+♥ w/ ♠ A/K
+| 4♣!    | FRAG, 3+♥, 0--1♠
+| 4♦!    | STR PRE, 4+♥
+| 4♥     | PRE, UNBAL 4+♥

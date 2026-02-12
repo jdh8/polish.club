@@ -23,3 +23,29 @@ Natural defense suffices over 1♠(1NT).
 |---------|---|
 | X       | PEN, INV+
 | 2NT!    | LIM 4+♠ or UNBAL FG
+
+Transfers à la Rubens applies over 1♠(2♣♦♥).  Note that 2NT is natural because
+we still have 2♠.
+
+| 1♠(2X) | - |
+|--------|---|
+| X      | T/O
+| 2Y     | NF, 5+#
+| 2♠     | NF, 3+♠
+| 2NT    | NAT, 9--11
+| 3♥!    | LIM+, 3+♠
+| 3♠     | CONST, 4+♠
+
+| 1♠(2♣) | - |
+|--------|---|
+| 3♣!    | INV+, 6+♦
+| 3♦!    | INV+, 6+♥
+
+| 1♠(2♦) | - |
+|--------|---|
+| 3♣     | INV, 6+♣
+| 3♦!    | INV+, 6+♥
+
+| 1♠(2♥) | - |
+|--------|---|
+| 3♣♦    | INV, 6+#

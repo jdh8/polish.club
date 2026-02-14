@@ -49,3 +49,9 @@ we still have 2♠.
 | 1♠(2♥) | - |
 |--------|---|
 | 3♣♦    | INV, 6+#
+
+Doubling the cuebid is penalty oriented and lead directing.
+
+| 1♠(2♠) | - |
+|--------|---|
+| X      | PEN, INV+

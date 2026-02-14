@@ -55,3 +55,15 @@ Doubling the cuebid is penalty oriented and lead directing.
 | 1♠(2♠) | - |
 |--------|---|
 | X      | PEN, INV+
+
+If the only known suit from (2♠) is hearts, plain Rubens suffices.  X and 2NT
+somehow switch roles.
+
+| 1♠(2♠) | ♥ (+ unknown suit) |
+|--------|--------------------|
+| 2NT!   | NF T/O
+| 3♣♦    | INV, 6+#
+| 3♥!    | LIM+, 3+♠
+| 3♠     | COMP, 3+♠
+
+If (2♠) shows two known suits, [BTU vs Unusual](../BTUVU.md) applies.

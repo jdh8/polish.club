@@ -61,11 +61,12 @@ encourages leading from a side suit.
 |--------|---|
 | X      | PEN, INV+
 
-If the only known suit from (2♥) is spades, plain Rubens suffices.
+If the only known suit from (2♥) is spades, plain Rubens suffices.  X and 2NT
+somehow switch roles.
 
 | 1♥(2♥) | ♠ (+ unknown suit) |
 |--------|--------------------|
 | 2♠!    | TRF, 5+♣
-| 2NT    | NAT INV
+| 2NT!   | NF T/O
 
 If (2♥) shows two known suits, [BTU vs Unusual](../BTUVU.md) applies.

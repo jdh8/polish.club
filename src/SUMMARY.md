@@ -20,7 +20,7 @@
   - [Natural 1M](1D/1M.md)
     - [Checkback Gladiator](1D/1M/CB_Gladiator.md)
   - [Game-forcing 2♣](1D/2C.md)
-  - [Flannery 2♥](1D/2H.md)
+  - [Flannery 2M](1D/2M.md)
   - [Competing at the 1-level](1D/COMP_1.md)
   - [Competing at the 2-level](1D/COMP_2.md)
 - [Natural 1♥](1H.md)

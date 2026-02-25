@@ -11,7 +11,9 @@ responses deny 4-card majors and 6-card minors.
 ## 1♣-1NT {#1C-1NT}
 
 I took the artificial 2♦ relay from [FunBridge](https://funbridge.com).  I found
-it better than most Polish Club literature.
+it better than most Polish Club literature.  I also swap steps for minor suits
+for consistency with the bidding system.  Clubs probably indicates a fit, so it
+deserves the higher step.
 
 | 1♣-1NT- | BAL 8--10 |
 |---------|-----------|

@@ -1,6 +1,6 @@
 # Positive 1NT, 2NT
 
-I group these suitless positive responses together for simplicity. These
+I group these positive notrump responses together for simplicity. These
 responses deny 4-card majors and 6-card minors.
 
 | 1♣- | Strength | Distribution |
@@ -27,13 +27,13 @@ it better than most Polish Club literature.
 
 | 1♣-1NT-2♦- | (R) INV+ |
 |------------|----------|
-| 2♥!        | 5--6♣
-| 2♠!        | 5--6♦
+| 2♥!        | 5--6♦
+| 2♠!        | 5--6♣
 | 2NT        | MIN, 2--4♦, 2--4♣
 | 3♣!        | MAX, 2245
 | 3♦!        | MAX, 2254
-| 3♥!        | MAX, 6=♣
-| 3♠!        | MAX, 6=♦
+| 3♥!        | MAX, 6=♦
+| 3♠!        | MAX, 6=♣
 | 3NT        | MAX, 2--4♦, 2--4♣
 
 ## 1♣-2NT {#1C-2NT}

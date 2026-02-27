@@ -28,6 +28,9 @@ after the 1NT opening: Stayman takes care of invitation with 5+ spades.
 |---------|-----------------------------|
 | 2NT     | MIN
 | 3♣!     | MAX, 1--3♣
+| 3♣-3♦!  | (R), FG
+| 3♣-3♥♠! | SPL, 0--1#
+| 3♣-3NT! | S/T, 5+♣, 4+♦
 | 3♦♥♠!   | MAX, 4--6♣, good stopper
 
 | 1NT-2NT- | 5+♦, 4+♣ or 6+♦ |
@@ -36,6 +39,19 @@ after the 1NT opening: Stayman takes care of invitation with 5+ spades.
 | 3♦       | 3--4♦
 | 3♥♠!     | 5--6♦, good stopper
 | 3NT!     | 5--6♦, good ♣ stopper
+
+## Puppet Stayman at 3♣
+
+| 1NT-3♣- | FG PUP STAY |
+|---------|-------------|
+| 3♦!     | 4=♠ or 4=♥
+| 3♦-3♥!  | Smolen TRF, 4=♠
+| 3♦-3♠!  | Smolen TRF, 4=♥
+| 3♦-3NT  | S/O
+| 3♦-4♣!  | S/T, 44(xx)
+| 3♦-4♦!  | COG, 44(xx)
+| 3♥♠     | 5=#
+| 3NT     | 2--3♠, 2--3♥
 
 ## BTU QUANT scheme
 

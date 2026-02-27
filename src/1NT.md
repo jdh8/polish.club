@@ -1,17 +1,16 @@
 # BTU 1NT
 
-This bidding system has a strong notrump opening that does not contain a 5-card
-major.  We use the BTU continuations after the 1NT opening: Stayman takes care
-of invitation with 5+ spades.
+This bidding system has a strong notrump opening.  We use the BTU continuations
+after the 1NT opening: Stayman takes care of invitation with 5+ spades.
 
 | 1NT- | BAL 15--17 |
 |------|------------|
-| 2♣!  | (Garbage) STAY; INV 5=♠
+| 2♣!  | (Garbage) STAY or INV 5=♠
 | 2♦!  | TRF, 5+♥
 | 2♥!  | TRF, 5+♠
 | 2♠!  | 6+♣; BAL INV; S/T, 5+ 4+ minors
 | 2NT! | 5+♦, 4+♣ or 6+♦
-| 3♣!  | INV, 6+♣, KQxxxx or better, usually 6--7 HCP
+| 3♣!  | FG PUP STAY
 | 3♦!  | INV+, 5+♠, 5+♥
 | 3♥!  | SPL, 0--1♥, 0--3♠, 4--6♦, 4--6♣
 | 3♠!  | SPL, 0--1♠, 0--3♥, 4--6♦, 4--6♣

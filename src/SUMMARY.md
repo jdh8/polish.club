@@ -36,7 +36,7 @@
   - [Game-forcing 2♦♥](1S/2R.md)
   - [Strawberry Stenberg 2NT](1S/2NT.md)
   - [Competitive bidding](1S/COMP_2.md)
-- [BTU 1NT](1NT.md)
+- [Natural 1NT](1NT.md)
   - [BTU Stayman 2♣](1NT/2C.md)
   - [BTU transfers 2♦♥](1NT/2R.md)
   - [Competitive bidding](1NT/COMP_2.md)

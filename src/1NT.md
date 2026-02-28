@@ -1,7 +1,15 @@
-# BTU 1NT
+# Natural 1NT
 
-This bidding system has a strong notrump opening.  We use the BTU continuations
-after the 1NT opening: Stayman takes care of invitation with 5+ spades.
+This bidding system has a natural notrump opening.  This opening can be made
+with a 5-card major.  All the possible distributions are:
+
+- 2--4♠, 2--4♥, 2--5♦, 2--5♣
+- 5M(332)
+- 6m(322)
+
+BTU Stayman 2♣ not only asks for a 4-card major but also takes care of
+invitational 5= spades.  Puppet Stayman 3♣ forces to game and queries 5 and
+4-card majors.
 
 | 1NT- | BAL 15--17 |
 |------|------------|
@@ -21,6 +29,23 @@ after the 1NT opening: Stayman takes care of invitation with 5+ spades.
 | 4♠!  | F QUANT
 | 4NT  | QUANT INV to 6NT, NF
 | 5NT  | QUANT INV to 7NT, F
+
+## Picking the better Stayman
+
+Both Staymans come into range when responder has game-forcing values.
+
+- **5+ 4+ majors:** Stayman 2♣ wins via subsequent Smolen transfers.
+- **4&minus; 3&minus; majors:** Only Puppet Stayman 3♣ finds 5-3 fits.
+- **Balanced 4-4 majors:** The lower 2♣ allows playing 3NT if opener is (4333).
+- **Unbalanced 4-4 majors:** Anything goes.
+
+## Discussion on bidding 5-5 majors
+
+- **Weak:**  Transfer to the better major suit.  Give up on the other one.
+- **Invitational:**  Bid 3♦.
+- **Choice of games:**  Bid 3♦ most of the time.  Transfer to spades and then
+  bid 4♥ if you prefer 4♠ > 4♥ > 3NT.
+- **Slam try:**  Transfer to spades and then bid 3♥.
 
 ## Minor suit transfers
 
@@ -73,11 +98,3 @@ Standard QUANT usually invites the upper 1/2 to 2/3 of the opening range.  This
 | 4NT-5NT! | F to a 5-card suit or 6NT
 | 4NT-7♣!  | P/C to a 5-card suit or 7NT
 | 6NT      | 17 HCP
-
-## Discussion on bidding 5-5 majors
-
-- **Weak:**  Transfer to the better major suit.  Give up on the other one.
-- **Invitational:**  Bid 3♦.
-- **Choice of games:**  Bid 3♦ most of the time.  Transfer to spades and then
-  bid 4♥ if you prefer 4♠ > 4♥ > 3NT.
-- **Slam try:**  Transfer to spades and then bid 3♥.

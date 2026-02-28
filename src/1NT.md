@@ -8,7 +8,7 @@ after the 1NT opening: Stayman takes care of invitation with 5+ spades.
 | 2♣!  | (Garbage) STAY or INV 5=♠
 | 2♦!  | TRF, 5+♥
 | 2♥!  | TRF, 5+♠
-| 2♠!  | 6+♣; BAL INV; S/T, 5+ 4+ minors
+| 2♠!  | 6+♣ or BAL INV
 | 2NT! | 5+♦, 4+♣ or 6+♦
 | 3♣!  | FG PUP STAY
 | 3♦!  | INV+, 5+♠, 5+♥
@@ -24,13 +24,12 @@ after the 1NT opening: Stayman takes care of invitation with 5+ spades.
 
 ## Minor suit transfers
 
-| 1NT-2♠- | 6+♣; BAL INV; S/T, 5+♣, 4+♦ |
-|---------|-----------------------------|
+| 1NT-2♠- | 6+♣ or BAL INV |
+|---------|----------------|
 | 2NT     | MIN
 | 3♣!     | MAX, 1--3♣
-| 3♣-3♦!  | (R), FG
+| 3♣-3♦!  | Ask for 5-card major
 | 3♣-3♥♠! | SPL, 0--1#
-| 3♣-3NT! | S/T, 5+♣, 4+♦
 | 3♦♥♠!   | MAX, 4--6♣, good stopper
 
 | 1NT-2NT- | 5+♦, 4+♣ or 6+♦ |

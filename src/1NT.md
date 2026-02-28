@@ -1,6 +1,6 @@
-# Natural 1NT
+# Strong 1NT
 
-This bidding system has a natural notrump opening.  This opening can be made
+This bidding system has a strong notrump opening.  This opening can be made
 with a 5-card major.  All the possible distributions are:
 
 - 2--4♠, 2--4♥, 2--5♦, 2--5♣

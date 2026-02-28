@@ -8,10 +8,10 @@ Opener's reverses promise extra strength.
 | 2♦!    | 4+♦ or BAL MIN
 | 2♥     | MIN, not BAL
 | 2♠     | MAX, 4+♠
-| 2NT    | BAL MAX
+| 2NT!   | MAX, 6=♥, ≤ ♥AJ9
 | 3♣     | MAX, 4+♣
 | 3♦     | MAX, 5+♦
-| 3♥     | MAX, 6+♥
+| 3♥     | MAX, 6+♥, AJT+ or 7+♥
 | 3♠     | MIN, 5+♠, 6+♥
 | 3NT    | MIN, 5=♥, 1--2♣
 
@@ -20,9 +20,9 @@ Opener's reverses promise extra strength.
 | 2♥     | MIN
 | 2♥-3NT | COG, ♥xx
 | 2♠     | MAX, 4+♠
-| 2NT    | BAL MAX
+| 2NT!   | MAX, 6=♥, ≤ ♥AJ9
 | 3♣     | MAX, 4+♣
 | 3♦     | MAX, 4+♦
-| 3♥     | MAX, 6+♥
+| 3♥     | MAX, 6+♥, AJT+ or 7+♥
 | 3♠     | MIN, 5+♠, 6+♥
 | 3NT    | MIN, 5=♥, 1--2♣

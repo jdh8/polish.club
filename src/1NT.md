@@ -48,8 +48,8 @@ Both Staymans come into range when responder has game-forcing values.
 
 ## Minor suit transfers
 
-| 1NT-2♠- | 6+♣ or BAL INV |
-|---------|----------------|
+| 1NT-2♠- | 6+♣ or QUANT INV |
+|---------|------------------|
 | 2NT     | MIN
 | 3♣!     | MAX, 1--3♣
 | 3♣-3♦!  | FG PUP STAY

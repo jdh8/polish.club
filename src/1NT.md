@@ -1,11 +1,19 @@
 # Strong 1NT
 
-This bidding system has a strong notrump opening.  This opening can be made
-with a 5-card major.  All the possible distributions are:
+This bidding system has a strong notrump opening.  In contrast to *Polish Club 2020*,
+this opening allows a 5-card major or a 6-card minor.  All the possible
+distributions are:
 
 - 2--4♠, 2--4♥, 2--5♦, 2--5♣
 - 5M(332)
 - 6m(322)
+
+Inclusive opening of 1NT solves rebidding problems:
+
+- Exactly 15 HCP, slightly too weak for a reverse/jump
+- Failure to reverse (especially a red suit) in competition
+- Awful rebidding to 1♥-1♠
+- Tricky rebidding to 1♥♠-1NT
 
 BTU Stayman 2♣ not only asks for a 4-card major but also takes care of
 invitational 5= spades.  Puppet Stayman 3♣ forces to game and queries 5 and

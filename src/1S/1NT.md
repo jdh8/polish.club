@@ -35,10 +35,10 @@ The threshold of suit quality is based on [Binky Points][binky]:
 >  AQTxxx   0.99   0.65
 > ```
 >
-> ---[`holdings.new.txt`](https://bridge.thomasoandrews.com/valuations/data/holdings.new.txt),
+> ---[`holdings.new.txt`](https://bridge.thomasoandrews.com/bridge/valuations/data/holdings.new.txt),
 > Binky Points computed by Thomas Andrews in 2008
 
-[binky]: https://bridge.thomasoandrews.com/valuations/additive.html
+[binky]: https://bridge.thomasoandrews.com/bridge/valuations/additive.html
 
 ## Precision 2NT
 

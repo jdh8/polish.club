@@ -18,7 +18,7 @@ Opener is free to pass 1♥-1NT with a balanced minimum.  The best major fit at
 Just like [1♠-1NT](../1S/1NT.md), the threshold of suit quality is based on
 [Binky Points][binky].
 
-[binky]: https://bridge.thomasoandrews.com/valuations/additive.html
+[binky]: https://bridge.thomasoandrews.com/bridge/valuations/additive.html
 
 ## Impossible spades
 

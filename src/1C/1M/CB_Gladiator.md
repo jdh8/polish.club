@@ -49,7 +49,7 @@ The special game force here is mild balanced slam try (15--17), interested when
 opener bypasses 2♦.
 
 | 1♣-1♥-1♠-2♣- | CB Gladiator |
-|--------------|--------|
+|--------------|--------------|
 | 2♦!          | P/C, 11--16
 | 2♥           | INV, 3=♥
 | 2♠           | FG, 5+♠, 0--2♥
@@ -66,8 +66,8 @@ opener bypasses 2♦.
 | 2♥              | UNBAL MIN, 5+♥
 | 2♠              | MIN, 4+♠
 | 2NT             | BAL INV
-| 3♣              | INV, 6+♣
-| 3♦              | INV, 6+♦
+| 3♣              | INV, 5+♣, 5+♥
+| 3♦              | INV, 5+♦, 5+♥
 | 3♥              | INV, S-SOL 6+♥
 | 3♠              | INV, 4+♠, 5+♥
 | 3NT             | BAL 15--17
@@ -128,8 +128,8 @@ helps concealing declarer's distribution most of the time.
 | 2♥               | S/O, 5+♥
 | 2♠               | INV, 4+♠, 6+♥
 | 2NT              | BAL INV
-| 3♣               | INV, 6+♣
-| 3♦               | INV, 6+♦
+| 3♣               | INV, 5+♣, 5+♥
+| 3♦               | INV, 5+♦, 5+♥
 | 3♥               | INV, S-SOL 6+♥
 | 3NT              | COG, 5♥(332)
 
@@ -159,8 +159,8 @@ helps concealing declarer's distribution most of the time.
 | 2♥               | INV, 5+♥, 5+♠
 | 2♠               | S/O, 5+♠
 | 2NT              | BAL INV
-| 3♣               | INV, 6+♣
-| 3♦               | INV, 6+♦
+| 3♣               | INV, 5+♣, 5+♠
+| 3♦               | INV, 5+♦, 5+♠
 | 3♥               | INV, 4+♥, 6+♠
 | 3♠               | INV, S-SOL 6+♠
 | 3NT              | COG, 5(332)

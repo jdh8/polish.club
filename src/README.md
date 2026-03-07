@@ -64,10 +64,10 @@ A notable example is the 1♣ opening in [Strawberry Polish Club](Openings.md).
 - Krzysztof Jassem & Tomek Brus.  *Polish Club 2020: Expert*.  ISBN 978-1771402248
 - Krzysztof Jassem & Tomek Brus.  *Polish Club 2020: Standard*.  ISBN 978-1771402231
 - Krzysztof Jassem.
-  [Wspólny Język 2020 Standard](https://jassem.pl/wp-content/uploads/2019/12/wj2020-25-59.pdf)
+  [Wspólny Język 2020 Standard](https://web.archive.org/web/20260129184409/https://jassem.pl/wp-content/uploads/2019/12/wj2020-25-59.pdf)
 - Piotr Cegielski.
   [Wspólny Język DUCE](https://iccs.pl/wp-content/uploads/2020/11/Wspolny-Jezyk-DUCE-wersja-Q1.2021.pdf)
 - Krzysztof Jassem.
-  [Polish Club International 2010](https://jassem.pl/wp-content/uploads/2016/08/Polish_Club-2010.html)
+  [Polish Club International 2010](https://web.archive.org/web/20240302061840/https://jassem.pl/wp-content/uploads/2016/08/Polish_Club-2010.html)
 - Krzysztof Jassem.
   [Wspólny Język 2005 (Polish Standard)](https://par.cse.nsysu.edu.tw/~kbc/class/Polish_Club/WJ2005Full_original.pdf)

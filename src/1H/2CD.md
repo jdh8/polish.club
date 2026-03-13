@@ -12,7 +12,7 @@ Unpassed 2/1 is 100% game-forcing.  Opener's reverses promise extra strength.
 | 3♦     | MAX, 5+♦
 | 3♥     | MAX, 6+♥
 | 3♠     | MIN, 5+♠, 6+♥
-| 3NT!   | MIN, 6+♥, but 6.0--6.5 NLTC
+| 3NT!   | MIN, 6+♥, ≤ 6.5 NLTC
 
 | 1♥-2♦  | NAT FG |
 |--------|--------|
@@ -24,4 +24,4 @@ Unpassed 2/1 is 100% game-forcing.  Opener's reverses promise extra strength.
 | 3♦     | 4+♦
 | 3♥     | MAX, 6+♥
 | 3♠     | MIN, 5+♠, 6+♥
-| 3NT!   | MIN, 6+♥, but 6.0--6.5 NLTC
+| 3NT!   | MIN, 6+♥, ≤ 6.5 NLTC

@@ -7,9 +7,9 @@ principle, the fix is to move RKCB down to 4X+1.  Sometimes, this treatment
 conflicts with an existing natural 4Y.  I propose the following algorithm to
 resolve where RKCB is.
 
-1. Try interpreting 4♥♠ as natural and non-forcing.
-2. Above 4X, the lowest remaining step 4Y becomes RKCB.
-3. If Y is a suit, 4NT **denies** controls in that suit.
+1. Do not use RKCB for minor suits.  Use Turbo 4NT or even 4♣♦ instead.
+2. With a heart fit, only use 4♠ as RKCB when it cannot be interpreted as
+   natural and non-forcing.  Otherwise, use 4NT as RKCB.
 
 - **Key cards** are the 4 aces and the trump king.
 - The 10th trump equates to the trump queen.
@@ -89,10 +89,4 @@ side kings.
 > ---[Kit Woolsey, 2017](https://bridgewinners.com/article/view/kickback-and-1430/#c509117),
 > "Kickback and 1430" on Bridge Winners
 
-I choose 1430 over 0314 right after reading the analysis above.
-
-- 4♦{RKCB in ♣} 4♠-4NT
-- 4♥{RKCB in ♦} 4NT-5♣
-
-The only case we need to use 4NT for the queen ask is 4♦{RKCB in ♣} 4♠-4NT.
-That is far less common than bypassing natural 4♥♠ for RKCB.
+I choose 1430 because I only use RKCB for major suits.

@@ -15,6 +15,7 @@
   - [Swapped 2♣♦](1C/2CD.md)
   - [Flannery 2♥](1C/2H.md)
   - [Competing at the 1-level](1C/COMP_1.md)
+    - [Opener's rebids](1C/COMP_1_opener.md)
   - [Competing at the 2-level](1C/COMP_2.md)
 - [Natural 1♦](1D.md)
   - [Natural 1M](1D/1M.md)

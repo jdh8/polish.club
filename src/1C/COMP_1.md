@@ -64,4 +64,4 @@ is the negative double.
 | 3♥     | INV, 6+♥
 | 3♠!    | FG, 6+♥
 
-Opener's rebids are covered in [a separate chapter](COMP_1_opener.md).
+Opener's rebids are covered in [a separate chapter](COMP_1/Opener.md).

@@ -1,23 +1,23 @@
 # Competing at the 1-level
 
-The design of the responses already bears competitive bidding in mind.  We
-somehow ignore the meaning of overcalls to deal with artificial and psychic
-bids.  We reorder major suit bids with Transfer Walsh to get a "support double"
-by accepting the transfer.
+*Polish Club 2020* already incorporates Transfer Walsh at the 1-level.  One
+obvious advantage is that we get a "support double" by completing the transfer
+even without intervention. I decide to generalize it to all non-jump responses
+to end the debate between standard and negative free bids.
+
+- 1♦ or (1♦)X: transfer, 4+♥
+- 1♥ or (1♥)X: transfer, 4+♠
+- 1♠: transfer to 1NT, partly ask for stopper
+- 2♣: transfer, 5+♦
+- 2♠: transfer, 5+♣
+
+We somehow ignore the meaning of overcalls to deal with artificial and psychic
+bids.  If we need to keep the bidding open, the nebulous 1♠ gets the job done.
 
 ## Over a double
 
-We treat 1♣ as a weak notrump more than a club opening.  Club support is not
-very effective.  We have a transfer scheme for all levels below 3NT.
-
-- **1♦♥:** Transfer to the next strain, a major suit.
-- **1♠:** Transfer to diamonds for the assumed misfit.
-- **1NT:** Transfer to clubs for the assumed fit.
-- **2NT through 3♥:** A weak or strong transfer of 6+ cards.
-- **3♠:** Transfer Gambling 3NT.
-
-Notrump is cuebid as its natural meaning is not very useful after a double.
-Transfer structures start there à la Rubens.
+Natural notrump is not very useful after a double, so let's also use them for
+transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 | 1♣(X) | - |
 |-------|---|
@@ -35,33 +35,54 @@ Transfer structures start there à la Rubens.
 | 3♠!   | Gambling, SOL 7+ suit with no stopper outside
 | 3NT!  | Gambling, SOL 7+ suit with one stopper outside
 
-## Over a suit
+## Over (1♦)
 
-Bidding clubs here is more important than (X) because we often need to compete
-to 3♣.
+Transferring to diamonds is not very useful, so 2♣ falls back to a single raise.
+The jump cuebid remains a preempt as an anti-psychic measure.
 
-| 1♣(1Y) | - |
+| 1♣(1♦) | - |
 |--------|---|
-| X!     | TRF, 7+, 4+ next suit
+| X!     | TRF, 7+, 4+♥
 | 1♥!    | TRF, 7+, 4+♠
-| 1♠!    | TRF to 1NT, 8+, 0--3♠, 0--3♥
+| 1♠!    | TRF to 1NT, 8+
 | 1NT    | NAT, 8--10
-| 2X     | NF, 8--11, 5+#
-| 2YZ!   | TRF, 6+ next suit
-| 2♠!    | INV+ T/O, no other suitable call
+| 2♣     | NF, 5--10, 5+♣
+| 2♦!    | TRF, 10+, 5+♥
+| 2♠!    | TRF, 10+, 5+♣
 | 2NT    | NAT INV, 10--11
-| 3X     | FG, 6+#
-| 3YZ    | INV+ TRF, 6+ next suit
-| 3♠!    | Gambling, SOL 7+ suit w/o stopper
+| 3♣     | PRE, 6+♣
+| 3♦♥♠   | PRE, 7+#
 
-The whole bidding structure leans toward hearts over (1♠).  A well-known example
-is the negative double.
+## Over (1♥)
+
+Transferring to hearts is not very useful, so 2♦ falls back to a negative free
+bid.
+
+| 1♣(1♥) | - |
+|--------|---|
+| X!     | TRF, 7+, 4+♠
+| 1♠!    | TRF to 1NT, 8+
+| 1NT    | NAT, 8--10
+| 2♣!    | TRF, 10+, 5+♦
+| 2♦     | NF, 5--10, 6+♦
+| 2♠!    | TRF, 10+, 5+♣
+| 2NT    | NAT INV, 10--11
+| 3♣     | PRE, 6+♣
+| 3♦♥♠   | PRE, 7+#
+
+## Over (1♠)
+
+Transferring to spades is not very useful, so 2♥ falls back to a negative free
+bid.
 
 | 1♣(1♠) | - |
 |--------|---|
-| X!     | TRF, 7+, 4+♥
-| 2♥     | NF, usually 6+♥
-| 3♥     | INV, 6+♥
-| 3♠!    | FG, 6+♥
-
-Opener's rebids are covered in [a separate chapter](COMP_1/Opener.md).
+| X!     | NEG, 7+, 4--5♥
+| 1NT    | NAT, 8--10
+| 2♣!    | TRF, 10+, 5+♦
+| 2♦!    | TRF, 10+, 5+♥
+| 2♥     | NF, 5--10, usually 6+♥
+| 2♠!    | TRF, 10+, 5+♣
+| 2NT    | NAT INV, 10--11
+| 3♣     | PRE, 6+♣
+| 3♦♥♠   | PRE, 7+#

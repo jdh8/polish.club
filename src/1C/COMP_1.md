@@ -38,7 +38,6 @@ transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 ## Over (1♦)
 
 Transferring to diamonds is not very useful, so 2♣ falls back to a single raise.
-The jump cuebid remains a preempt as an anti-psychic measure.
 
 | 1♣(1♦) | - |
 |--------|---|
@@ -51,7 +50,9 @@ The jump cuebid remains a preempt as an anti-psychic measure.
 | 2♠!    | TRF, 10+, 5+♣
 | 2NT    | NAT INV, 10--11
 | 3♣     | PRE, 6+♣
-| 3♦♥♠   | PRE, 7+#
+| 3♦!    | TRF, PRE 7+♥ or FG 6+♥
+| 3♥!    | TRF, PRE 7+♠ or FG 6+♠
+| 3♠!    | Gambling, SOL 7+ suit without stopper
 
 ## Over (1♥)
 
@@ -68,7 +69,9 @@ bid.
 | 2♠!    | TRF, 10+, 5+♣
 | 2NT    | NAT INV, 10--11
 | 3♣     | PRE, 6+♣
-| 3♦♥♠   | PRE, 7+#
+| 3♦     | PRE, 7+♦
+| 3♥!    | TRF, PRE 7+♠ or FG 6+♠
+| 3♠!    | Gambling, SOL 7+ suit without stopper
 
 ## Over (1♠)
 
@@ -85,4 +88,5 @@ bid.
 | 2♠!    | TRF, 10+, 5+♣
 | 2NT    | NAT INV, 10--11
 | 3♣     | PRE, 6+♣
-| 3♦♥♠   | PRE, 7+#
+| 3♦♥    | PRE, 7+#
+| 3♠!    | Gambling, SOL 7+ suit without stopper

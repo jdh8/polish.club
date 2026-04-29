@@ -14,7 +14,7 @@ to end the debate between standard and negative free bids.
 We somehow ignore the meaning of overcalls to deal with artificial and psychic
 bids.  If we need to keep the bidding open, the nebulous 1♠ gets the job done.
 
-## Over a double
+## Over (X)
 
 Natural notrump is not very useful after a double, so let's also use them for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
@@ -80,7 +80,7 @@ bid.
 
 | 1♣(1♠) | - |
 |--------|---|
-| X!     | NEG, 7+, 4--5♥
+| X!     | NEG, 7+, 4--5♥ or BAL FG
 | 1NT    | NAT, 8--10
 | 2♣!    | TRF, 10+, 5+♦
 | 2♦!    | TRF, 10+, 5+♥

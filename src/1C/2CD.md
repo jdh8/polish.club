@@ -1,17 +1,17 @@
 # Swapped 2♣♦
 
 The positive responses 2♣♦ show 5+ cards in the other minor suit.  They are
-game-forcing by unpassed hand like 2/1.  This method helps finding minor suit
+game-forcing by an unpassed hand, like 2/1.  This method helps find minor suit
 slams.  I spell out the minor suits because there is a subtle difference between
-them. Finding a big fit in clubs is easier because opener can have minimum long
+them. Finding a big fit in clubs is easier because opener can have a minimum hand with long
 clubs.
 
 Opener reverses with extra values to utilize higher steps to send information.
 This avoids an awkward situation Bridge World calls "two temporizers and zero
 describers."  Deviating from *Polish Club 2020: Expert*, I define 1♣-2♣♦-2♥♠ as
 reverses.  This bidding structure separates 15--17 from the other ranges.  I
-believe this treatment helps finding the best contract.  When we only have a
-game, we want to play in a major suit despite of a better minor fit. However, we
+believe this treatment helps find the best contract.  When we only have a
+game, we want to play in a major suit despite a better minor fit. However, we
 play the best fit in a slam to maximize our chances, especially at IMPs.
 
 | 1♣-2♣- | FG, 5+♦ |
@@ -37,6 +37,6 @@ play the best fit in a slam to maximize our chances, especially at IMPs.
 | 3♠     | S/T, 15+, 4+♠, 4+♣
 | 3NT!   | COG, 15--17, 4+♣
 
-I make 1♣-2♣♦-3NT so because otherwise it would be hard to show these hands.
+I use 1♣-2♣♦-3NT because otherwise these hands would be hard to show.
 Grouping 11--14 and 18+ together is usually OK because 18+ can explore slams
 unilaterally.

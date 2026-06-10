@@ -1,6 +1,6 @@
 # Competitive bidding
 
-Notrump becomes cuebid after a double.  We still need fit-showing jumps, so
+Notrump becomes a cuebid after a double.  We still need fit-showing jumps, so
 Truscott 2NT fits well.
 
 | 1♠(X) | - |
@@ -24,7 +24,7 @@ Natural defense suffices over 1♠(1NT).
 | X       | PEN, INV+
 | 2NT!    | LIM 4+♠ or UNBAL FG
 
-Transfers à la Rubens applies over 1♠(2♣♦♥).  Note that 2NT is natural because
+Transfers à la Rubens apply over 1♠(2♣♦♥).  Note that 2NT is natural because
 we still have 2♠.
 
 | 1♠(2X) | - |
@@ -57,7 +57,7 @@ Doubling the cuebid is penalty oriented and lead directing.
 | X      | PEN, INV+
 
 If the only known suit from (2♠) is hearts, plain Rubens suffices.  X and 2NT
-somehow switch roles.
+switch roles.
 
 | 1♠(2♠) | ♥ (+ unknown suit) |
 |--------|--------------------|

@@ -1,15 +1,15 @@
 # BTU vs Unusual
 
-When opponents have bid two suits, optimists take the opportunity of gaining two
+When opponents have bid two suits, optimists take the opportunity to gain two
 cuebids!  When opponents have shown two anchor suits, it's time for Unusual vs
 Unusual.
 
 ## The third cuebid
 
-This is one key difference between BTU vs Unusual and literature.  The BTU
+This is one key difference between BTU vs Unusual and the literature.  The BTU
 variation uses the lowest **three** bids from the following list:
 
-- The cuebids, the bids that name an adverse suit
+- The cuebids, the bids that name an opponent suit
 - 2NT or 4NT
 
 Let me provide some examples for clarity.
@@ -24,8 +24,8 @@ Let me provide some examples for clarity.
 | (1♦) 1♥ (X = ♠)   | 1♠, 2♦, 2♠   |
 
 The BTU v U bids are abbreviated as **Q1, Q2, Q3** to facilitate discussion.  If
-the cuebid is 4NT or above, I recommend that it start another slam try
-convention (e.g. RKCB, Turbo) as per partnership discussion.
+the cuebid is 4NT or above, I recommend that it start another slam-try
+convention (e.g. RKCB, Turbo), subject to partnership agreement.
 
 ## We have one anchor suit
 

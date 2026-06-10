@@ -1,7 +1,7 @@
 # Competing at the 1-level
 
 This part shares similarities with [the 1♣ opening](../1C/COMP_1.md).
-There are also differences since 1♦ shows a long suit that allows further
+There are also differences because 1♦ shows a long suit that allows further
 preempts.
 
 ## Over (X)

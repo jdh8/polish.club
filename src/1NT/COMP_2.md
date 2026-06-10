@@ -27,8 +27,8 @@ Opener often runs with clubs because it is hard for responder to do so.
 ## 1NT(2♣) {#1NT(2C)}
 
 *Systems on* is a decent approach over 1NT(2♣︎).  The overcall is somewhat
-ignored, and X replaces the stolen bid of 2♣.  Since continuations to 1NT is
-major suit oriented, it is crucial if (2♣) shows a major suit.
+ignored, and X replaces the stolen bid of 2♣.  Since continuations over 1NT are
+major-suit oriented, it matters whether (2♣) shows a major suit.
 
 ### (2♣) shows both majors
 

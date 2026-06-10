@@ -62,7 +62,7 @@ encourages leading from a side suit.
 | X      | PEN, INV+
 
 If the only known suit from (2♥) is spades, plain Rubens suffices.  X and 2NT
-somehow switch roles.
+switch roles.
 
 | 1♥(2♥) | ♠ (+ unknown suit) |
 |--------|--------------------|

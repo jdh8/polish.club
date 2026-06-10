@@ -9,7 +9,7 @@ borrow Landy 2♣ here is also called Landik.
 | 2♣!     | UNBAL, 4+♠, 4+♥
 | 2NT!    | UNBAL FG
 
-As clubs are directly under diamonds, bidding after 1♦(2♣) is pretty natural.
+With clubs directly below diamonds, bidding after 1♦(2♣) is pretty natural.
 
 | 1♦(2♣) | - |
 |--------|---|
@@ -33,7 +33,7 @@ both minors.
 | 3♥♠!   | Ask for stopper
 
 Rubinsohl follows 1♦(2M).  The forcing raise 3♣ and the preemptive raise 3♦
-weaponize the diamond fit. FunBridge also inspires the Strawberry adjunct of
+weaponize the diamond fit. FunBridge also inspired the Strawberry adjunct of
 3♥♠.
 
 | 1♦(2M) | - |
@@ -50,7 +50,7 @@ weaponize the diamond fit. FunBridge also inspires the Strawberry adjunct of
 <figure>
     <img src="funbridge-spec.png" alt="">
     <figcaption>
-        The screenshot from
+        Screenshot from
         <a href="https://play.funbridge.com/settings/engine">
             FunBridge game engine specifications (requires login)
         </a>

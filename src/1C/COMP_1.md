@@ -2,7 +2,7 @@
 
 *Polish Club 2020* already incorporates Transfer Walsh at the 1-level.  One
 obvious advantage is that we get a "support double" by completing the transfer
-even without intervention. I decide to generalize it to all non-jump responses
+even without intervention. I generalize it to all non-jump responses
 to end the debate between standard and negative free bids.
 
 - 1♦ or (1♦)X: transfer, 4+♥
@@ -16,7 +16,7 @@ bids.  If we need to keep the bidding open, the nebulous 1♠ gets the job done.
 
 ## Over (X)
 
-Natural notrump is not very useful after a double, so let's also use them for
+Natural notrump is not very useful after a double, so let's also use it for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 | 1♣(X) | - |

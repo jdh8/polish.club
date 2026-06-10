@@ -55,9 +55,9 @@ Ignore the (2♣) overcall.  X replaces the Stayman 2♣ as usual.
 
 ## 1NT(2♦♥♠)
 
-**Rubinsohl** covers these auctions.  Similar to Rubens advances, the transfer
-structure helps saving bidding space. Showing the suit faster also helps
-competition.
+**Rubinsohl** covers these auctions.  As with Rubens advances, transfer
+structure saves bidding space.  Showing the suit quickly also improves
+competitive accuracy.
 
 | 1NT(2♦) | - |
 |---------|---|
@@ -79,7 +79,8 @@ competition.
 | 3♥!     | INV+ TRF to 3♠
 | 3♠!     | FG TRF to 3NT or 4♣
 
-Swap 3♥♠ against (2♠) like [Larry Cohen][larryco] to avoid declaring hearts.
+Against (2♠), swap 3♥ and 3♠ as in [Larry Cohen][larryco] to avoid declaring
+hearts.
 
 [larryco]: https://www.larryco.com/bridge-articles/transfer-lebensohl
 

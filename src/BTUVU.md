@@ -23,9 +23,9 @@ Let me provide some examples for clarity.
 | (1♦-1♠)           | 2♦, 2♠, 2NT  |
 | (1♦) 1♥ (X = ♠)   | 1♠, 2♦, 2♠   |
 
-The BTU v U bids are abbreviated as **Q1, Q2, Q3** to facilitate discussion.  If
-the cuebid is 4NT or above, I recommend that it start another slam-try
-convention (e.g. RKCB, Turbo), subject to partnership agreement.
+To keep discussion simple, I abbreviate these BTU v U bids as **Q1, Q2, Q3**.
+If a cuebid is 4NT or higher, I recommend treating it as the start of another
+slam-try convention (e.g. RKCB, Turbo), subject to partnership agreement.
 
 ## We have one anchor suit
 

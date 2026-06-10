@@ -33,8 +33,8 @@ both minors.
 | 3♥♠!   | Ask for stopper
 
 Rubinsohl follows 1♦(2M).  The forcing raise 3♣ and the preemptive raise 3♦
-weaponize the diamond fit. FunBridge also inspired the Strawberry adjunct of
-3♥♠.
+put immediate pressure on the opponents with the diamond fit.  FunBridge also
+inspired the Strawberry add-on of 3♥♠.
 
 | 1♦(2M) | - |
 |--------|---|

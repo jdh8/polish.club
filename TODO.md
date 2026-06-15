@@ -17,10 +17,6 @@ Dead-end artificial calls from the discovery audit. Feed to
 - [ ] `1♣ competitive — responder's transfers` · src/1C/COMP_1.md
 - [ ] `1♣ competitive — Landik`                · src/1C/COMP_2.md
 
-## polish.club — drafted this session, review & commit (not skill work)
-- [ ] `1♣-1♦-1NT-3♦!`  · src/1C/1D.md · 5-5 majors (18--20 clone)
-- [ ] `1♠-2♦-2♥-2♠`    · src/1S/2R.md · ♣-stopper ask
-
 ## Decide first — real gap or intentional leaf? (bridge judgment)
 - `1♣-3♦!`              · src/1C.md · BAL FG, 12--15
 - `1♣-2♠!`, `1♣-3♣!`    · src/1C.md · INV, 6+ minor

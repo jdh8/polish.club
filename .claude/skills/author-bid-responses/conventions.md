@@ -74,6 +74,12 @@ it in words rather than inventing an abbreviation.
 Methods (HCP, Total points, Fifths, BUM-RAP, NLTC) and stopper definitions live
 in `src/README.md` — read it rather than relying on a copy here.
 
+## Fit-promised calls need little authoring
+
+**Fit-promised calls** (e.g. a control slam try in an agreed major) aren't
+dead-ends — the fallback is always fleeing to the 8+ fit. A one-line gloss
+suffices; don't author an exhaustive continuation.
+
 ## Design principles (`NOTES.md`)
 
 - **Useful space** — give the cheapest steps to the hands that most need room to

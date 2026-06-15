@@ -23,31 +23,33 @@ Just like [1♠-1NT](../1S/1NT.md), the threshold of suit quality is based on
 ## Impossible spades
 
 Spades that responder rebids must be artificial because 1NT already denies
-spades.  The impossible 2♠ asks for a stopper in spades before subsequent
-invitations. Direct invitations are otherwise indifferent to quality in spades.
+spades.  The impossible 2♠ is the invitational raise of opener's last suit —
+clubs after 2♣, diamonds after 2♦, hearts after 2♥ — forcing for one round, so
+opener accepts game with a maximum or signs off in three of the suit.  The
+direct three-level raise is the weaker, to-play version.
 
 | 1♥-1NT-2♣- | NF, 3+♣ |
 |------------|---------|
 | 2♦         | NF, 5+♦
 | 2♥         | NF, usually 2--3♥
-| 2♠!        | Ask for ♠ stopper
+| 2♠!        | INV, 4+♣
 | 2NT        | BAL INV
-| 3♣         | INV, 4+♣
+| 3♣         | NF, 4+♣
 | 3♦         | INV, 6+♦
 | 3♥         | INV, 3=♥
 
 | 1♥-1NT-2♦- | NF, 4+♦ |
 |------------|---------|
 | 2♥         | NF, usually 2--3♥
-| 2♠!        | Ask for ♠ stopper
+| 2♠!        | INV, 4+♦
 | 2NT        | BAL INV
 | 3♣         | INV, 6+♣
-| 3♦         | INV, 4+♦
+| 3♦         | NF, 4+♦
 | 3♥         | INV, 3=♥
 
 | 1♥-1NT-2♥- | NF, 6+♥ |
 |------------|---------|
-| 2♠!        | Ask for ♠ stopper
+| 2♠!        | INV, 2+♥
 | 2NT        | BAL INV
 | 3♣♦        | INV, 6+#
-| 3♥         | INV, 2+♥
+| 3♥         | NF, 3+♥

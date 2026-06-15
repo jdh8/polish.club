@@ -54,6 +54,20 @@ Both Staymans come into range when responder has game-forcing values.
   bid 4♥ if you prefer 4♠ > 4♥ > 3NT.
 - **Slam try:**  Transfer to spades and then bid 3♥.
 
+Opener picks the major, declining game at the three level or accepting at the
+four level.  With a maximum and a doubleton in each major (e.g. 22(54)), opener
+picks 3NT instead:
+
+| 1NT-3♦- | INV+, 5+♠, 5+♥ |
+|---------|----------------|
+| 3♥      | MIN, prefers ♥
+| 3♠      | MIN, prefers ♠
+| 3NT     | MAX, dislikes both majors
+| 4♥      | MAX, prefers ♥
+| 4♠      | MAX, prefers ♠
+
+A choice-of-games responder raises opener's three-level pick to game.
+
 ## Minor suit transfers
 
 | 1NT-2♠- | 6+♣ or QUANT INV |

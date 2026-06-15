@@ -18,7 +18,6 @@ Dead-end artificial calls from the discovery audit. Feed to
 - [ ] `1♣ competitive — Landik`                · src/1C/COMP_2.md
 
 ## polish.club — drafted this session, review & commit (not skill work)
-- [ ] `1NT-3♦!`        · src/1NT.md   · 5-5 majors, opener picks the major
 - [ ] `1♣-1♦-1NT-3♦!`  · src/1C/1D.md · 5-5 majors (18--20 clone)
 - [ ] `1♠-2♦-2♥-2♠`    · src/1S/2R.md · ♣-stopper ask
 

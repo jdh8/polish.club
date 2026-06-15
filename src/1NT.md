@@ -56,15 +56,18 @@ Both Staymans come into range when responder has game-forcing values.
 
 Opener picks the major, declining game at the three level or accepting at the
 four level.  With a maximum and a doubleton in each major (e.g. 22(54)), opener
-picks 3NT instead:
+picks 3NT instead.  With a maximum and slam interest, opener control-bids 4♣ or
+4♦ rather than jumping straight to game:
 
 | 1NT-3♦- | INV+, 5+♠, 5+♥ |
 |---------|----------------|
 | 3♥      | MIN, prefers ♥
 | 3♠      | MIN, prefers ♠
 | 3NT     | MAX, dislikes both majors
-| 4♥      | MAX, prefers ♥
-| 4♠      | MAX, prefers ♠
+| 4♣!     | MAX, S/T in ♥, CTRL
+| 4♦!     | MAX, S/T in ♠, CTRL
+| 4♥      | MAX, prefers ♥, S/O
+| 4♠      | MAX, prefers ♠, S/O
 
 A choice-of-games responder raises opener's three-level pick to game.
 

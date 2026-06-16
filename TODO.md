@@ -4,7 +4,7 @@ Dead-end artificial calls from the discovery audit. Feed to
 `/author-bid-responses` one at a time; it locates the call and drafts the table.
 
 ## polish.club — to do
-- [ ] `1♠-1NT-2NT-3♦!` · src/1S/1NT.md · FG, 6+♦ or 5--6♥ (two-way; opener clarifies)
+- [x] `1♠-1NT-2NT` · src/1S/1NT.md · natural sign-offs + 3♣ ask for 3+♥
 - [ ] `1♣-1♥-2♠!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
 - [ ] `1♣-1♠-3♥!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
 - [ ] `(2M)-3M!`       · src/Defense/2X.md     · ask for stopper (right-side NT)

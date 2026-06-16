@@ -15,7 +15,7 @@ Dead-end artificial calls from the discovery audit. Feed to
 - [ ] `1♦(2M)-3♥-3♠!`  · src/1D/COMP_2.md      · ask for stopper
 - [ ] `(1NT)X-2♦!`     · src/Defense/1NT.md    · Woolsey — doubler names the major
 - [ ] `1♣ competitive — responder's transfers` · src/1C/COMP_1.md
-- [ ] `1♣ competitive — Landik`                · src/1C/COMP_2.md
+- [x] `1♣ competitive — Landik`                · src/1C/COMP_2.md · Landy advances
 
 ## Decide first — real gap or intentional leaf? (bridge judgment)
 - `1♣-3♦!`              · src/1C.md · BAL FG, 12--15

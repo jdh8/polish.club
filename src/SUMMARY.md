@@ -70,5 +70,6 @@
   - [(1Y)1NT](Defense/1Y/1NT.md)
   - [(1Y)2Y](Defense/1Y/2Y.md)
 - [Natural (1NT)](Defense/1NT.md)
+  - [(1NT)2♣ Landy](Defense/1NT/2C.md)
 - [Natural (2X)](Defense/2X.md)
 - [Multi (2♦)](Defense/2D_Multi.md)

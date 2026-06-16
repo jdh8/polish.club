@@ -9,6 +9,8 @@ borrow Landy 2♣ here is also called Landik.
 | 2♣!     | UNBAL, 4+♠, 4+♥
 | 2NT!    | UNBAL FG
 
+After 2♣, advance as in the [Landy defense to 1NT](../Defense/1NT/2C.md).
+
 With clubs directly below diamonds, bidding after 1♦(2♣) is pretty natural.
 
 | 1♦(2♣) | - |

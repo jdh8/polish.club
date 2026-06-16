@@ -13,10 +13,7 @@ notrump opening.  As for strength, I recommend 10--15 but 5--11 by passed hand.
 | 2♦♥♠   | NAT, 5+#
 | 2NT!   | UNT, 5+♦, 5+♣
 
-The aritificial bids correspond to similar preemptive openings.
-
-- (1NT)2♣: [Ekren 2♣](../2C.md)
-- (1NT)2NT: [Unusual notrump opening](../2NT.md)
+The unusual (1NT)2NT is the same as our [unusual notrump opening](../2NT.md).
 
 ## Woolsey double
 

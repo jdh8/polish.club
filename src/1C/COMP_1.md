@@ -65,7 +65,8 @@ Transferring to diamonds is not very useful, so 2♣ falls back to a single rais
 | 1♠!    | TRF to 1NT, 8+
 | 1NT    | NAT, 8--10
 | 2♣     | NF, 5--10, 5+♣
-| 2♦!    | TRF, 10+, 5+♥
+| 2♦!    | TRF, 6+♥
+| 2♥!    | TRF, 6+♠
 | 2♠!    | TRF, 10+, 5+♣
 | 2NT    | NAT INV, 10--11
 | 3♣     | PRE, 6+♣
@@ -90,6 +91,7 @@ bid.
 | 1NT    | NAT, 8--10
 | 2♣!    | TRF, 10+, 5+♦
 | 2♦     | NF, 5--10, 6+♦
+| 2♥!    | TRF, 6+♠
 | 2♠!    | TRF, 10+, 5+♣
 | 2NT    | NAT INV, 10--11
 | 3♣     | PRE, 6+♣

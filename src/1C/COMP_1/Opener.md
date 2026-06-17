@@ -45,6 +45,27 @@ No overcall suit means no cuebid, so the whole 1♣-1M structure is available.
 | 4♦!        | SPL, 0--1♦, 4+♠
 | 4♥!        | SPL, 0--1♥, 4+♠
 
+| 1♣(X)-1♠!- | TRF, 5+♦ |
+|------------|----------|
+| 1NT        | BAL, right-sides NT
+| 2♣         | NAT, 5+♣
+| 2♦         | ♦ support, 3+♦
+| 2♥         | NAT, 4+♥
+| 2♠         | NAT, 4+♠
+| 2NT        | FG, ♦ support
+| 3♦         | ♦ support, INV+
+| 3NT        | S/O
+
+| 1♣(X)-1NT!- | TRF, 5+♣ |
+|-------------|----------|
+| 2♣          | ♣ support, completes
+| 2♦          | NAT, 4+♦
+| 2♥          | NAT, 4+♥
+| 2♠          | NAT, 4+♠
+| 2NT         | BAL, right-sides NT
+| 3♣          | ♣ support, INV+
+| 3NT         | S/O
+
 ## Over (1♦)
 
 Opener passes X! to defend with real diamonds, so there is no natural 3♦.  The
@@ -88,6 +109,14 @@ stopper, and the cue above Odwrotka, 3♦, asks for one.
 | 4♦!         | SPL, 0--1♦, 4+♠
 | 4♥!         | SPL, 0--1♥, 4+♠
 
+| 1♣(1♦)-1♠!- | TRF to 1NT, 8+ |
+|-------------|----------------|
+| 1NT         | completes, ♦ stop
+| 2♣          | NAT, 5+♣, no ♦ stop
+| 2♦!         | CUE, FG, asks for a ♦ stopper
+| 2NT         | 18+, ♦ stop
+| 3NT         | S/O
+
 ## Over (1♥)
 
 Opener passes X! to defend with real hearts.  The rebids mirror 1♣-1♠, except 2♥,
@@ -112,3 +141,12 @@ Odwrotka 2♦ already does; 1NT promises a heart stopper.
 | 4♣!        | SPL, 0--1♣, 4+♠
 | 4♦!        | SPL, 0--1♦, 4+♠
 | 4♥!        | SPL, 0--1♥, 4+♠
+
+| 1♣(1♥)-1♠!- | TRF to 1NT, 8+ |
+|-------------|----------------|
+| 1NT         | completes, ♥ stop
+| 2♣          | NAT, 5+♣, no ♥ stop
+| 2♦          | NAT, 5+♦, no ♥ stop
+| 2♥!         | CUE, FG, asks for a ♥ stopper
+| 2NT         | 18+, ♥ stop
+| 3NT         | S/O

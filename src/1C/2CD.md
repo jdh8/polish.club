@@ -9,16 +9,17 @@ clubs.
 Opener reverses with extra values to utilize higher steps to send information.
 This avoids an awkward situation Bridge World calls "two temporizers and zero
 describers."  Deviating from *Polish Club 2020: Expert*, I define 1♣-2♣♦-2♥♠ as
-reverses.  This bidding structure separates 15--17 from the other ranges.  I
-believe this treatment helps find the best contract.  When we only have a
-game, we want to play in a major suit despite a better minor fit. However, we
-play the best fit in a slam to maximize our chances, especially at IMPs.
+reverses.  These major rebids start at 17, while the higher steps still describe
+intermediate club hands.  I believe this treatment helps find the best
+contract.  When we only have a game, we want to play in a major suit despite
+a better minor fit. However, we play the best fit in a slam to maximize our
+chances, especially at IMPs.
 
 | 1♣-2♣- | FG, 5+♦ |
 |--------|---------|
 | 2♦!    | NAT, 11--14 or 18+, 4+♦
-| 2♥     | S/T, 18+, 5+♥
-| 2♠     | S/T, 18+, 5+♠
+| 2♥     | S/T, 17+, 5+♥
+| 2♠     | S/T, 17+, 5+♠
 | 2NT    | NAT, 12--14 or 18+
 | 3♣     | NAT, 11--14 or 18+, 6+♣
 | 3♦     | S/T, 15+, 3+♦
@@ -28,8 +29,8 @@ play the best fit in a slam to maximize our chances, especially at IMPs.
 
 | 1♣-2♦- | FG, 5+♣ |
 |--------|---------|
-| 2♥     | S/T, 18+, 5+♥
-| 2♠     | S/T, 18+, 5+♠
+| 2♥     | S/T, 17+, 5+♥
+| 2♠     | S/T, 17+, 5+♠
 | 2NT    | NAT, 12--14 or 18+
 | 3♣     | NAT, 11--14 or 18+, 4+♣
 | 3♦     | S/T, 18+, 6+♦

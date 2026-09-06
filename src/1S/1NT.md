@@ -3,15 +3,17 @@
 The best hands in 1NT are invitations with 3=♠ or 6+♥.  Opener only passes when
 rejecting both invitations, preferably minimum 5233.
 
-| 1♠-1NT | Usually 7--11, 0--3♠ |
+The usual response range applies in every seat, with judgment exceptions below 8.
+
+| 1♠-1NT | Usually 8--11, 0--3♠ |
 |--------|----------------------|
-| 2♣     | 11--17, 2+♣
-| 2♦     | 11--17, 4+♦
+| 2♣     | 11--16, 2+♣
+| 2♦     | 11--16, 4+♦
 | 2♥     | 11--15, 4+♥
 | 2♠     | 11--14, 6+♠
-| 2NT!   | 15--17, 6=♠, ≤ ♠AJ9
-| 3♣♦♥   | 15--17, 5+#
-| 3♠     | 15--17, 6+♠, AJT+ or 7+♠
+| 2NT!   | 15--16, 6=♠, ≤ ♠AJ9
+| 3♣♦♥   | 15--16, 5+#
+| 3♠     | 15--16, 6+♠, AJT+ or 7+♠
 | 3NT!   | Gambling, 7+♠ AKQ, no outside A/K
 
 If you wish to invite with 4=♥, you are on the wrong path.  You should have
@@ -46,7 +48,7 @@ The invitational 2NT from Precision shows 6 cards in the bid major.  However, I
 had a hard time finding its continuations.  Therefore, I came up with the following
 responses to find better games, especially 4♥.
 
-| 1♠-1NT-2NT- | 15--17, 6=♠ |
+| 1♠-1NT-2NT- | 15--16, 6=♠ |
 |-------------|-------------|
 | 3♣!         | PUP
 | 3♦!         | FG, 6+♦ or 5--6♥

@@ -25,7 +25,7 @@ Let me provide some examples for clarity.
 
 To keep discussion simple, I abbreviate these BTU v U bids as **Q1, Q2, Q3**.
 If a cuebid is 4NT or higher, I recommend treating it as the start of another
-slam-try convention (e.g. RKCB, Turbo), subject to partnership agreement.
+slam-try convention (e.g. RKCB or Turbo), subject to partnership agreement.
 
 ## We have one anchor suit
 

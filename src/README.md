@@ -27,23 +27,31 @@ I evaluate stopper quality as [GIB] does.
 
 - **Partial stop:** length + HCP = 4
 - **Likely stop:** length + HCP = 5
-- **Stop:** A, QJx, or length + HCP at least 7
+- **Stop:** A or QJx or length + HCP at least 7
 - **Two stops:** length + HCP at least 8
 
 [GIB]: https://www.bridgebase.com/doc/gib_descriptions.php
 
-## Punctuations
+## Punctuation
 
 Descriptions in bidding tables are dense in information.  To make them concise,
-I use [abbreviations suggested by WBF][abbr].  Besides, for natural reading
-flow, I use usual punctuation marks to connect conditions.  Their meanings are
-usually self-explanatory in a bidding table.
+I use [abbreviations suggested by WBF][abbr] in tables and words in paragraphs.
+Familiar convention names such as RKCB stay abbreviated in paragraphs too.
+Strength ranges and suit lengths keep their compact notation.
 
 [abbr]: http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
-- **The comma (,)** works as **AND**.
-- **The semicolon (;)** works as **OR**.
-- **The colon (:)** follows general description of the call.
+- **All conditions:** write `A and B` or `A, B`; for longer lists, write
+  `A, B, and C` or `A, B, C`.  For example, `INV, 9--11, 6+♣`.
+- **Alternatives:** write every `or` explicitly: `A or B or C`.
+- **Grouping:** use parentheses when mixing conditions and alternatives.
+  `NAT, (11--14 or 18+), 4+♦` requires natural diamonds with either strength
+  range.  `(11--16, 3=♥) or (17, 4=♠, 3=♥)` describes two cases.
+- **Long alternatives:** keep separate lines, with an explicit `or` between
+  alternatives.  Colons and semicolons have their ordinary punctuation meanings.
+
+Parentheses within shapes such as `33(43)` still identify suits whose lengths
+may swap order.  Compact suit notation and the `(R)` relay tag are unchanged.
 
 A notable example is the [1♣ opening](Openings.md).
 

@@ -8,7 +8,7 @@ unbid (minor) suits.
 
 | (2♦)  | PRE, 6+♠♥ |
 |-------|-----------|
-| X!    | OPT: 12+, 5+♠♥; 15+, (41)44; 19+, 1--4♠, 1--4♥, 1--4♦, 1--4♣
+| X!    | OPT, showing either:<br>(12+, 5+♠♥)<br>or (15+, (41)44)<br>or (19+, 1--4♠, 1--4♥, 1--4♦, 1--4♣)
 | 2♥!   | BAL, 16--18
 | 2♠!   | TRF, 14+, 5+♣
 | 2NT!  | TRF, 14+, 5+♦
@@ -24,7 +24,7 @@ The non-forcing Herbert negative step serves as an escape.
 Here I recommend a modified version of Rumpelsohl.  Frequently pass 2♦x with 4+
 diamonds to ease slam exploration, especially for minor suit slams.
 
-| (2♦)X- | OPT: either major or 19+ |
+| (2♦)X- | OPT, (either major or 19+) |
 |--------|--------------------------|
 | 2M!    | P/C
 | 2NT!   | INV+, REV LEB
@@ -42,9 +42,9 @@ diamonds to ease slam exploration, especially for minor suit slams.
 | 3♦!        | S/T, 18+
 | 3M         | NAT, 15--17, 5+#
 
-When RHO bids, X is penalty and usually short in the other major.  We play
-Rubinsohl here because we need to bid diamonds.  Please refrain from penalizing
-with length in both major suits.  It is usually better to make our own contract
+When the right-hand opponent bids, X is penalty and usually short in the other
+major.  We play Rubinsohl here because we need to bid diamonds.  Please refrain
+from penalizing with length in both major suits.  It is usually better to make our own contract
 than setting their doubled partscore.
 
 | (2♦)X(2M) | P/C |
@@ -78,7 +78,7 @@ Rumpelsohl at 2♥x.
 |---------|------------|
 | P       | S/O, 4+♥
 | 2♠      | S/O, 4+♠
-| 2NT     | LEB, 3+♣ or STAY
+| 2NT     | LEB, (3+♣ or STAY)
 | 3♣!     | TRF, 5+♦
 | 3♦!     | TRF, INV+, 5+♥
 | 3♥!     | TRF, INV+, 5+♠

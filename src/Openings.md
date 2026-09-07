@@ -7,18 +7,18 @@ major.  This method makes 1♣-1♦-3m limited enough (21--23) for their level.
 Additionally, for 5--6♠ 4=♥ around 15--16 points, open [Ekren 2♣](2C.md).
 This adjunct limits 1♠-1NT-2♥.
 
-Unbalanced 17s that would otherwise open 1♥, 1♠, or strong Ekren 2♣ open 1♣.
+Unbalanced 17s that would otherwise open 1♥ or 1♠ or strong Ekren 2♣ open 1♣.
 Balanced 17s remain in 1NT, and diamond opening selection is unchanged.
 Strength ranges allow room for hand judgment.
 
 |  -   |   |
 |------|---|
-| 1♣!  | F, Polish Club:<br>12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣;<br>11--16, 5+♣ or 4414;<br>17+, unsuitable for 1♦ and 1NT
-| 1♦   | 11--20, 5+♦ or UNBAL 4=♦ 1--5♣
+| 1♣!  | F, Polish Club, showing either:<br>(12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣)<br>or (11--16, (5+♣ or 4414))<br>or (17+, unsuitable for 1♦ and 1NT)
+| 1♦   | 11--20, (5+♦ or (UNBAL, 4=♦, 1--5♣))
 | 1♥   | 11--16, 5+♥
 | 1♠   | 11--16, 5+♠
 | 1NT  | BAL 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣
-| 2♣!  | PRE, 4--10, 4+♠, 4+♥, not 44(32) if VUL;<br>STR, 15--16, 5--6♠, 4=♥
+| 2♣!  | (PRE, 4--10, 4+♠, 4+♥, not 44(32) if VUL)<br>or (STR, 15--16, 5--6♠, 4=♥)
 | 2♦!  | PRE, 4--10, 6+♠♥
 | 2M!  | PRE, 4--10, 5=#, 4+♦♣
 | 2NT! | UNT, 4--10, 5+♦, 5+♣

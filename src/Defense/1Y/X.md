@@ -9,7 +9,7 @@ separate paths to suit games by strength and by length.
 | 1Z    | NAT NEG, 0--7, usually 4+#
 | 1NT   | CONST, 8--10
 | 2X    | NAT NEG, 0--9, usually 4+#
-| 2Y!   | RESP; INV 4= suit with stopper; FG
+| 2Y!   | RESP or (INV, 4= suit with stopper) or FG
 | 2Z    | Mild INV, 8--12, 4+#
 | 2NT   | INV, 11--12
 | 3X    | INV, 10--12, 5+#

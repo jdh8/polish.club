@@ -7,7 +7,7 @@ the shape of an existing file.
 - **Abbreviations** — the single source of truth is `book.toml`
   `[preprocessor.abbr.list]`. Read it; never invent a tag that is not registered.
 - **Design principles** — `NOTES.md` (useful space, right-siding).
-- **Hand evaluation & punctuation grammar** — `src/README.md`.
+- **Hand evaluation & description style** — `src/README.md`.
 
 ## Suit symbols & input
 
@@ -27,7 +27,7 @@ The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
   the auction prefix ending in `-`; cell 2 is a short gloss (usually the bidder's
   range/shape). Example: `| 1♣-2♣- | FG, 5+♦ |`.
 - **Body rows**: cell 1 is the call, cell 2 is the dense description. The trailing
-  pipe is omitted (repo style): `| 2♦!    | NAT, 11--14 or 18+, 4+♦`.
+  pipe is omitted (repo style): `| 2♦!    | NAT, (11--14 or 18+), 4+♦`.
 - Order body rows **cheapest call first** (1♦ before 1♥ … before 3NT).
 - Put a short **prose paragraph above each table** explaining the scheme — every
   authored file does this (see `src/1C/2CD.md`, `src/1C/2H.md`).
@@ -48,12 +48,15 @@ The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
   `1M.md` (1♥/1♠), `2M.md` (major shorthand). Each table still uses an explicit or
   shorthand auction header.
 
-## Punctuation grammar (`src/README.md`)
+## Description style (`src/README.md`)
 
-- comma `,` = **AND** (all conditions hold): `INV, 9--11, 6+♣`
-- semicolon `;` = **OR** (alternatives), often across `<br>` lines
-- colon `:` introduces a general description before specifics
-- ranges use `--` (smart-punctuation renders an en-dash): `11--19`, `0--3♠`
+Follow the **Punctuation** section in `src/README.md` when writing or editing
+description cells, header glosses, and related prose.  It defines explicit `or`,
+optional `and`, and parentheses for mixed conditions.  Use `<br>` for long
+alternatives, with an explicit `or` between them.  Keep WBF tags in tables and
+use words in paragraphs, retaining familiar convention names such as RKCB.
+
+Ranges use `--` (smart-punctuation renders an en-dash): `11--19`, `0--3♠`.
 
 ## Length / shape notation
 

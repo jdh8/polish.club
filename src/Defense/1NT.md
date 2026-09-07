@@ -26,9 +26,9 @@ Against strong notrump or by passed hand, play [Woolsey] double in any seat.
 
 | (1NT)  | STR or by PH |
 |--------|--------------|
-| X!     | ART, 5+♦♣, 4+♠♥; UNBAL 16+
+| X!     | (ART, 5+♦♣, 4+♠♥) or UNBAL 16+
 
-| (1NT)X- | ART, 5+♦♣, 4+♠♥; UNBAL 16+ |
+| (1NT)X- | (ART, 5+♦♣, 4+♠♥) or UNBAL 16+ |
 |---------|----------------------------|
 | 2♣!     | P/C
 | 2♦!     | Ask for the major suit

@@ -8,7 +8,7 @@
 | 2♠     | 11--14, 6+♠
 | 2NT!   | 15--16, 6=♠, ≤ ♠AJ9
 | 3♣♦♥   | 15--16, 5+#
-| 3♠     | 15--16, 6+♠, AJT+ or 7+♠
+| 3♠     | 15--16, ((6+♠, AJT+) or 7+♠)
 | 3NT!   | Gambling, 7+♠ AKQ, no outside A/K
 
 If you wish to invite with 4=♥, you are on the wrong path.  You should have
@@ -46,7 +46,7 @@ responses to find better games, especially 4♥.
 | 1♠-1NT-2NT- | 15--16, 6=♠ |
 |-------------|-------------|
 | 3♣!         | PUP
-| 3♦!         | FG, 6+♦ or 5--6♥
+| 3♦!         | FG, (6+♦ or 5--6♥)
 | 3♥          | FG, 6+♥
 
 | 1♠-1NT-2NT-3♣ | PUP |

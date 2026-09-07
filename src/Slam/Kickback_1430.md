@@ -18,8 +18,8 @@ resolve where RKCB is.
 |-----|------|
 | +1  | 1 or 4 key cards
 | +2  | 0 or 3 key cards
-| +3  | 2 or 5 key cards without the trump queen
-| +4  | 2 or 5 key cards with the trump queen
+| +3  | (2 or 5) key cards without the trump queen
+| +4  | (2 or 5) key cards with the trump queen
 
 ## Anti-spiral scan
 

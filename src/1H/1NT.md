@@ -11,7 +11,7 @@ Opener is free to pass 1♥-1NT with a balanced minimum.  The best major fit at
 | 2♠      | 15--16, 4+♠
 | 2NT!    | 15--16, 6=♥, ≤ ♥AJ9
 | 3♣♦     | 15--16, 5+#
-| 3♥      | 15--16, 6+♥, AJT+ or 7+♥
+| 3♥      | 15--16, ((6+♥, AJT+) or 7+♥)
 | 3♠      | 15--16, 4+♠, 6+♥
 | 3NT!    | Gambling, 7+♥ AKQ, no outside A/K
 
@@ -60,8 +60,8 @@ Like [1♠-1NT-2NT](../1S/1NT.md#precision-2nt), opener has pinned a narrow hand
 maximum with a weak six-card suit — so responder simply places the contract.  Here
 the spade puppet has nothing to find: 1NT denied spades, so there is no second major,
 and the escape suits ♣♦ straddle hearts rather than sitting below the trump suit.
-Every call is therefore a natural sign-off — pass with a balanced minimum, retreat to
-a long minor, or take the 6--3 heart fit at the level your strength buys.
+Every call is therefore a natural sign-off — pass with a balanced minimum or retreat to
+a long minor or take the 6--3 heart fit at the level your strength buys.
 
 | 1♥-1NT-2NT- | 15--16, 6=♥ |
 |-------------|-------------|

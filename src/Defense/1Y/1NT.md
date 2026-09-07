@@ -42,7 +42,7 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 | 3♠!            | SPL, 0--1♠, 0--3♥
 | 3NT!           | COG, 3=♥
 
-Slow 3NT still has 3=♥ if RHO bids up to 2NT.
+Slow 3NT still has 3=♥ if the right-hand opponent bids up to 2NT.
 
 | (1♠)1NT(2♣♦♥♠) | - |
 |----------------|---|

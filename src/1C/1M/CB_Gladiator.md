@@ -24,7 +24,7 @@ This is because invitations are prone to competition.
 | 2♦!       | FG CB
 | 2♥!       | INV, 5+♥
 | 2♠!       | INV, 4+♠
-| 2NT!      | TRF, PRE or FG, 6+♣
+| 2NT!      | TRF, (PRE or FG), 6+♣
 | 3♣        | S/T, 5+♣, 5+♥
 | 3♦        | S/T, 5+♦, 5+♥
 | 3♥        | S/T, 6+♥
@@ -83,7 +83,7 @@ With at most two hearts, 2♠ also starts at 17.
 
 | 1♣-1♥-1♠-2♦- | FG CB |
 |--------------|-------|
-| 2♥           | 11--16, 3=♥; 17, 4=♠, 3=♥
+| 2♥           | (11--16, 3=♥) or (17, 4=♠, 3=♥)
 | 2♠           | 17+, 5+♠, 0--2♥
 | 2NT          | 11--14, 0--2♥
 | 3♣           | 15+, 5+♣, 0--2♥
@@ -115,7 +115,7 @@ helps concealing declarer's distribution most of the time.
 | 2♦!        | FG CB
 | 2♥!        | INV, 5+♥
 | 2♠!        | INV, 4+♠
-| 2NT!       | TRF, PRE or FG, 6+♣
+| 2NT!       | TRF, (PRE or FG), 6+♣
 | 3♣         | S/T, 5+♣, 5+♥
 | 3♦         | S/T, 5+♦, 5+♥
 | 3♥         | S/T, 6+♥
@@ -145,7 +145,7 @@ helps concealing declarer's distribution most of the time.
 | 2♦!        | FG CB
 | 2♥!        | INV, 4+♥, 5+♠
 | 2♠!        | INV, 5+♠
-| 2NT!       | TRF, PRE or FG, 6+♣
+| 2NT!       | TRF, (PRE or FG), 6+♣
 | 3♣         | S/T, 5+♣, 5+♠
 | 3♦         | S/T, 5+♦, 5+♠
 | 3♥         | S/T, 5+♥, 5+♠

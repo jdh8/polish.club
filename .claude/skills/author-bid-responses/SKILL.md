@@ -22,7 +22,7 @@ the calls it is given. Work through them **one at a time** and stop for review
 after each (the user is the bridge authority).
 
 Read **`conventions.md`** (next to this file) once per session for the table
-format, the `!` rule, notation, punctuation grammar, and the useful-space
+format, the `!` rule, notation, description style, and the useful-space
 principle. The abbreviation list lives in `book.toml`; `NOTES.md` and
 `src/README.md` hold the design principles.
 
@@ -67,7 +67,7 @@ principle. The abbreviation list lives in `book.toml`; `NOTES.md` and
 
 - Follow `conventions.md` for file-vs-inline and table grammar (header/body,
   cheapest call first, `!` on every artificial response, glyphs, `--` ranges,
-  registered abbreviations, punctuation).
+  registered abbreviations, explicit alternatives, and grouping).
 - Add a short **prose paragraph above the table** explaining the scheme and any
   non-obvious choice (every authored file does this).
 

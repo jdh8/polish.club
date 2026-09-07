@@ -24,7 +24,7 @@ This is because invitations are prone to competition.
 | 2♦!       | FG CB
 | 2♥!       | INV, 5+♥
 | 2♠!       | INV, 4+♠
-| 2NT!      | TRF, PRE or FG, 6+♣
+| 2NT!      | TRF, (PRE or FG), 6+♣
 | 3♣        | S/T, 5+♣, 5+♥
 | 3♦        | S/T, 4+♦, 5+♥
 | 3♥        | S/T, 6+♥
@@ -111,7 +111,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 2♦!        | FG CB
 | 2♥!        | INV, 5+♥
 | 2♠!        | INV, 4+♠
-| 2NT!       | TRF, PRE or FG, 6+♣
+| 2NT!       | TRF, (PRE or FG), 6+♣
 | 3♣         | S/T, 5+♣, 5+♥
 | 3♦         | S/T, 4+♦, 5+♥
 | 3♥         | S/T, 6+♥
@@ -140,7 +140,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 2♦!        | FG CB
 | 2♥!        | INV, 4+♥, 5+♠
 | 2♠!        | INV, 5+♠
-| 2NT!       | TRF, PRE or FG, 6+♣
+| 2NT!       | TRF, (PRE or FG), 6+♣
 | 3♣         | S/T, 5+♣, 5+♠
 | 3♦         | S/T, 5+♦, 5+♠
 | 3♥         | S/T, 5+♥, 5+♠

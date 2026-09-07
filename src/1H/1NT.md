@@ -3,10 +3,8 @@
 Opener is free to pass 1♥-1NT with a balanced minimum.  The best major fit at
 1♥-1NT-P is balanced 5-3.  Opener can judge when to pass quite safely.
 
-The usual response range applies in every seat, with judgment exceptions below 8.
-
-| 1♥-1NT- | Usually 8--11, 0--3♠, 0--3♥ |
-|---------|-----------------------------|
+| 1♥-1NT- | NAT NF, 0--3♠, 0--3♥ |
+|---------|----------------------|
 | 2♣      | 11--16, 3+♣
 | 2♦      | 11--16, 4+♦
 | 2♥      | 11--14, 6+♥
@@ -65,7 +63,7 @@ and the escape suits ♣♦ straddle hearts rather than sitting below the trump 
 Every call is therefore a natural sign-off — pass with a balanced minimum, retreat to
 a long minor, or take the 6--3 heart fit at the level your strength buys.
 
-| 1♥-1NT-2NT- | 15--17, 6=♥ |
+| 1♥-1NT-2NT- | 15--16, 6=♥ |
 |-------------|-------------|
 | 3♣          | S/O, 6+♣
 | 3♦          | S/O, 6+♦

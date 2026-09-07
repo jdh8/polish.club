@@ -33,6 +33,7 @@
 - [Natural 1♠](1S.md)
   - [Semi-forcing 1NT](1S/1NT.md)
   - [Stenberg 2NT](1S/2NT.md)
+  - [Passed-hand responses](1S/Passed.md)
   - [Competitive bidding](1S/COMP_2.md)
 - [Strong 1NT](1NT.md)
   - [BTU Stayman 2♣](1NT/2C.md)

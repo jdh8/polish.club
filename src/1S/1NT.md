@@ -1,12 +1,7 @@
 # Semi-forcing 1NT
 
-The best hands in 1NT are invitations with 3=♠ or 6+♥.  Opener only passes when
-rejecting both invitations, preferably minimum 5233.
-
-The usual response range applies in every seat, with judgment exceptions below 8.
-
-| 1♠-1NT | Usually 8--11, 0--3♠ |
-|--------|----------------------|
+| 1♠-1NT | NAT NF, 0--3♠ |
+|--------|---------------|
 | 2♣     | 11--16, 2+♣
 | 2♦     | 11--16, 4+♦
 | 2♥     | 11--15, 4+♥

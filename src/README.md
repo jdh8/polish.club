@@ -68,3 +68,7 @@ A notable example is the [1♣ opening](Openings.md).
   [*Polish Club International 2010*](https://web.archive.org/web/20240302061840/https://jassem.pl/wp-content/uploads/2016/08/Polish_Club-2010.html)
 - Krzysztof Jassem.
   [*Wspólny Język 2005 (Polish Standard)*](https://web.archive.org/web/20260129184422/https://par.cse.nsysu.edu.tw/~kbc/class/Polish_Club/WJ2005Full_original.pdf)
+
+### Other systems
+
+- Benito Garozzo et al.  [Sistemi Ambra](http://www.infobridge.it/Sistemi_ambra_eng.pdf)

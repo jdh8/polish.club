@@ -32,6 +32,7 @@
   - [Competing at the 2-level](1H/COMP_2.md)
 - [Natural 1♠](1S.md)
   - [Semi-forcing 1NT](1S/1NT.md)
+  - [Game-forcing relay 2♣](1S/2C.md)
   - [Stenberg 2NT](1S/2NT.md)
   - [Passed-hand responses](1S/Passed.md)
   - [Competitive bidding](1S/COMP_2.md)

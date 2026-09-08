@@ -4,6 +4,7 @@ Dead-end artificial calls from the discovery audit. Feed to
 `/author-bid-responses` one at a time; it locates the call and drafts the table.
 
 ## polish.club — to do
+
 - [x] `1♠-1NT-2NT` · src/1S/1NT.md · natural sign-offs + 3♣ ask for 3+♥
 - [ ] `1♣-1♥-2♠!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
 - [ ] `1♣-1♠-3♥!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
@@ -18,7 +19,9 @@ Dead-end artificial calls from the discovery audit. Feed to
 - [x] `1♣ competitive — Landik`                · src/1C/COMP_2.md · Landy advances
 
 ## Decide first — real gap or intentional leaf? (bridge judgment)
+
 - `1♣-3♦!`              · src/1C.md · BAL FG, 12--15
 - `1♣-2♠!`, `1♣-3♣!`    · src/1C.md · INV, 6+ minor
 - `1♥-2♠-2NT!`          · src/1H.md · invite 6+♠
-- `(1♠)1NT-2♠!`, `(1♥)1NT-2♥!` · src/Defense/1Y/1NT.md · Gladiator STAY (only the COG rebid is shown)
+- `(1♠)1NT-2♠!`, `(1♥)1NT-2♥!` · src/Defense/1Y/1NT.md · Gladiator STAY (only
+  the COG rebid is shown)

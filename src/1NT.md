@@ -15,13 +15,9 @@ Inclusive opening of 1NT solves rebidding problems:
 - Awful rebidding to 1♥-1♠
 - Tricky rebidding to 1♥♠-1NT
 
-BTU Stayman 2♣ not only asks for a 4-card major but also takes care of
-invitational 5= spades.  Puppet Stayman 3♣ forces to game and queries 5 and
-4-card majors.
-
 | 1NT- | BAL 15--17 |
 |------|------------|
-| 2♣!  | STAY or Garbage STAY or INV 5=♠
+| 2♣!  | STAY, maybe crawling
 | 2♦!  | TRF, 5+♥
 | 2♥!  | TRF, 5+♠
 | 2♠!  | 6+♣ or QUANT INV
@@ -46,9 +42,15 @@ Both Staymans come into range when responder has game-forcing values.
 - **Balanced 4-4 majors:** The lower 2♣ allows playing 3NT if opener is (4333).
 - **Unbalanced 4-4 majors:** Anything goes.
 
-## Discussion on bidding 5-5 majors
+## Discussion on bidding 4=♠ and 5+♥
 
-- **Weak:**  Transfer to the better major suit.  Give up on the other one.
+- **Weak:**  Use Crawling Stayman 2♣.  Pass a major suit.  Bid 2♥ P/C over 2♦.
+- **Invitational:**  Transfer to hearts and then bid 2NT!
+- **Game-forcing:**  Bid Stayman 2♣.  Smolen transfers follow.
+
+## Discussion on bidding 5+ 5+ majors
+
+- **Weak:**  Use Crawling Stayman 2♣.  Pass a major suit.  Bid 2♥ P/C over 2♦.
 - **Invitational:**  Bid 3♦.
 - **Choice of games:**  Bid 3♦ most of the time.  Transfer to spades and then
   bid 4♥ if you prefer 4♠ > 4♥ > 3NT.

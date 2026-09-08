@@ -40,8 +40,8 @@
   - [Passed-hand responses](1S/Passed.md)
   - [Competitive bidding](1S/COMP_2.md)
 - [Strong 1NT](1NT.md)
-  - [BTU Stayman 2♣](1NT/2C.md)
-  - [BTU transfers 2♦♥](1NT/2R.md)
+  - [Stayman 2♣](1NT/2C.md)
+  - [Jacoby transfers 2♦♥](1NT/2R.md)
   - [Competitive bidding](1NT/COMP_2.md)
 
 # Preempts

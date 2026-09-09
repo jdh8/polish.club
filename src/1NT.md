@@ -4,16 +4,18 @@ This bidding system has a strong notrump opening.  In contrast to *Polish Club 2
 this opening allows a 5-card major or a 6-card minor.  All the possible
 distributions are:
 
-- 2--4♠, 2--4♥, 2--5♦, 2--5♣
+- 2--4♠, 2--4♥, 2--6♦, 2--6♣
 - 5M(332)
-- 6m(322)
 
 Inclusive opening of 1NT solves rebidding problems:
 
-- Exactly 15 HCP, slightly too weak for a reverse/jump
 - Failure to reverse (especially a red suit) in competition
 - Awful rebidding to 1♥-1♠
 - Tricky rebidding to 1♥♠-1NT
+
+Narrow (11--16) major suit openings welcome Precision-like continuations.  Fast
+and precise bidding follows.  Now we open 1NT for balanced 17-counts and 1♣ for
+unbalanced ones.
 
 | 1NT- | BAL 15--17 |
 |------|------------|
@@ -42,15 +44,30 @@ Both Staymans come into range when responder has game-forcing values.
 - **Balanced 4-4 majors:** The lower 2♣ allows playing 3NT if opener is (4333).
 - **Unbalanced 4-4 majors:** Anything goes.
 
+## Crawling Stayman
+
+Crawling Stayman, a superset of Garbage Stayman, is an agreement to let 2♣
+include weak hands.
+
+- **Garbage Stayman:** 3+♠, 3+♥, 4+♦
+- **Crawling Stayman:** 4+♠, 4+♥, 0--4♦, besides Garbage Stayman
+
+The ulterior motive of Garbage Stayman is to **pass** any opener's rebid,
+including 2♦.  Crawling Stayman expands the plan.  Responder can now take out
+with weak 4+♠ and 4+♥, even short in diamonds.  Responder *crawls* to 2♥ P/C
+over 2♦ when lacking diamonds.
+
 ## Discussion on bidding 4=♠ and 5+♥
 
-- **Weak:**  Use Crawling Stayman 2♣.  Pass a major suit.  Bid 2♥ P/C over 2♦.
-- **Invitational:**  Transfer to hearts and then bid 2NT!
+Crawling Stayman has a side effect.  The standard meaning of 2♣-2♦-2♥ needs a
+new home.  Luckily, there is a spare step after the heart transfer because we
+bid 3♦ for invitational+ 5+ 5+ majors.
+
+- **Invitational:**  Transfer to hearts and *then bid 2NT!*
 - **Game-forcing:**  Bid Stayman 2♣.  Smolen transfers follow.
 
 ## Discussion on bidding 5+ 5+ majors
 
-- **Weak:**  Use Crawling Stayman 2♣.  Pass a major suit.  Bid 2♥ P/C over 2♦.
 - **Invitational:**  Bid 3♦.
 - **Choice of games:**  Bid 3♦ most of the time.  Transfer to spades and then
   bid 4♥ if you prefer 4♠ > 4♥ > 3NT.

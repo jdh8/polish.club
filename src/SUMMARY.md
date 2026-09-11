@@ -46,7 +46,7 @@
 
 # Preempts
 
-- [Strawberry Ekren 2♣](2C.md)
+- [Ekren 2♣](2C.md)
 - [Multi 2♦](2D.md)
 - [Muiderberg 2M](2M.md)
 - [Unusual 2NT opening](2NT.md)

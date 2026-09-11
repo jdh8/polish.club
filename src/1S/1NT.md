@@ -4,15 +4,12 @@
 |--------|---------------|
 | 2♣     | 11--16, 2+♣
 | 2♦     | 11--16, 4+♦
-| 2♥     | 11--14, 4+♥
+| 2♥     | 11--16, 4+♥
 | 2♠     | 11--14, 6+♠
 | 2NT!   | 15--16, 6=♠, ≤ ♠AJ9
 | 3♣♦♥   | 15--16, 5+#
 | 3♠     | 15--16, ((6+♠, AJT+) or 7+♠)
 | 3NT!   | Gambling, 7+♠ AKQ, no outside A/K
-
-If you wish to invite with 4=♥, you are on the wrong path.  You should have
-opened [Ekren 2♣](../2C.md) instead.
 
 The threshold of suit quality is based on [Binky Points][binky]:
 

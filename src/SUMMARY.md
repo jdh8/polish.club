@@ -14,7 +14,7 @@
   - [Positive 1NT, 2NT](1C/1NT.md)
   - [Swapped 2♣♦](1C/2CD.md)
   - [Flannery 2♥](1C/2H.md)
-  - [Cachalot — competing at the 1-level](1C/COMP_1.md)
+  - [Competing at the 1-level](1C/COMP_1.md)
     - [Opener's rebids](1C/COMP_1/Opener.md)
   - [Competing at the 2-level](1C/COMP_2.md)
 - [Natural 1♦](1D.md)

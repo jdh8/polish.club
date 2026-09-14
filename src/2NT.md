@@ -14,11 +14,11 @@ I advise not opening 2NT for (30)55 in the first two seats.
 | 4NT!    | Equal preference between 5♣♦
 
 | 2NT - 3♥ - | (R) FG |
-|------------|---|
-| 3♠!        | SPL, 0--1♠
-| 3NT!       | SPL, 0--1♥
-| 4♣         | MAX 1156
-| 4♦         | MAX 1165
+|------|---|
+| 3♠!  | SPL, 0--1♠
+| 3NT! | SPL, 0--1♥
+| 4♣   | MAX 1156
+| 4♦   | MAX 1165
 
 | 2NT - 3♥ -<br>4♣♦ - | MAX 11(65) |
 |-----|---|

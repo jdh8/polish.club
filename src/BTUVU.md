@@ -15,13 +15,13 @@ variation uses the lowest **three** bids from the following list:
 Let me provide some examples for clarity.
 
 |      Auction      | BTU v U bids |
-|------------------|--------------|
-| 1♦ (2♦ = ♠ + ♥)  | 2♥, 2♠, 2NT  |
-| 1♠ (2NT = ♦ + ♣) | 3♣, 3♦, 4♣   |
-| 1♠ (3♣ = ♥ + ♦)  | 3♦, 3♥, 4♣   |
-| 2♥ (4♦ = ♠ + ♦)  | 4♠, 4NT, 5♦  |
-| (1♦) - (1♠)      | 2♦, 2♠, 2NT  |
-| (1♦) 1♥ (X = ♠)  | 1♠, 2♦, 2♠   |
+|------------------|-------------|
+| 1♦ (2♦ = ♠ + ♥)  | 2♥, 2♠, 2NT |
+| 1♠ (2NT = ♦ + ♣) | 3♣, 3♦, 4♣  |
+| 1♠ (3♣ = ♥ + ♦)  | 3♦, 3♥, 4♣  |
+| 2♥ (4♦ = ♠ + ♦)  | 4♠, 4NT, 5♦ |
+| (1♦) - (1♠)      | 2♦, 2♠, 2NT |
+| (1♦) 1♥ (X = ♠)  | 1♠, 2♦, 2♠  |
 
 To keep discussion simple, I abbreviate these BTU v U bids as **Q1, Q2, Q3**.
 If a cuebid is 4NT or higher, I recommend treating it as the start of another

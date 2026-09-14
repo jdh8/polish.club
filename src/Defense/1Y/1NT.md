@@ -13,17 +13,17 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 ## (1♠) 1NT {#(1S)1NT}
 
 | (1♠) 1NT - | STR ~BAL |
-|------------|---|
-| 2♣!        | (R), Gladiator
-| 2♦♥        | INV, 5+#
-| 2♠!        | STAY, INV+, 4=♥
-| 2♠ - 3♠!   | COG, e.g. MAX 3433
-| 2NT!       | NF INV, 5+♣
-| 3X         | FG, 5+#
-| 3♠!        | SPL, 0--1♠, 4=♥
-| 4♣♦!       | Leaping Michaels, 5+♥, usually 5+#
-| 4♥         | S/O, 6+♥
-| 4♠!        | Leaping Michaels, 5+♦, 5+♣
+|----------|---|
+| 2♣!      | (R), Gladiator
+| 2♦♥      | INV, 5+#
+| 2♠!      | STAY, INV+, 4=♥
+| 2♠ - 3♠! | COG, e.g. MAX 3433
+| 2NT!     | NF INV, 5+♣
+| 3X       | FG, 5+#
+| 3♠!      | SPL, 0--1♠, 4=♥
+| 4♣♦!     | Leaping Michaels, 5+♥, usually 5+#
+| 4♥       | S/O, 6+♥
+| 4♠!      | Leaping Michaels, 5+♦, 5+♣
 
 | (1♠) 1NT - 2♣<br>- | Gladiator |
 |-----|---|
@@ -45,12 +45,12 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 Slow 3NT still has 3=♥ if the right-hand opponent bids up to 2NT.
 
 | (1♠) 1NT (2♣♦♥♠) | - |
-|------------------|---|
-| 2NT!             | TRF LEB
-| 3♣!              | TRF INV+, 5+♦
-| 3♦!              | TRF INV+, 5+♥
-| 3♥!              | FG STAY, 4=♥
-| 3♠!              | SPL, 0--1♠, 4=♥
+|------|---|
+| 2NT! | TRF LEB
+| 3♣!  | TRF INV+, 5+♦
+| 3♦!  | TRF INV+, 5+♥
+| 3♥!  | FG STAY, 4=♥
+| 3♠!  | SPL, 0--1♠, 4=♥
 
 | (1♠) 1NT (2♣♦♥♠) 2NT<br>- | TRF LEB |
 |-----------|---|
@@ -70,17 +70,17 @@ I have not yet come up with how we utilize the slow cuebid.
 ## (1♥) 1NT {#(1H)1NT}
 
 | (1♥) 1NT - | STR ~BAL |
-|------------|---|
-| 2♣!        | (R), Gladiator
-| 2♦♠        | INV, 5+#
-| 2♥!        | STAY, INV+, 4=♠
-| 2♥ - 3♥!   | COG, e.g. MAX 4333
-| 2NT!       | NF INV, 5+♣
-| 3X         | FG, 5+#
-| 3♥!        | SPL, 0--1♥, 4=♠
-| 4♣♦!       | Leaping Michaels, 5+♠, usually 5+#
-| 4♥!        | Leaping Michaels, 5+♦, 5+♣
-| 4♠         | S/O, 6+♠
+|----------|---|
+| 2♣!      | (R), Gladiator
+| 2♦♠      | INV, 5+#
+| 2♥!      | STAY, INV+, 4=♠
+| 2♥ - 3♥! | COG, e.g. MAX 4333
+| 2NT!     | NF INV, 5+♣
+| 3X       | FG, 5+#
+| 3♥!      | SPL, 0--1♥, 4=♠
+| 4♣♦!     | Leaping Michaels, 5+♠, usually 5+#
+| 4♥!      | Leaping Michaels, 5+♦, 5+♣
+| 4♠       | S/O, 6+♠
 
 | (1♥) 1NT - 2♣<br>- | Gladiator |
 |-----|---|

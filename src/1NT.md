@@ -18,22 +18,22 @@ and precise bidding follows.  Now we open 1NT for balanced 17-counts and 1♣ fo
 unbalanced ones.
 
 | 1NT - | BAL 15--17 |
-|-------|---|
-| 2♣!   | STAY, maybe crawling
-| 2♦!   | TRF, 5+♥
-| 2♥!   | TRF, 5+♠
-| 2♠!   | 6+♣ or QUANT INV
-| 2NT!  | 6+♦ or (5+♦, 4+♣)
-| 3♣!   | PUP STAY
-| 3♦!   | INV+, 5+♠, 5+♥
-| 3♥!   | SPL, 0--1♥, 0--3♠, 4--6♦, 4--6♣
-| 3♠!   | SPL, 0--1♠, 0--3♥, 4--6♦, 4--6♣
-| 3NT   | S/O
-| 4♣!   | TRF, 6+♥, South African Texas
-| 4♦!   | TRF, 6+♠, South African Texas
-| 4♥♠   | S/O
-| 4NT   | QUANT INV to 6NT, NF
-| 5NT   | QUANT INV to 7NT, F
+|------|---|
+| 2♣!  | STAY, maybe crawling
+| 2♦!  | TRF, 5+♥
+| 2♥!  | TRF, 5+♠
+| 2♠!  | 6+♣ or QUANT INV
+| 2NT! | 6+♦ or (5+♦, 4+♣)
+| 3♣!  | PUP STAY
+| 3♦!  | INV+, 5+♠, 5+♥
+| 3♥!  | SPL, 0--1♥, 0--3♠, 4--6♦, 4--6♣
+| 3♠!  | SPL, 0--1♠, 0--3♥, 4--6♦, 4--6♣
+| 3NT  | S/O
+| 4♣!  | TRF, 6+♥, South African Texas
+| 4♦!  | TRF, 6+♠, South African Texas
+| 4♥♠  | S/O
+| 4NT  | QUANT INV to 6NT, NF
+| 5NT  | QUANT INV to 7NT, F
 
 ## Picking the better Stayman
 
@@ -79,42 +79,42 @@ picks 3NT instead.  With a maximum and slam interest, opener control-bids 4♣ o
 4♦ rather than jumping straight to game:
 
 | 1NT - 3♦ - | INV+, 5+♠, 5+♥ |
-|------------|---|
-| 3♥         | MIN, prefers ♥
-| 3♠         | MIN, prefers ♠
-| 3NT        | MAX, dislikes both majors
-| 4♣!        | MAX, S/T in ♥, CTRL
-| 4♦!        | MAX, S/T in ♠, CTRL
-| 4♥         | MAX, prefers ♥, S/O
-| 4♠         | MAX, prefers ♠, S/O
+|-----|---|
+| 3♥  | MIN, prefers ♥
+| 3♠  | MIN, prefers ♠
+| 3NT | MAX, dislikes both majors
+| 4♣! | MAX, S/T in ♥, CTRL
+| 4♦! | MAX, S/T in ♠, CTRL
+| 4♥  | MAX, prefers ♥, S/O
+| 4♠  | MAX, prefers ♠, S/O
 
 A choice-of-games responder raises opener's three-level pick to game.
 
 ## Minor suit transfers
 
 | 1NT - 2♠ - | 6+♣ or QUANT INV |
-|------------|---|
-| 2NT        | MIN
-| 3♣!        | MAX, 1--3♣
-| 3♣ - 3♦!   | FG PUP STAY
-| 3♣ - 3♥♠!  | SPL, 0--1#
-| 3♦♥♠!      | MAX, 4--6♣, good stopper
+|-----------|---|
+| 2NT       | MIN
+| 3♣!       | MAX, 1--3♣
+| 3♣ - 3♦!  | FG PUP STAY
+| 3♣ - 3♥♠! | SPL, 0--1#
+| 3♦♥♠!     | MAX, 4--6♣, good stopper
 
 | 1NT - 2NT - | 6+♦ or (5+♦, 4+♣) |
-|-------------|---|
-| 3♣!         | 1--2♦
-| 3♦          | 3--4♦
-| 3♥♠!        | 5--6♦, good stopper
-| 3NT!        | 5--6♦, good ♣ stopper
+|------|---|
+| 3♣!  | 1--2♦
+| 3♦   | 3--4♦
+| 3♥♠! | 5--6♦, good stopper
+| 3NT! | 5--6♦, good ♣ stopper
 
 ## Puppet Stayman at 3♣
 
 | 1NT - 3♣ - | PUP STAY |
-|------------|---|
-| 3♦!        | 2--4♠, 2--4♥
-| 3♦ - 3♥!   | Smolen TRF, 4=♠
-| 3♦ - 3♠!   | Smolen TRF, 4=♥
-| 3♦ - 3NT   | S/O
-| 3♦ - 4♣!   | S/T, 44(xx)
-| 3♦ - 4♦!   | COG, 44(xx)
-| 3♥♠        | 5=#
+|----------|---|
+| 3♦!      | 2--4♠, 2--4♥
+| 3♦ - 3♥! | Smolen TRF, 4=♠
+| 3♦ - 3♠! | Smolen TRF, 4=♥
+| 3♦ - 3NT | S/O
+| 3♦ - 4♣! | S/T, 44(xx)
+| 3♦ - 4♦! | COG, 44(xx)
+| 3♥♠      | 5=#

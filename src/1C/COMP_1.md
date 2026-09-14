@@ -32,40 +32,40 @@ Natural notrump is not very useful after a double, so let's also use it for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 | 1♣ (X) | - |
-|--------|---|
-| XX     | NF BAL G/T, 10+
-| 1♦!    | TRF, 7+, 4+♥
-| 1♥!    | TRF, 7+, 4+♠
-| 1♠!    | TRF, 7+, 5+♦
-| 1NT!   | TRF, 7+, 5+♣
-| 2♣     | PRE, 0--7, 5+♣
-| 2X     | PRE, 0--7, 6+#
-| 2NT!   | TRF: (PRE, 7+♣) or (FG, 6+♣)
-| 3♣!    | TRF: (PRE, 7+♦) or (FG, 6+♦)
-| 3♦!    | TRF: (PRE, 7+♥) or (FG, 6+♥)
-| 3♥!    | TRF: (PRE, 7+♠) or (FG, 6+♠)
-| 3♠!    | Gambling, SOL 7+ suit with no stopper outside
-| 3NT!   | Gambling, SOL 7+ suit with one stopper outside
+|------|---|
+| XX   | NF BAL G/T, 10+
+| 1♦!  | TRF, 7+, 4+♥
+| 1♥!  | TRF, 7+, 4+♠
+| 1♠!  | TRF, 7+, 5+♦
+| 1NT! | TRF, 7+, 5+♣
+| 2♣   | PRE, 0--7, 5+♣
+| 2X   | PRE, 0--7, 6+#
+| 2NT! | TRF: (PRE, 7+♣) or (FG, 6+♣)
+| 3♣!  | TRF: (PRE, 7+♦) or (FG, 6+♦)
+| 3♦!  | TRF: (PRE, 7+♥) or (FG, 6+♥)
+| 3♥!  | TRF: (PRE, 7+♠) or (FG, 6+♠)
+| 3♠!  | Gambling, SOL 7+ suit with no stopper outside
+| 3NT! | Gambling, SOL 7+ suit with one stopper outside
 
 ## Over (1♦)
 
 Transferring to diamonds is not very useful, so 2♣ falls back to a single raise.
 
 | 1♣ (1♦) | - |
-|---------|---|
-| X!      | TRF, 7+, 4+♥
-| 1♥!     | TRF, 7+, 4+♠
-| 1♠!     | TRF to 1NT, 8+
-| 1NT     | NAT, 8--10
-| 2♣      | NF, 5--10, 5+♣
-| 2♦!     | TRF, 6+♥
-| 2♥!     | TRF, 6+♠
-| 2♠!     | TRF, 10+, 5+♣
-| 2NT     | NAT INV, 10--11
-| 3♣      | PRE, 6+♣
-| 3♦!     | TRF: (PRE, 7+♥) or (FG, 6+♥)
-| 3♥!     | TRF: (PRE, 7+♠) or (FG, 6+♠)
-| 3♠!     | Gambling, SOL 7+ suit without stopper
+|-----|---|
+| X!  | TRF, 7+, 4+♥
+| 1♥! | TRF, 7+, 4+♠
+| 1♠! | TRF to 1NT, 8+
+| 1NT | NAT, 8--10
+| 2♣  | NF, 5--10, 5+♣
+| 2♦! | TRF, 6+♥
+| 2♥! | TRF, 6+♠
+| 2♠! | TRF, 10+, 5+♣
+| 2NT | NAT INV, 10--11
+| 3♣  | PRE, 6+♣
+| 3♦! | TRF: (PRE, 7+♥) or (FG, 6+♥)
+| 3♥! | TRF: (PRE, 7+♠) or (FG, 6+♠)
+| 3♠! | Gambling, SOL 7+ suit without stopper
 
 ## Over (1♥)
 
@@ -73,19 +73,19 @@ Transferring to hearts is not very useful, so 2♦ falls back to a negative free
 bid.
 
 | 1♣ (1♥) | - |
-|---------|---|
-| X!      | TRF, 7+, 4+♠
-| 1♠!     | TRF to 1NT, 8+
-| 1NT     | NAT, 8--10
-| 2♣!     | TRF, 10+, 5+♦
-| 2♦      | NF, 5--10, 6+♦
-| 2♥!     | TRF, 6+♠
-| 2♠!     | TRF, 10+, 5+♣
-| 2NT     | NAT INV, 10--11
-| 3♣      | PRE, 6+♣
-| 3♦      | PRE, 7+♦
-| 3♥!     | TRF: (PRE, 7+♠) or (FG, 6+♠)
-| 3♠!     | Gambling, SOL 7+ suit without stopper
+|-----|---|
+| X!  | TRF, 7+, 4+♠
+| 1♠! | TRF to 1NT, 8+
+| 1NT | NAT, 8--10
+| 2♣! | TRF, 10+, 5+♦
+| 2♦  | NF, 5--10, 6+♦
+| 2♥! | TRF, 6+♠
+| 2♠! | TRF, 10+, 5+♣
+| 2NT | NAT INV, 10--11
+| 3♣  | PRE, 6+♣
+| 3♦  | PRE, 7+♦
+| 3♥! | TRF: (PRE, 7+♠) or (FG, 6+♠)
+| 3♠! | Gambling, SOL 7+ suit without stopper
 
 ## Over (1♠)
 
@@ -93,14 +93,14 @@ Transferring to spades is not very useful, so 2♥ falls back to a negative free
 bid.
 
 | 1♣ (1♠) | - |
-|---------|---|
-| X!      | NEG, 7+, (4--5♥ or BAL FG)
-| 1NT     | NAT, 8--10
-| 2♣!     | TRF, 10+, 5+♦
-| 2♦!     | TRF, 10+, 5+♥
-| 2♥      | NF, 5--10, usually 6+♥
-| 2♠!     | TRF, 10+, 5+♣
-| 2NT     | NAT INV, 10--11
-| 3♣      | PRE, 6+♣
-| 3♦♥     | PRE, 7+#
-| 3♠!     | Gambling, SOL 7+ suit without stopper
+|-----|---|
+| X!  | NEG, 7+, (4--5♥ or BAL FG)
+| 1NT | NAT, 8--10
+| 2♣! | TRF, 10+, 5+♦
+| 2♦! | TRF, 10+, 5+♥
+| 2♥  | NF, 5--10, usually 6+♥
+| 2♠! | TRF, 10+, 5+♣
+| 2NT | NAT INV, 10--11
+| 3♣  | PRE, 6+♣
+| 3♦♥ | PRE, 7+#
+| 3♠! | Gambling, SOL 7+ suit without stopper

@@ -4,16 +4,16 @@ Opener is free to pass 1♥ - 1NT with a balanced minimum.  The best major fit a
 1♥ - 1NT - - is balanced 5-3.  Opener can judge when to pass quite safely.
 
 | 1♥ - 1NT - | NAT NF, 0--3♠, 0--3♥ |
-|------------|---|
-| 2♣         | 11--16, 3+♣
-| 2♦         | 11--16, 4+♦
-| 2♥         | 11--14, 6+♥
-| 2♠         | 15--16, 4+♠
-| 2NT!       | 15--16, 6=♥, ≤ ♥AJ9
-| 3♣♦        | 15--16, 5+#
-| 3♥         | 15--16, ((6+♥, AJT+) or 7+♥)
-| 3♠         | 15--16, 4+♠, 6+♥
-| 3NT!       | Gambling, 7+♥ AKQ, no outside A/K
+|------|---|
+| 2♣   | 11--16, 3+♣
+| 2♦   | 11--16, 4+♦
+| 2♥   | 11--14, 6+♥
+| 2♠   | 15--16, 4+♠
+| 2NT! | 15--16, 6=♥, ≤ ♥AJ9
+| 3♣♦  | 15--16, 5+#
+| 3♥   | 15--16, ((6+♥, AJT+) or 7+♥)
+| 3♠   | 15--16, 4+♠, 6+♥
+| 3NT! | Gambling, 7+♥ AKQ, no outside A/K
 
 Just like [1♠ - 1NT](../1S/1NT.md), the threshold of suit quality is based on
 [Binky Points][binky].

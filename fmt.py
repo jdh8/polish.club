@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Re-align Markdown table columns in src/.
 
-Column width is the widest plain cell, header included -- except cells
-containing `<br>`, which are exempt and overhang.  A last column that no body
-row supplies (body rows ending without a pipe) gets a fixed `---`, having
-nothing to align to.  Alignment colons in the separator are preserved and
-applied to the body.
+Column width is the widest body cell.  Header cells are exempt and overhang,
+keeping the first column narrow under long auction headers.  A last column
+that no body row supplies (body rows ending without a pipe) gets a fixed
+`---`, having nothing to align to.  Alignment colons in the separator are
+preserved and applied to the body.
 
 Whitespace only, and idempotent.  Run it by hand after editing tables.
 """
@@ -39,7 +39,6 @@ def fmt(path):
         if fence or not l.startswith('|-') or not out:
             out.append(l); i += 1; continue
 
-        head, _ = cells(out[-1])
         sep, _ = cells(l)
         n = len(sep)
         body = []
@@ -47,11 +46,9 @@ def fmt(path):
         while j < len(lines) and lines[j].startswith('|') and not lines[j].startswith('|-'):
             body.append(cells(lines[j])); j += 1
 
-        # width = widest plain cell; <br> cells and long auction headers are exempt
+        # width = widest plain body cell; headers are exempt
         w = [0] * n
         for k in range(n):
-            if k < len(head) and '<br>' not in head[k]:
-                w[k] = len(head[k].strip()) + 2
             for c, closed in body:
                 if k < len(c) - (0 if closed else 1) and '<br>' not in c[k]:
                     w[k] = max(w[k], len(c[k].strip()) + 2)

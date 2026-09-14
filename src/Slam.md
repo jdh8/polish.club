@@ -26,11 +26,11 @@ Move the conventional notrump further down to 4♣♦ reenables control bids in 
 side suits.
 
 | Trump | RKCB/Turbo | Non-serious |
-|-------|------------|-------------|
-| ♠     | 4NT        | 3NT         |
-| ♥     | 4♠ or 4NT  | 3♠          |
-| ♦     | 4♦ or 4NT  |             |
-| ♣     | 4♣ or 4NT  |             |
+|---|-----------|-----|
+| ♠ | 4NT       | 3NT |
+| ♥ | 4♠ or 4NT | 3♠  |
+| ♦ | 4♦ or 4NT |     |
+| ♣ | 4♣ or 4NT |     |
 
 ## Turbo
 
@@ -49,9 +49,9 @@ before 3NT, move Turbo down to 4♣♦ and show the trump queen at 4NT.**  This 
 we can check for the trump queen before reaching the minor suit game.
 
 | Turbo bid | Trump Q showing bid |
-|-----------|---------------------|
-| 4♣♦       | 4NT                 |
-| 4NT       | 5NT                 |
+|-----|-----|
+| 4♣♦ | 4NT |
+| 4NT | 5NT |
 
 ## Optional agreements
 

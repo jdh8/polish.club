@@ -4,9 +4,9 @@ I group these positive notrump responses together for simplicity. These
 responses deny 4-card majors and 6-card minors.
 
 | 1♣ - | Strength | Distribution |
-|------|----------|---|
-| 1NT  | 8--10    | 2--3♠, 2--3♥, 2--5♦, 2--5♣
-| 2NT  | 10--11   | 2--3♠, 2--3♥, 2--5♦, 2--5♣
+|-----|--------|---|
+| 1NT | 8--10  | 2--3♠, 2--3♥, 2--5♦, 2--5♣
+| 2NT | 10--11 | 2--3♠, 2--3♥, 2--5♦, 2--5♣
 
 ## 1♣ - 1NT {#1C-1NT}
 
@@ -16,16 +16,16 @@ for consistency with the bidding system.  Clubs probably indicates a fit, so it
 deserves the higher step.
 
 | 1♣ - 1NT - | BAL 8--10 |
-|------------|---|
-| 2♣         | S/O, 12--14, 6+♣
-| 2♦!        | (R) INV+
-| 2M         | S/T, 17+, 5+#
-| 2NT        | INV, 14--15
-| 3♣         | S/T, 18+, 6+♣
-| 3♦         | S/T, 18+, 6+♦
-| 3M         | S/T, 17+, 7+#
-| 3NT        | S/O, 16+
-| 4♣♦        | S/T, SOL 7+#
+|-----|---|
+| 2♣  | S/O, 12--14, 6+♣
+| 2♦! | (R) INV+
+| 2M  | S/T, 17+, 5+#
+| 2NT | INV, 14--15
+| 3♣  | S/T, 18+, 6+♣
+| 3♦  | S/T, 18+, 6+♦
+| 3M  | S/T, 17+, 7+#
+| 3NT | S/O, 16+
+| 4♣♦ | S/T, SOL 7+#
 
 | 1♣ - 1NT -<br>2♦ - | (R) INV+ |
 |-----|---|
@@ -41,8 +41,8 @@ deserves the higher step.
 ## 1♣ - 2NT {#1C-2NT}
 
 | 1♣ - 2NT - | INV 10--11 |
-|------------|---|
-| 3♣         | S/O, 12--13, 6+♣
-| 3♦!        | S/T, 18+, 0--4♠, 0--4♥
-| 3M         | S/T, 17+, 5+#
-| 3NT        | S/O
+|-----|---|
+| 3♣  | S/O, 12--13, 6+♣
+| 3♦! | S/T, 18+, 0--4♠, 0--4♥
+| 3M  | S/T, 17+, 5+#
+| 3NT | S/O

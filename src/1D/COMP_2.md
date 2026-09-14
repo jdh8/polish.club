@@ -4,35 +4,35 @@ Bidding against 1♣♦ (1NT) is analogous to a weak notrump.  The agreement to
 borrow Landy 2♣ here is also called Landik.
 
 | 1♦ (1NT) | - |
-|----------|---|
-| X        | PEN, INV+
-| 2♣!      | UNBAL, 4+♠, 4+♥
-| 2NT!     | UNBAL FG
+|------|---|
+| X    | PEN, INV+
+| 2♣!  | UNBAL, 4+♠, 4+♥
+| 2NT! | UNBAL FG
 
 After 2♣, advance as in the [Landy defense to 1NT](../Defense/1NT/2C.md).
 
 With clubs directly below diamonds, bidding after 1♦ (2♣) is pretty natural.
 
 | 1♦ (2♣) | - |
-|---------|---|
-| X!      | T/O, INV+
-| 2♦      | PRE, 4+♦
-| 2M      | NF, 5+#
-| 2NT     | NAT INV
-| 3♣!     | INV+, 4+♦
-| 3♦      | CONST, 4+♦
-| 3M      | FG, usually 6+#
+|-----|---|
+| X!  | T/O, INV+
+| 2♦  | PRE, 4+♦
+| 2M  | NF, 5+#
+| 2NT | NAT INV
+| 3♣! | INV+, 4+♦
+| 3♦  | CONST, 4+♦
+| 3M  | FG, usually 6+#
 
 BTU vs Unusual handles 1♦ (2♦) well.  The third cuebid 2NT shows tolerance in
 both minors.
 
 | 1♦ (2♦) | Both majors |
-|---------|---|
-| X       | PEN for either major
-| 2♥!     | FG+, 5+♣
-| 2♠!     | INV+, 4+♦
-| 2NT!    | INV+, 3+♦, 4+♣
-| 3♥♠!    | Ask for stopper
+|------|---|
+| X    | PEN for either major
+| 2♥!  | FG+, 5+♣
+| 2♠!  | INV+, 4+♦
+| 2NT! | INV+, 3+♦, 4+♣
+| 3♥♠! | Ask for stopper
 
 Rubinsohl follows 1♦ (2M).  The forcing raise 3♣ and the preemptive raise 3♦
 put immediate pressure on the opponents with the diamond fit.  FunBridge also

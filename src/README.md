@@ -34,23 +34,19 @@ I evaluate stopper quality as [GIB] does.
 
 ## Bidding notation
 
-Separate calls with spaces: <code>1NT - 2♣ (X) XX -</code>.  Parenthesize each opposing
-non-pass call.  Write passes as `-`, retaining `P` for initial passes or when
-discussing a single call, such as a table row offering pass.  Thus
-<code>P - 1♥ - 1NT - -</code> starts with a passed hand and ends with opener passing.
+Separate calls with spaces: <code>1NT - 2♣ (X) XX -</code>.  Parenthesize
+opposing non-pass calls.  Write passes as `-`, but write out `P` for initial
+(quantified) passes or a single call, such as a table row offering pass.  Thus
+<code>P* - - 1♥ - 1NT -</code> starts with 2-3 initial passes and the 1♥ opener
+gets to bid.
 
 Each bidding table's header gives the auction before the body row's call or
 continuation.  Include intervening passes explicitly.  In auction table headers,
 use `<br>` for a new round after four calls, counting passes:
-<code>1NT - 2♣ -&lt;br>2♦ -</code>.  Write the auction out in full, however long; keep body
+<code>1NT - 2♣ -&lt;br>2♦ -</code>.  Keep body
 continuations inline because the header already determines their round position.
 Keep headings and prose auctions inline, and retain existing heading IDs when
 changing their displayed notation.
-
-Put alternative auctions in separate rows or tables.  Older versions used
-`or<br>` between alternatives; a bare `<br>` in an auction now continues the
-same auction.  Literal newlines break Markdown table rows, and a bare `|`
-starts another cell rather than expressing an alternative.
 
 ## Punctuation
 

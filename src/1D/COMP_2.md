@@ -39,15 +39,15 @@ put immediate pressure on the opponents with the diamond fit.  FunBridge also
 inspired the Strawberry add-on of 3♥♠.
 
 | 1♦ (2M) | - |
-|---------|---|
-| X!      | OPT, INV+
-| 2♠      | NF, 5+♠
-| 2NT!    | TRF, 5+♣
-| 3♣!     | INV+, 4+♦
-| 3♦      | NF, 4+♦
-| 3♥!     | FG, 5=OM
-| 3♥ -<br>3♠! | Ask for stopper
-| 3♠!     | FG, 6+OM
+|----------|---|
+| X!       | OPT, INV+
+| 2♠       | NF, 5+♠
+| 2NT!     | TRF, 5+♣
+| 3♣!      | INV+, 4+♦
+| 3♦       | NF, 4+♦
+| 3♥!      | FG, 5=OM
+| 3♥ - 3♠! | Ask for stopper
+| 3♠!      | FG, 6+OM
 
 <figure>
     <img src="funbridge-spec.png" alt="">

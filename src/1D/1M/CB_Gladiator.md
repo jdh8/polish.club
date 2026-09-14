@@ -104,20 +104,20 @@ The special game force via 2♣ is choice of games with relatively balanced and
 exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333).
 
 | 1♦ - 1♥ -<br>1NT - | BAL MIN |
-|------|---|
-| 2♣!  | CB Gladiator, F1
-| 2♣ -<br>2♦ | P/C
-| 2♣ -<br>2♥ | MAX, 3=♥
-| 2♦!  | FG CB
-| 2♥!  | INV, 5+♥
-| 2♠!  | INV, 4+♠
-| 2NT! | TRF, (PRE or FG), 6+♣
-| 3♣   | S/T, 5+♣, 5+♥
-| 3♦   | S/T, 4+♦, 5+♥
-| 3♥   | S/T, 6+♥
-| 3♠!  | SPL, 0--1♠, 6+♥
-| 4♣!  | SPL, 0--1♣, 6+♥
-| 4♦   | FG, 4+♦, 6+♥
+|---------|---|
+| 2♣!     | CB Gladiator, F1
+| 2♣ - 2♦ | P/C
+| 2♣ - 2♥ | MAX, 3=♥
+| 2♦!     | FG CB
+| 2♥!     | INV, 5+♥
+| 2♠!     | INV, 4+♠
+| 2NT!    | TRF, (PRE or FG), 6+♣
+| 3♣      | S/T, 5+♣, 5+♥
+| 3♦      | S/T, 4+♦, 5+♥
+| 3♥      | S/T, 6+♥
+| 3♠!     | SPL, 0--1♠, 6+♥
+| 4♣!     | SPL, 0--1♣, 6+♥
+| 4♦      | FG, 4+♦, 6+♥
 
 | 1♦ - 1♥ -<br>1NT - 2♣ -<br>2♦ - | P/C |
 |-----|---|
@@ -132,23 +132,23 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 ## 1♦ - 1♠ - 1NT {#1D-1S-1NT}
 
 | 1♦ - 1♠ -<br>1NT - | BAL MIN |
-|------|---|
-| 2♣!  | CB Gladiator, F1
-| 2♣ -<br>2♦ | P/C
-| 2♣ -<br>2♥ | MAX, 4+♥
-| 2♣ -<br>2♠ | MAX, 3=♠
-| 2♦!  | FG CB
-| 2♥!  | INV, 4+♥, 5+♠
-| 2♠!  | INV, 5+♠
-| 2NT! | TRF, (PRE or FG), 6+♣
-| 3♣   | S/T, 5+♣, 5+♠
-| 3♦   | S/T, 5+♦, 5+♠
-| 3♥   | S/T, 5+♥, 5+♠
-| 3♠   | S/T, 6+♠
-| 3NT  | 12--15, 4=♠
-| 4♣!  | SPL, 0--1♣, 6+♠
-| 4♦   | FG, 4+♦, 6+♠
-| 4♥!  | SPL, 0--1♥, 6+♠
+|---------|---|
+| 2♣!     | CB Gladiator, F1
+| 2♣ - 2♦ | P/C
+| 2♣ - 2♥ | MAX, 4+♥
+| 2♣ - 2♠ | MAX, 3=♠
+| 2♦!     | FG CB
+| 2♥!     | INV, 4+♥, 5+♠
+| 2♠!     | INV, 5+♠
+| 2NT!    | TRF, (PRE or FG), 6+♣
+| 3♣      | S/T, 5+♣, 5+♠
+| 3♦      | S/T, 5+♦, 5+♠
+| 3♥      | S/T, 5+♥, 5+♠
+| 3♠      | S/T, 6+♠
+| 3NT     | 12--15, 4=♠
+| 4♣!     | SPL, 0--1♣, 6+♠
+| 4♦      | FG, 4+♦, 6+♠
+| 4♥!     | SPL, 0--1♥, 6+♠
 
 | 1♦ - 1♠ -<br>1NT - 2♣ -<br>2♦ - | P/C |
 |-----|---|

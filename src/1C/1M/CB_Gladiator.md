@@ -108,21 +108,21 @@ The special game force via 2♣ is choice of games with (5332).  This treatment
 helps concealing declarer's distribution most of the time.
 
 | 1♣ - 1♥ -<br>1NT - | BAL 12--14 |
-|------|---|
-| 2♣!  | CB Gladiator, F1
-| 2♣ -<br>2♦! | P/C
-| 2♣ -<br>2♥ | MAX, 3=♥
-| 2♦!  | FG CB
-| 2♥!  | INV, 5+♥
-| 2♠!  | INV, 4+♠
-| 2NT! | TRF, (PRE or FG), 6+♣
-| 3♣   | S/T, 5+♣, 5+♥
-| 3♦   | S/T, 5+♦, 5+♥
-| 3♥   | S/T, 6+♥
-| 3♠!  | SPL, 0--1♠, 6+♥
-| 3NT  | 12--15, 4=♥
-| 4♣!  | SPL, 0--1♣, 6+♥
-| 4♦!  | SPL, 0--1♦, 6+♥
+|----------|---|
+| 2♣!      | CB Gladiator, F1
+| 2♣ - 2♦! | P/C
+| 2♣ - 2♥  | MAX, 3=♥
+| 2♦!      | FG CB
+| 2♥!      | INV, 5+♥
+| 2♠!      | INV, 4+♠
+| 2NT!     | TRF, (PRE or FG), 6+♣
+| 3♣       | S/T, 5+♣, 5+♥
+| 3♦       | S/T, 5+♦, 5+♥
+| 3♥       | S/T, 6+♥
+| 3♠!      | SPL, 0--1♠, 6+♥
+| 3NT      | 12--15, 4=♥
+| 4♣!      | SPL, 0--1♣, 6+♥
+| 4♦!      | SPL, 0--1♦, 6+♥
 
 | 1♣ - 1♥ -<br>1NT - 2♣ -<br>2♦ - | BAL 12--14, P/C |
 |-----|---|
@@ -137,23 +137,23 @@ helps concealing declarer's distribution most of the time.
 ## 1♣ - 1♠ - 1NT {#1C-1S-1NT}
 
 | 1♣ - 1♠ -<br>1NT - | BAL 12--14 |
-|------|---|
-| 2♣!  | CB Gladiator, F1
-| 2♣ -<br>2♦! | P/C
-| 2♣ -<br>2♥ | MAX, 4=♥
-| 2♣ -<br>2♠ | MAX, 3=♠
-| 2♦!  | FG CB
-| 2♥!  | INV, 4+♥, 5+♠
-| 2♠!  | INV, 5+♠
-| 2NT! | TRF, (PRE or FG), 6+♣
-| 3♣   | S/T, 5+♣, 5+♠
-| 3♦   | S/T, 5+♦, 5+♠
-| 3♥   | S/T, 5+♥, 5+♠
-| 3♠   | S/T, 6+♠
-| 3NT  | 12--15, 4=♠
-| 4♣!  | SPL, 0--1♣, 6+♠
-| 4♦!  | SPL, 0--1♦, 6+♠
-| 4♥!  | SPL, 0--1♥, 6+♠
+|----------|---|
+| 2♣!      | CB Gladiator, F1
+| 2♣ - 2♦! | P/C
+| 2♣ - 2♥  | MAX, 4=♥
+| 2♣ - 2♠  | MAX, 3=♠
+| 2♦!      | FG CB
+| 2♥!      | INV, 4+♥, 5+♠
+| 2♠!      | INV, 5+♠
+| 2NT!     | TRF, (PRE or FG), 6+♣
+| 3♣       | S/T, 5+♣, 5+♠
+| 3♦       | S/T, 5+♦, 5+♠
+| 3♥       | S/T, 5+♥, 5+♠
+| 3♠       | S/T, 6+♠
+| 3NT      | 12--15, 4=♠
+| 4♣!      | SPL, 0--1♣, 6+♠
+| 4♦!      | SPL, 0--1♦, 6+♠
+| 4♥!      | SPL, 0--1♥, 6+♠
 
 | 1♣ - 1♠ -<br>1NT - 2♣ -<br>2♦ - | BAL 12--14, P/C |
 |-----|---|

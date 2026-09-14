@@ -40,12 +40,12 @@ discussing a single call, such as a table row offering pass.  Thus
 `P - 1♥ - 1NT - -` starts with a passed hand and ends with opener passing.
 
 Each bidding table's header gives the auction before the body row's call or
-continuation.  Include intervening passes explicitly.  In auction cells, use
-`<br>` for a new round after four calls, counting passes:
-`1NT - 2♣ -<br>2♦ -`.  Write the auction out in full, however long; body
-continuations keep the header's round position.  Keep headings and prose
-auctions inline, and retain existing heading IDs when changing their
-displayed notation.
+continuation.  Include intervening passes explicitly.  In auction table headers,
+use `<br>` for a new round after four calls, counting passes:
+`1NT - 2♣ -<br>2♦ -`.  Write the auction out in full, however long; keep body
+continuations inline because the header already determines their round position.
+Keep headings and prose auctions inline, and retain existing heading IDs when
+changing their displayed notation.
 
 Put alternative auctions in separate rows or tables.  Older versions used
 `or<br>` between alternatives; a bare `<br>` in an auction now continues the

@@ -17,7 +17,7 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 | 2♣!        | (R), Gladiator
 | 2♦♥        | INV, 5+#
 | 2♠!        | STAY, INV+, 4=♥
-| 2♠<br>- 3♠! | COG, e.g. MAX 3433
+| 2♠ - 3♠!   | COG, e.g. MAX 3433
 | 2NT!       | NF INV, 5+♣
 | 3X         | FG, 5+#
 | 3♠!        | SPL, 0--1♠, 4=♥
@@ -74,7 +74,7 @@ I have not yet come up with how we utilize the slow cuebid.
 | 2♣!        | (R), Gladiator
 | 2♦♠        | INV, 5+#
 | 2♥!        | STAY, INV+, 4=♠
-| 2♥<br>- 3♥! | COG, e.g. MAX 4333
+| 2♥ - 3♥!   | COG, e.g. MAX 4333
 | 2NT!       | NF INV, 5+♣
 | 3X         | FG, 5+#
 | 3♥!        | SPL, 0--1♥, 4=♠

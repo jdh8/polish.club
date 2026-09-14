@@ -36,17 +36,14 @@ I evaluate stopper quality as [GIB] does.
 
 Separate calls with spaces: <code>1NT - 2♣ (X) XX -</code>.  Parenthesize
 opposing non-pass calls.  Write passes as `-`, but write out `P` for initial
-(quantified) passes or a single call, such as a table row offering pass.  Thus
-<code>P* - - 1♥ - 1NT -</code> starts with 2-3 initial passes and the 1♥ opener
-gets to bid.
+(quantified) passes or a single call, such as a table row offering pass.
+Implicit `P*` prepends every auction, assuming that nobody plays significant
+passes (likely a HUM).  Thus <code>P - 1♥ - 1NT -</code> starts with 2-3 initial
+passes and the 1♥ opener gets to bid.
 
-Each bidding table's header gives the auction before the body row's call or
-continuation.  Include intervening passes explicitly.  In auction table headers,
-use `<br>` for a new round after four calls, counting passes:
-<code>1NT - 2♣ -&lt;br>2♦ -</code>.  Keep body
-continuations inline because the header already determines their round position.
-Keep headings and prose auctions inline, and retain existing heading IDs when
-changing their displayed notation.
+The header of a bidding table shows the auction so far.  Body rows then adds
+calls.  In a table header, start each new round with `<br>`: <code>1NT - 2♣
+-&lt;br>2♦ -</code>.  Do not use `<br>` in body rows.
 
 ## Punctuation
 

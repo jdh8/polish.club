@@ -25,11 +25,6 @@ th {
 	color: var(--fg);
 }
 
-.chapter .♠,
-.chapter .♣ {
-	color: var(--sidebar-fg);
-}
-
 .table-wrapper {
 	margin-top: 1em;
 	margin-bottom: 1em;

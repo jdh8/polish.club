@@ -27,10 +27,10 @@ side suits.
 
 | Trump | RKCB/Turbo | Non-serious |
 |-------|------------|-------------|
-|   ♠   | 4NT        | 3NT         |
-|   ♥   | 4♠ or 4NT  | 3♠          |
-|   ♦   | 4♦ or 4NT  |             |
-|   ♣   | 4♣ or 4NT  |             |
+| ♠     | 4NT        | 3NT         |
+| ♥     | 4♠ or 4NT  | 3♠          |
+| ♦     | 4♦ or 4NT  |             |
+| ♣     | 4♣ or 4NT  |             |
 
 ## Turbo
 

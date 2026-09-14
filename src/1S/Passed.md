@@ -3,11 +3,11 @@
 Late-seat 1♠ reduces to a fairly natural system.
 
 | P - 1♠ - | 11--16, 5+♠ |
-|-------|-------------|
-| 2♣!   | LIM, 3+♠
-| 2♦♥   | INV, 5+#
-| 2♠    | CONST, 3+♠
-| 3♠    | CONST, 4+♠
+|----------|---|
+| 2♣!      | LIM, 3+♠
+| 2♦♥      | INV, 5+#
+| 2♠       | CONST, 3+♠
+| 3♠       | CONST, 4+♠
 
 ## (Reverse) Drury
 
@@ -18,8 +18,8 @@ The subsequent 2♥ is never light in this bidding system.  A light hand with bo
 majors would have opened [Ekren 2♣](../2C.md) instead.
 
 | P - 1♠ -<br>2♣ - | LIM, 3+♠ |
-|----------|----------|
-| 2♦!      | (R)
-| 2♥       | 4+♥
-| 2♠       | S/O, a light opening
-| 2NT+     | NAT FG
+|------|---|
+| 2♦!  | (R)
+| 2♥   | 4+♥
+| 2♠   | S/O, a light opening
+| 2NT+ | NAT FG

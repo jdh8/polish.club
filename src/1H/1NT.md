@@ -4,16 +4,16 @@ Opener is free to pass 1♥ - 1NT with a balanced minimum.  The best major fit a
 1♥ - 1NT - - is balanced 5-3.  Opener can judge when to pass quite safely.
 
 | 1♥ - 1NT - | NAT NF, 0--3♠, 0--3♥ |
-|---------|----------------------|
-| 2♣      | 11--16, 3+♣
-| 2♦      | 11--16, 4+♦
-| 2♥      | 11--14, 6+♥
-| 2♠      | 15--16, 4+♠
-| 2NT!    | 15--16, 6=♥, ≤ ♥AJ9
-| 3♣♦     | 15--16, 5+#
-| 3♥      | 15--16, ((6+♥, AJT+) or 7+♥)
-| 3♠      | 15--16, 4+♠, 6+♥
-| 3NT!    | Gambling, 7+♥ AKQ, no outside A/K
+|------------|---|
+| 2♣         | 11--16, 3+♣
+| 2♦         | 11--16, 4+♦
+| 2♥         | 11--14, 6+♥
+| 2♠         | 15--16, 4+♠
+| 2NT!       | 15--16, 6=♥, ≤ ♥AJ9
+| 3♣♦        | 15--16, 5+#
+| 3♥         | 15--16, ((6+♥, AJT+) or 7+♥)
+| 3♠         | 15--16, 4+♠, 6+♥
+| 3NT!       | Gambling, 7+♥ AKQ, no outside A/K
 
 Just like [1♠ - 1NT](../1S/1NT.md), the threshold of suit quality is based on
 [Binky Points][binky].
@@ -29,30 +29,30 @@ opener accepts game with a maximum or signs off in three of the suit.  The
 direct three-level raise is the weaker, to-play version.
 
 | 1♥ - 1NT -<br>2♣ - | NF, 3+♣ |
-|------------|---------|
-| 2♦         | NF, 5+♦
-| 2♥         | NF, usually 2--3♥
-| 2♠!        | INV, 4+♣
-| 2NT        | BAL INV
-| 3♣         | NF, 4+♣
-| 3♦         | INV, 6+♦
-| 3♥         | INV, 3=♥
+|-----|---|
+| 2♦  | NF, 5+♦
+| 2♥  | NF, usually 2--3♥
+| 2♠! | INV, 4+♣
+| 2NT | BAL INV
+| 3♣  | NF, 4+♣
+| 3♦  | INV, 6+♦
+| 3♥  | INV, 3=♥
 
 | 1♥ - 1NT -<br>2♦ - | NF, 4+♦ |
-|------------|---------|
-| 2♥         | NF, usually 2--3♥
-| 2♠!        | INV, 4+♦
-| 2NT        | BAL INV
-| 3♣         | INV, 6+♣
-| 3♦         | NF, 4+♦
-| 3♥         | INV, 3=♥
+|-----|---|
+| 2♥  | NF, usually 2--3♥
+| 2♠! | INV, 4+♦
+| 2NT | BAL INV
+| 3♣  | INV, 6+♣
+| 3♦  | NF, 4+♦
+| 3♥  | INV, 3=♥
 
 | 1♥ - 1NT -<br>2♥ - | NF, 6+♥ |
-|------------|---------|
-| 2♠!        | INV, 2+♥
-| 2NT        | BAL INV
-| 3♣♦        | INV, 6+#
-| 3♥         | NF, 3+♥
+|-----|---|
+| 2♠! | INV, 2+♥
+| 2NT | BAL INV
+| 3♣♦ | INV, 6+#
+| 3♥  | NF, 3+♥
 
 ## Precision 2NT
 
@@ -64,9 +64,9 @@ Every call is therefore a natural sign-off — pass with a balanced minimum or r
 a long minor or take the 6--3 heart fit at the level your strength buys.
 
 | 1♥ - 1NT -<br>2NT - | 15--16, 6=♥ |
-|-------------|-------------|
-| 3♣          | S/O, 6+♣
-| 3♦          | S/O, 6+♦
-| 3♥          | S/O, 3=♥
-| 3NT         | S/O, 0--2♥
-| 4♥          | S/O, 3=♥
+|-----|---|
+| 3♣  | S/O, 6+♣
+| 3♦  | S/O, 6+♦
+| 3♥  | S/O, 3=♥
+| 3NT | S/O, 0--2♥
+| 4♥  | S/O, 3=♥

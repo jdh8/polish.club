@@ -15,11 +15,11 @@ resolve where RKCB is.
 - The 10th trump equates to the trump queen.
 
 | 4Y - | RKCB |
-|-----|------|
-| +1  | 1 or 4 key cards
-| +2  | 0 or 3 key cards
-| +3  | (2 or 5) key cards without the trump queen
-| +4  | (2 or 5) key cards with the trump queen
+|------|---|
+| +1   | 1 or 4 key cards
+| +2   | 0 or 3 key cards
+| +3   | (2 or 5) key cards without the trump queen
+| +4   | (2 or 5) key cards with the trump queen
 
 ## Anti-spiral scan
 
@@ -38,7 +38,7 @@ To ask for the trump queen after 4Y+1 and 4Y+2, bid the cheapest step other than
 queen nor any useful void.
 
 | -                   | Asking bid below 5X |
-|---------------------|---------------------|
+|---------------------|---|
 | 5X                  | No trump Q
 | 6X                  | No trump Q but a useful void
 | \[5X+1..6X&minus;1] | Trump Q and *this* king
@@ -49,7 +49,7 @@ into play.  The cheapest step catches all unallocated side kings.  This
 agreement helps further asking.
 
 | 5Z -                | Asking bid above 5X |
-|---------------------|---------------------|
+|---------------------|---|
 | 6X                  | No trump Q
 | 6X&minus;1          | Trump Q but no side kings
 | \[5Z+2..6X&minus;2] | Trump Q and *this* king
@@ -63,7 +63,7 @@ shows 2 or 5 key cards), the next available step other than 5X asks only for
 side kings.
 
 | 5Z -                | Asking bid |
-|---------------------|------------|
+|---------------------|---|
 | 6X                  | No side kings
 | \[5Z+2..6X&minus;1] | *This* king
 | 5NT                 | The king of Z

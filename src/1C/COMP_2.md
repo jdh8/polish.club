@@ -4,10 +4,10 @@ Bidding against 1♣ (1NT) is analogous to a weak notrump.  The agreement to
 borrow Landy 2♣ here is also called Landik.
 
 | 1♣ (1NT) | - |
-|---------|---|
-| X       | PEN, INV+
-| 2♣!     | UNBAL, 4+♠, 4+♥
-| 2NT!    | UNBAL FG
+|----------|---|
+| X        | PEN, INV+
+| 2♣!      | UNBAL, 4+♠, 4+♥
+| 2NT!     | UNBAL FG
 
 After 2♣, advance as in the [Landy defense to 1NT](../Defense/1NT/2C.md).
 

@@ -32,6 +32,26 @@ I evaluate stopper quality as [GIB] does.
 
 [GIB]: https://www.bridgebase.com/doc/gib_descriptions.php
 
+## Bidding notation
+
+Separate calls with spaces: `1NT - 2♣ (X) XX -`.  Parenthesize each opposing
+non-pass call.  Write passes as `-`, retaining `P` for initial passes or when
+discussing a single call, such as a table row offering pass.  Thus
+`P - 1♥ - 1NT - -` starts with a passed hand and ends with opener passing.
+
+Each bidding table's header gives the auction before the body row's call or
+continuation.  Include intervening passes explicitly.  In auction cells, use
+`<br>` for a new round after four calls, counting passes:
+`1NT - 2♣ -<br>2♦ -`.  Body continuations keep the header's round position;
+`...` abbreviates earlier calls without resetting the round.  Keep headings
+and prose auctions inline, and retain existing heading IDs when changing
+their displayed notation.
+
+Put alternative auctions in separate rows or tables.  Older versions used
+`or<br>` between alternatives; a bare `<br>` in an auction now continues the
+same auction.  Literal newlines break Markdown table rows, and a bare `|`
+starts another cell rather than expressing an alternative.
+
 ## Punctuation
 
 Descriptions in bidding tables are dense in information.  To make them concise,

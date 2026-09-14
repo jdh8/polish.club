@@ -13,7 +13,7 @@ notrump opening.  As for strength, I recommend 10--15 but 5--11 by passed hand.
 | 2♦♥♠   | NAT, 5+#
 | 2NT!   | UNT, 5+♦, 5+♣
 
-The unusual (1NT)2NT is the same as our [unusual notrump opening](../2NT.md).
+The unusual (1NT) 2NT is the same as our [unusual notrump opening](../2NT.md).
 
 ## Woolsey double
 
@@ -25,7 +25,7 @@ Against strong notrump or by passed hand, play [Woolsey] double in any seat.
 |--------|--------------|
 | X!     | (ART, 5+♦♣, 4+♠♥) or UNBAL 16+
 
-| (1NT)X- | (ART, 5+♦♣, 4+♠♥) or UNBAL 16+ |
+| (1NT) X - | (ART, 5+♦♣, 4+♠♥) or UNBAL 16+ |
 |---------|----------------------------|
 | 2♣!     | P/C
 | 2♦!     | Ask for the major suit

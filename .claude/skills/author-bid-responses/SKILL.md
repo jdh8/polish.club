@@ -6,9 +6,9 @@ description: >-
   useful-space principle) and wiring any new file into SUMMARY.md. Use when a
   call named in a parent file has no authored continuation — a dead-end branch
   that breaks the pons ML import — or when asked to write responses to a specific
-  bid such as 1♣-3♦!. Drafts ONE auction at a time and pauses for the user's
+  bid such as 1♣ - 3♦!. Drafts ONE auction at a time and pauses for the user's
   bridge judgment before continuing.
-argument-hint: '<auction or list>, e.g. "1♣-3♦!" — or the exported batch of target auctions'
+argument-hint: '<auction or list>, e.g. "1♣ - 3♦!" — or the exported batch of target auctions'
 ---
 
 # Author bid responses
@@ -29,13 +29,13 @@ principle. The abbreviation list lives in `book.toml`; `NOTES.md` and
 ## When to use
 
 - The user exports/points to artificial calls that lack an authored continuation.
-- "Write the responses to `1♣-3♦!`" (or any single auction).
+- "Write the responses to `1♣ - 3♦!`" (or any single auction).
 - Filling the dead-end branches that made the pons ML import fail.
 
 ## Step 1 — Understand the call
 
 1. Locate where the call is **defined**: open the parent file and find its row
-   (e.g. `1♣-3♦!` is `src/1C.md:30` → `3♦! | BAL FG, 12--15, 2--3♠, 2--3♥, 3--4♦, 3--4♣`).
+   (e.g. `1♣ - 3♦!` is `src/1C.md:30` → `3♦! | BAL FG, 12--15, 2--3♠, 2--3♥, 3--4♦, 3--4♣`).
    Read the **description cell** for what it shows: strength, suit lengths, and the
    F/INV/FG tag.
 2. Read the **header gloss** and the prose above the table for the bidder's range.

@@ -15,9 +15,9 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 Compared with XYZ in literature, direct 2X are swapped with the variants in 2♣.
 This is because invitations are prone to competition.
 
-## 1♣-1♥-1♠ {#1C-1H-1S}
+## 1♣ - 1♥ - 1♠ {#1C-1H-1S}
 
-| 1♣-1♥-1♠- | F, 4+♠ |
+| 1♣ - 1♥ -<br>1♠ - | F, 4+♠ |
 |-----------|--------|
 | 1NT       | MIN, 7--10, 0--3♠, 4--5♥
 | 2♣!       | CB Gladiator, F1
@@ -32,7 +32,7 @@ This is because invitations are prone to competition.
 | 3NT!      | COG, 44(32)
 | 4♥♠       | NAT PRE
 
-| 1♣-1♥-1♠-1NT- | NAT MIN |
+| 1♣ - 1♥ -<br>1♠ - 1NT - | NAT MIN |
 |---------------|---------|
 | 2♣            | NF, 11--16, 5+♣
 | 2♦!           | 4SFG
@@ -48,7 +48,7 @@ This is because invitations are prone to competition.
 The special game force here is mild balanced slam try (15--17), interested when
 opener bypasses 2♦.
 
-| 1♣-1♥-1♠-2♣- | CB Gladiator |
+| 1♣ - 1♥ -<br>1♠ - 2♣ - | CB Gladiator |
 |--------------|--------------|
 | 2♦!          | P/C, 11--16
 | 2♥           | INV, 3=♥
@@ -60,7 +60,7 @@ opener bypasses 2♦.
 | 3♠!          | FG, 5+♣, 4=♠, 0--2♥
 | 3NT          | BAL S/T, 21--23, 4=♠
 
-| 1♣-1♥-1♠-2♣-2♦- | P/C, 11--16 |
+| 1♣ - 1♥ -<br>1♠ - 2♣ -<br>2♦ - | P/C, 11--16 |
 |-----------------|-------------|
 | P               | MIN, 5+♦
 | 2♥              | UNBAL MIN, 5+♥
@@ -81,7 +81,7 @@ asks for half-tricks.
 With 17 and three hearts, 2♥ shows four spades and 3♥ shows five or more.
 With at most two hearts, 2♠ also starts at 17.
 
-| 1♣-1♥-1♠-2♦- | FG CB |
+| 1♣ - 1♥ -<br>1♠ - 2♦ - | FG CB |
 |--------------|-------|
 | 2♥           | (11--16, 3=♥) or (17, 4=♠, 3=♥)
 | 2♠           | 17+, 5+♠, 0--2♥
@@ -98,20 +98,20 @@ artificial checkback.  To avoid confusion, I suggest keeping 2♦ artificial.
 Openings in the third and fourth seat can be light.  Hence, 2♦ invites full
 openers.
 
-| P-1♣-1♥-1♠- | 4+♠ |
+| P - 1♣ -<br>1♥ - 1♠ - | 4+♠ |
 |-------------|-----|
 | 2♦!         | STR INV, 5--6♥
 
-## 1♣-1♥-1NT {#1C-1H-1NT}
+## 1♣ - 1♥ - 1NT {#1C-1H-1NT}
 
 The special game force via 2♣ is choice of games with (5332).  This treatment
 helps concealing declarer's distribution most of the time.
 
-| 1♣-1♥-1NT- | BAL 12--14 |
+| 1♣ - 1♥ -<br>1NT - | BAL 12--14 |
 |------------|------------|
 | 2♣!        | CB Gladiator, F1
-| 2♣-2♦!     | P/C
-| 2♣-2♥      | MAX, 3=♥
+| 2♣ -<br>2♦! | P/C
+| 2♣ -<br>2♥ | MAX, 3=♥
 | 2♦!        | FG CB
 | 2♥!        | INV, 5+♥
 | 2♠!        | INV, 4+♠
@@ -124,7 +124,7 @@ helps concealing declarer's distribution most of the time.
 | 4♣!        | SPL, 0--1♣, 6+♥
 | 4♦!        | SPL, 0--1♦, 6+♥
 
-| 1♣-1♥-1NT-2♣-2♦- | BAL 12--14, P/C |
+| 1♣ - 1♥ -<br>1NT - 2♣ -<br>2♦ - | BAL 12--14, P/C |
 |------------------|-----------------|
 | 2♥               | S/O, 5+♥
 | 2♠               | INV, 4+♠, 6+♥
@@ -134,14 +134,14 @@ helps concealing declarer's distribution most of the time.
 | 3♥               | INV, S-SOL 6+♥
 | 3NT              | COG, 5♥(332)
 
-## 1♣-1♠-1NT {#1C-1S-1NT}
+## 1♣ - 1♠ - 1NT {#1C-1S-1NT}
 
-| 1♣-1♠-1NT- | BAL 12--14 |
+| 1♣ - 1♠ -<br>1NT - | BAL 12--14 |
 |------------|------------|
 | 2♣!        | CB Gladiator, F1
-| 2♣-2♦!     | P/C
-| 2♣-2♥      | MAX, 4=♥
-| 2♣-2♠      | MAX, 3=♠
+| 2♣ -<br>2♦! | P/C
+| 2♣ -<br>2♥ | MAX, 4=♥
+| 2♣ -<br>2♠ | MAX, 3=♠
 | 2♦!        | FG CB
 | 2♥!        | INV, 4+♥, 5+♠
 | 2♠!        | INV, 5+♠
@@ -155,7 +155,7 @@ helps concealing declarer's distribution most of the time.
 | 4♦!        | SPL, 0--1♦, 6+♠
 | 4♥!        | SPL, 0--1♥, 6+♠
 
-| 1♣-1♠-1NT-2♣-2♦- | BAL 12--14, P/C |
+| 1♣ - 1♠ -<br>1NT - 2♣ -<br>2♦ - | BAL 12--14, P/C |
 |------------------|-----------------|
 | 2♥               | INV, 5+♥, 5+♠
 | 2♠               | S/O, 5+♠

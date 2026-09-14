@@ -1,6 +1,6 @@
 # Competitive bidding
 
-## 1NT(X)
+## 1NT (X) {#1ntx}
 
 I suggest [Terrorist's runout][run] regardless of what (X) means.  This runout
 also applies to a conventional double, yet responder can also pass balanced
@@ -8,7 +8,7 @@ hands more often.
 
 [run]: https://www.ptt.cc/man/BridgeClub/D6D1/D49B/D823/DD4E/M.1160796412.A.8E9.html
 
-| 1NT(X) | - |
+| 1NT (X) | - |
 |--------|---|
 | XX     | PEN
 | 2♣!    | P/C, (5+♣ or (4+♦, 4+♠♥))
@@ -19,14 +19,14 @@ hands more often.
 
 Opener often runs with clubs because it is hard for responder to do so.
 
-| 1NT(X)P | - |
+| 1NT (X) - - | - |
 |---------|---|
 | XX      | 5+ suit
 | 2♣!     | 4+♣, 4+ another suit
 
-## 1NT(2♣) {#1NT(2C)}
+## 1NT (2♣) {#1NT(2C)}
 
-*Systems on* is a decent approach over 1NT(2♣︎).  The overcall is somewhat
+*Systems on* is a decent approach over 1NT (2♣︎).  The overcall is somewhat
 ignored, and X replaces the stolen bid of 2♣.  Since continuations over 1NT are
 major-suit oriented, it matters whether (2♣) shows a major suit.
 
@@ -34,7 +34,7 @@ major-suit oriented, it matters whether (2♣) shows a major suit.
 
 This kind of 2♣︎ requires extra care.  I recommend BTU vs Unusual.
 
-| 1NT(2♣) | Both majors |
+| 1NT (2♣) | Both majors |
 |---------|-------------|
 | X       | PEN for either major
 | 2♦      | NF, 5+♦
@@ -46,20 +46,20 @@ This kind of 2♣︎ requires extra care.  I recommend BTU vs Unusual.
 
 ### (2♣) specifies one major
 
-This position is analogous to [(1M)1NT](../Defense/1Y/1NT.md).  X replaces
+This position is analogous to [(1M) 1NT](../Defense/1Y/1NT.md).  X replaces
 the Gladiator 2♣.
 
 ### (2♣) specifies no major
 
 Ignore the (2♣) overcall.  X replaces the Stayman 2♣ as usual.
 
-## 1NT(2♦♥♠)
+## 1NT (2♦♥♠) {#1nt2}
 
 **Rubinsohl** covers these auctions.  As with Rubens advances, transfer
 structure saves bidding space.  Showing the suit quickly also improves
 competitive accuracy.
 
-| 1NT(2♦) | - |
+| 1NT (2♦) | - |
 |---------|---|
 | X       | OPT
 | 2M      | NAT NF
@@ -69,7 +69,7 @@ competitive accuracy.
 | 3♥!     | INV+ TRF to 3♠
 | 3♠!     | FG TRF to 3NT or 4♣
 
-| 1NT(2♥) | - |
+| 1NT (2♥) | - |
 |---------|---|
 | X       | OPT
 | 2♠      | NAT NF
@@ -84,7 +84,7 @@ hearts.
 
 [larryco]: https://www.larryco.com/bridge-articles/transfer-lebensohl
 
-| 1NT(2♠) | - |
+| 1NT (2♠) | - |
 |---------|---|
 | X       | OPT
 | 2NT!    | TRF to 3♣
@@ -93,11 +93,11 @@ hearts.
 | 3♥!     | FG TRF to 3NT or 4♣
 | 3♠!     | FG STAY
 
-## 1NT(2NT)
+## 1NT (2NT) {#1nt2nt}
 
 [BTU vs Unusual](../BTUVU.md) suffices.
 
-| 1NT(2NT) | 5+♦, 5+♣ |
+| 1NT (2NT) | 5+♦, 5+♣ |
 |----------|----------|
 | X        | PEN
 | 3♣!      | INV+, 5+♠

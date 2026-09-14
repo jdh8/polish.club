@@ -5,23 +5,23 @@ Dead-end artificial calls from the discovery audit. Feed to
 
 ## polish.club — to do
 
-- [x] `1♠-1NT-2NT` · src/1S/1NT.md · natural sign-offs + 3♣ ask for 3+♥
-- [ ] `1♣-1♥-2♠!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
-- [ ] `1♣-1♠-3♥!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
-- [ ] `(2M)-3M!`       · src/Defense/2X.md     · ask for stopper (right-side NT)
-- [ ] `(1Y)X-3♠!`      · src/Defense/1Y/X.md   · ask for stopper
-- [ ] `(1Y)1M-2m-3Y!`  · src/Defense/1Y/1Z.md  · FG, ask for stopper
-- [ ] `1NT(2♣)-3♥♠!`   · src/1NT/COMP_2.md     · ask for stopper
-- [ ] `1♦(2♦)-3♥♠!`    · src/1D/COMP_2.md      · ask for stopper
-- [ ] `1♦(2M)-3♥-3♠!`  · src/1D/COMP_2.md      · ask for stopper
-- [ ] `(1NT)X-2♦!`     · src/Defense/1NT.md    · Woolsey — doubler names the major
+- [x] `1♠ - 1NT - 2NT` · src/1S/1NT.md · natural sign-offs + 3♣ ask for 3+♥
+- [ ] `1♣ - 1♥ - 2♠!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
+- [ ] `1♣ - 1♠ - 3♥!`      · src/1C/1M.md  · FG, 5+♦ 5+♣ (minor two-suiter)
+- [ ] `(2M) 3M!`       · src/Defense/2X.md     · ask for stopper (right-side NT)
+- [ ] `(1Y) X - 3♠!`      · src/Defense/1Y/X.md   · ask for stopper
+- [ ] `(1Y) 1M - 2m - 3Y!`  · src/Defense/1Y/1Z.md  · FG, ask for stopper
+- [ ] `1NT (2♣) 3♥♠!`   · src/1NT/COMP_2.md     · ask for stopper
+- [ ] `1♦ (2♦) 3♥♠!`    · src/1D/COMP_2.md      · ask for stopper
+- [ ] `1♦ (2M) 3♥ - 3♠!`  · src/1D/COMP_2.md      · ask for stopper
+- [ ] `(1NT) X - 2♦!`     · src/Defense/1NT.md    · Woolsey — doubler names the major
 - [ ] `1♣ competitive — responder's transfers` · src/1C/COMP_1.md
 - [x] `1♣ competitive — Landik`                · src/1C/COMP_2.md · Landy advances
 
 ## Decide first — real gap or intentional leaf? (bridge judgment)
 
-- `1♣-3♦!`              · src/1C.md · BAL FG, 12--15
-- `1♣-2♠!`, `1♣-3♣!`    · src/1C.md · INV, 6+ minor
-- `1♥-2♠-2NT!`          · src/1H.md · invite 6+♠
-- `(1♠)1NT-2♠!`, `(1♥)1NT-2♥!` · src/Defense/1Y/1NT.md · Gladiator STAY (only
+- `1♣ - 3♦!`              · src/1C.md · BAL FG, 12--15
+- `1♣ - 2♠!`, `1♣ - 3♣!`    · src/1C.md · INV, 6+ minor
+- `1♥ - 2♠ - 2NT!`          · src/1H.md · invite 6+♠
+- `(1♠) 1NT - 2♠!`, `(1♥) 1NT - 2♥!` · src/Defense/1Y/1NT.md · Gladiator STAY (only
   the COG rebid is shown)

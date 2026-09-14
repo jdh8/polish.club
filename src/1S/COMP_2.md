@@ -3,7 +3,7 @@
 Notrump becomes a cuebid after a double.  We still need fit-showing jumps, so
 Truscott 2NT fits well.
 
-| 1♠(X) | - |
+| 1♠ (X) | - |
 |-------|---|
 | XX    | NF BAL G/T, 10+
 | 1♠    | Usually 5+♠
@@ -17,17 +17,17 @@ Truscott 2NT fits well.
 | 3♥!   | INV, 6+♥, 3=♠
 | 3♠    | COMP, 7--9, 4+♠
 
-Natural defense suffices over 1♠(1NT).
+Natural defense suffices over 1♠ (1NT).
 
-| 1♠(1NT) | - |
+| 1♠ (1NT) | - |
 |---------|---|
 | X       | PEN, INV+
 | 2NT!    | LIM 4+♠ or UNBAL FG
 
-Transfers à la Rubens apply over 1♠(2♣♦♥).  Note that 2NT is natural because
+Transfers à la Rubens apply over 1♠ (2♣♦♥).  Note that 2NT is natural because
 we still have 2♠.
 
-| 1♠(2X) | - |
+| 1♠ (2X) | - |
 |--------|---|
 | X      | T/O
 | 2Y     | NF, 5+#
@@ -36,30 +36,30 @@ we still have 2♠.
 | 3♥!    | LIM+, 3+♠
 | 3♠     | CONST, 4+♠
 
-| 1♠(2♣) | - |
+| 1♠ (2♣) | - |
 |--------|---|
 | 3♣!    | INV+, 6+♦
 | 3♦!    | INV+, 6+♥
 
-| 1♠(2♦) | - |
+| 1♠ (2♦) | - |
 |--------|---|
 | 3♣     | INV, 6+♣
 | 3♦!    | INV+, 6+♥
 
-| 1♠(2♥) | - |
+| 1♠ (2♥) | - |
 |--------|---|
 | 3♣♦    | INV, 6+#
 
 Doubling the cuebid is penalty oriented and lead directing.
 
-| 1♠(2♠) | - |
+| 1♠ (2♠) | - |
 |--------|---|
 | X      | PEN, INV+
 
 If the only known suit from (2♠) is hearts, plain Rubens suffices.  X and 2NT
 switch roles.
 
-| 1♠(2♠) | ♥ (+ unknown suit) |
+| 1♠ (2♠) | ♥ (+ unknown suit) |
 |--------|--------------------|
 | 2NT!   | NF T/O
 | 3♣♦    | INV, 6+#

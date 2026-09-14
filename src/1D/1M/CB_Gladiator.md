@@ -15,9 +15,9 @@ As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
 Compared with XYZ in literature, direct 2X are swapped with the variants in 2♣.
 This is because invitations are prone to competition.
 
-## 1♦-1♥-1♠ {#1D-1H-1S}
+## 1♦ - 1♥ - 1♠ {#1D-1H-1S}
 
-| 1♦-1♥-1♠- | 11--17, 4+♠ |
+| 1♦ - 1♥ -<br>1♠ - | 11--17, 4+♠ |
 |-----------|-------------|
 | 1NT       | MIN, 0--3♠, 4--5♥, 0--3♦
 | 2♣!       | CB Gladiator, F1
@@ -30,7 +30,7 @@ This is because invitations are prone to competition.
 | 3♥        | S/T, 6+♥
 | 3♠        | S/T, 4+♠
 
-| 1♦-1♥-1♠-1NT- | NAT MIN |
+| 1♦ - 1♥ -<br>1♠ - 1NT - | NAT MIN |
 |---------------|---------|
 | 2♣            | NF, 4+♣
 | 2♦            | NF, 6+♦
@@ -47,7 +47,7 @@ This is because invitations are prone to competition.
 The special game force here is mild balanced slam try (15--17), interested when
 opener bypasses 2♦.
 
-| 1♦-1♥-1♠-2♣- | CB Gladiator |
+| 1♦ - 1♥ -<br>1♠ - 2♣ - | CB Gladiator |
 |--------------|--------------|
 | 2♦           | (R) MIN
 | 2♥           | INV, 3=♥
@@ -58,7 +58,7 @@ opener bypasses 2♦.
 | 3♥           | FG, 3=♥
 | 3♠           | INV, 5+♠, 6+♦
 
-| 1♦-1♥-1♠-2♣-2♦- | MIN |
+| 1♦ - 1♥ -<br>1♠ - 2♣ -<br>2♦ - | MIN |
 |-----------------|-----|
 | 2♥              | S/O, UNBAL 5+♥
 | 2♠              | S/O, 4+♠
@@ -77,7 +77,7 @@ asks for half-tricks.
 
 Obvious maximum rebids are 2♠ and 3♥.  The other rebids show minimum hands.
 
-| 1♦-1♥-1♠-2♦- | FG CB |
+| 1♦ - 1♥ -<br>1♠ - 2♦ - | FG CB |
 |--------------|-------|
 | 2♥           | 11--14, 3=♥
 | 2♠           | 15+, 4+♠, 0--2♥
@@ -94,20 +94,20 @@ artificial checkback.  To avoid confusion, I suggest keeping 2♦ artificial.
 Openings in the third and fourth seat can be light.  Hence, 2♦ invites full
 openers.
 
-| P-1♦-1♥-1♠- | 11--17, 4+♠ |
+| P - 1♦ -<br>1♥ - 1♠ - | 11--17, 4+♠ |
 |-------------|-------------|
 | 2♦!         | STR INV, 5--6♥
 
-## 1♦-1♥-1NT {#1D-1H-1NT}
+## 1♦ - 1♥ - 1NT {#1D-1H-1NT}
 
 The special game force via 2♣ is choice of games with relatively balanced and
 exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333).
 
-| 1♦-1♥-1NT- | BAL MIN |
+| 1♦ - 1♥ -<br>1NT - | BAL MIN |
 |------------|---------|
 | 2♣!        | CB Gladiator, F1
-| 2♣-2♦      | P/C
-| 2♣-2♥      | MAX, 3=♥
+| 2♣ -<br>2♦ | P/C
+| 2♣ -<br>2♥ | MAX, 3=♥
 | 2♦!        | FG CB
 | 2♥!        | INV, 5+♥
 | 2♠!        | INV, 4+♠
@@ -119,7 +119,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 4♣!        | SPL, 0--1♣, 6+♥
 | 4♦         | FG, 4+♦, 6+♥
 
-| 1♦-1♥-1NT-2♣-2♦- | P/C |
+| 1♦ - 1♥ -<br>1NT - 2♣ -<br>2♦ - | P/C |
 |------------------|-----|
 | 2♥               | S/O, 5+♥
 | 2♠               | INV, 4+♠, 6+♥
@@ -129,14 +129,14 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 3♥               | INV, S-SOL 6+♥
 | 3NT              | COG, 6=♥
 
-## 1♦-1♠-1NT {#1D-1S-1NT}
+## 1♦ - 1♠ - 1NT {#1D-1S-1NT}
 
-| 1♦-1♠-1NT- | BAL MIN |
+| 1♦ - 1♠ -<br>1NT - | BAL MIN |
 |------------|---------|
 | 2♣!        | CB Gladiator, F1
-| 2♣-2♦      | P/C
-| 2♣-2♥      | MAX, 4+♥
-| 2♣-2♠      | MAX, 3=♠
+| 2♣ -<br>2♦ | P/C
+| 2♣ -<br>2♥ | MAX, 4+♥
+| 2♣ -<br>2♠ | MAX, 3=♠
 | 2♦!        | FG CB
 | 2♥!        | INV, 4+♥, 5+♠
 | 2♠!        | INV, 5+♠
@@ -150,7 +150,7 @@ exactly 6 cards in the bid major.  It is not (5332) because 1♦ is never (4333)
 | 4♦         | FG, 4+♦, 6+♠
 | 4♥!        | SPL, 0--1♥, 6+♠
 
-| 1♦-1♠-1NT-2♣-2♦- | P/C |
+| 1♦ - 1♠ -<br>1NT - 2♣ -<br>2♦ - | P/C |
 |------------------|-----|
 | 2♥               | INV, 4+♥, 6+♠
 | 2♠               | S/O, 5+♠

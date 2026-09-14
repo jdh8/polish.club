@@ -23,9 +23,12 @@ The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
 
 ## Table format (GitHub-flavored pipe tables)
 
+- Follow **Bidding notation** in `src/README.md` for spaces, passes, opponents,
+  round breaks, and alternative auctions.
 - A **header row** is the row directly above the `|---|---|` separator. Cell 1 is
-  the auction prefix ending in `-`; cell 2 is a short gloss (usually the bidder's
-  range/shape). Example: `| 1♣-2♣- | FG, 5+♦ |`.
+  the auction through the opponent's last call, including a pass; cell 2 is a
+  short gloss (usually the bidder's range/shape).
+  Example: `| 1♣ - 2♣ - | FG, 5+♦ |`.
 - **Body rows**: cell 1 is the call, cell 2 is the dense description. The trailing
   pipe is omitted (repo style): `| 2♦!    | NAT, (11--14 or 18+), 4+♦`.
 - Order body rows **cheapest call first** (1♦ before 1♥ … before 3NT).
@@ -34,13 +37,14 @@ The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
 
 ## Auction → file / anchor
 
-- **File path** mirrors the auction: opening directory + the call. `1♣-2♥` →
-  `src/1C/2H.md`; `1♠-2♦` → `src/1S/2R.md` (combined). Letters: ♣→C ♦→D ♥→H ♠→S,
+- **File path** mirrors the auction: opening directory + the call. `1♣ - 2♥` →
+  `src/1C/2H.md`; `1♠ - 2♦` → `src/1S/2R.md` (combined). Letters: ♣→C ♦→D ♥→H ♠→S,
   NT stays `NT`.
-- **Inline anchor** for a deeper continuation: `## 1♣-1♦-2♣ {#1C-1D-2C}` — the id
-  is the auction with glyphs mapped to letters (`src/1C/1D.md:109`).
+- **Inline anchor** for a deeper continuation: `## 1♣ - 1♦ - 2♣ {#1C-1D-2C}` — the id
+  uses the compact auction with glyphs mapped to letters. Preserve existing IDs
+  when changing visible auction notation.
 - **File vs inline**: a *first response to an opener-level artificial call* (depth
-  2, e.g. `1♣-3♦`) gets its **own file** `src/<OPENER>/<CALL>.md`. A continuation
+  2, e.g. `1♣ - 3♦`) gets its **own file** `src/<OPENER>/<CALL>.md`. A continuation
   *under an already-authored response* gets an **inline `## … {#anchor}` section**
   in the existing file.
 - **Combined files**: when two calls pair naturally, follow precedent and use one

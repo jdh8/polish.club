@@ -2,7 +2,7 @@
 
 Late-seat 1♠ reduces to a fairly natural system.
 
-| P-1♠- | 11--16, 5+♠ |
+| P - 1♠ - | 11--16, 5+♠ |
 |-------|-------------|
 | 2♣!   | LIM, 3+♠
 | 2♦♥   | INV, 5+#
@@ -17,7 +17,7 @@ panda.
 The subsequent 2♥ is never light in this bidding system.  A light hand with both
 majors would have opened [Ekren 2♣](../2C.md) instead.
 
-| P-1♠-2♣- | LIM, 3+♠ |
+| P - 1♠ -<br>2♣ - | LIM, 3+♠ |
 |----------|----------|
 | 2♦!      | (R)
 | 2♥       | 4+♥

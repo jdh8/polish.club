@@ -10,14 +10,14 @@ distributions are:
 Inclusive opening of 1NT solves rebidding problems:
 
 - Failure to reverse (especially a red suit) in competition
-- Awful rebidding to 1♥-1♠
-- Tricky rebidding to 1♥♠-1NT
+- Awful rebidding to 1♥ - 1♠
+- Tricky rebidding to 1♥♠ - 1NT
 
 Narrow (11--16) major suit openings welcome Precision-like continuations.  Fast
 and precise bidding follows.  Now we open 1NT for balanced 17-counts and 1♣ for
 unbalanced ones.
 
-| 1NT- | BAL 15--17 |
+| 1NT - | BAL 15--17 |
 |------|------------|
 | 2♣!  | STAY, maybe crawling
 | 2♦!  | TRF, 5+♥
@@ -59,7 +59,7 @@ over 2♦ when lacking diamonds.
 
 ## Discussion on bidding 4=♠ and 5+♥
 
-Crawling Stayman has a side effect.  The standard meaning of 2♣-2♦-2♥ needs a
+Crawling Stayman has a side effect.  The standard meaning of 2♣ - 2♦ - 2♥ needs a
 new home.  Luckily, there is a spare step after the heart transfer because we
 bid 3♦ for invitational+ 5+ 5+ majors.
 
@@ -78,7 +78,7 @@ four level.  With a maximum and a doubleton in each major (e.g. 22(54)), opener
 picks 3NT instead.  With a maximum and slam interest, opener control-bids 4♣ or
 4♦ rather than jumping straight to game:
 
-| 1NT-3♦- | INV+, 5+♠, 5+♥ |
+| 1NT - 3♦ - | INV+, 5+♠, 5+♥ |
 |---------|----------------|
 | 3♥      | MIN, prefers ♥
 | 3♠      | MIN, prefers ♠
@@ -92,15 +92,15 @@ A choice-of-games responder raises opener's three-level pick to game.
 
 ## Minor suit transfers
 
-| 1NT-2♠- | 6+♣ or QUANT INV |
+| 1NT - 2♠ - | 6+♣ or QUANT INV |
 |---------|------------------|
 | 2NT     | MIN
 | 3♣!     | MAX, 1--3♣
-| 3♣-3♦!  | FG PUP STAY
-| 3♣-3♥♠! | SPL, 0--1#
+| 3♣ - 3♦! | FG PUP STAY
+| 3♣ - 3♥♠! | SPL, 0--1#
 | 3♦♥♠!   | MAX, 4--6♣, good stopper
 
-| 1NT-2NT- | 6+♦ or (5+♦, 4+♣) |
+| 1NT - 2NT - | 6+♦ or (5+♦, 4+♣) |
 |----------|-------------------|
 | 3♣!      | 1--2♦
 | 3♦       | 3--4♦
@@ -109,12 +109,12 @@ A choice-of-games responder raises opener's three-level pick to game.
 
 ## Puppet Stayman at 3♣
 
-| 1NT-3♣- | PUP STAY |
+| 1NT - 3♣ - | PUP STAY |
 |---------|----------|
 | 3♦!     | 2--4♠, 2--4♥
-| 3♦-3♥!  | Smolen TRF, 4=♠
-| 3♦-3♠!  | Smolen TRF, 4=♥
-| 3♦-3NT  | S/O
-| 3♦-4♣!  | S/T, 44(xx)
-| 3♦-4♦!  | COG, 44(xx)
+| 3♦ - 3♥! | Smolen TRF, 4=♠
+| 3♦ - 3♠! | Smolen TRF, 4=♥
+| 3♦ - 3NT | S/O
+| 3♦ - 4♣! | S/T, 44(xx)
+| 3♦ - 4♦! | COG, 44(xx)
 | 3♥♠     | 5=#

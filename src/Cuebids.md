@@ -15,7 +15,7 @@ It is tempting to ignore opposing doubles.  However, I suggest using notrump as
 cuebids over doubles.  XX shows interest in penalty with strength and a probable
 misfit.  Since XX overlaps with the natural meaning of notrump, reusing notrump
 as cuebids is more efficient.  This idea gave birth to [Truscott 2NT][truscott]
-and [Rubens over 1♦♥♠(X)][rubens.p].
+and [Rubens over 1♦♥♠ (X)][rubens.p].
 
 Aritificial calls are trickier.  Usually, the referred strains are used as
 cuebids.  X, NT, and the nominal strain need specific agreements.

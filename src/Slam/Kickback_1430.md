@@ -14,7 +14,7 @@ resolve where RKCB is.
 - **Key cards** are the 4 aces and the trump king.
 - The 10th trump equates to the trump queen.
 
-| 4Y- | RKCB |
+| 4Y - | RKCB |
 |-----|------|
 | +1  | 1 or 4 key cards
 | +2  | 0 or 3 key cards
@@ -48,7 +48,7 @@ If the asking bid is above 5X, it is slam-forcing and the anti-spiral scan comes
 into play.  The cheapest step catches all unallocated side kings.  This
 agreement helps further asking.
 
-| 5Z                  | Asking bid above 5X |
+| 5Z -                | Asking bid above 5X |
 |---------------------|---------------------|
 | 6X                  | No trump Q
 | 6X&minus;1          | Trump Q but no side kings
@@ -62,7 +62,7 @@ After the queen ask is located (or not needed because the previous response
 shows 2 or 5 key cards), the next available step other than 5X asks only for
 side kings.
 
-| 5Z                  | Asking bid |
+| 5Z -                | Asking bid |
 |---------------------|------------|
 | 6X                  | No side kings
 | \[5Z+2..6X&minus;1] | *This* king

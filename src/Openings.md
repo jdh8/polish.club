@@ -2,7 +2,7 @@
 
 Strawberry 1♣ opening contains minimum clubs like *Polish Club 2020: Expert*. I
 adjust the 1♦ opening to contain 18--20 unbalanced diamonds with no 4-card
-major.  This method makes 1♣-1♦-3m limited enough (21--23) for their level.
+major.  This method makes 1♣ - 1♦ - 3m limited enough (21--23) for their level.
 
 |  -   |   |
 |------|---|
@@ -24,10 +24,10 @@ major.  This method makes 1♣-1♦-3m limited enough (21--23) for their level.
 
 ## The notrump ladder
 
-- **12--14:** 1♣-1♦-1M
+- **12--14:** 1♣ - 1♦ - 1M
 - **15--17:** 1NT
-- **18--20:** 1♣-1♦-1NT
-- **21+:** 1♣-1♦-2♦
+- **18--20:** 1♣ - 1♦ - 1NT
+- **21+:** 1♣ - 1♦ - 2♦
 
 ## Choosing the minor suit with (xx)45
 
@@ -45,10 +45,10 @@ better describes your hand than 4M4♦.
 ### (31)45
 
 There is no natural diamond reverse in Polish 1♣.  The only chance to introduce
-diamonds is at the opening.  I'd open 1♦ until the artificial 1♣-1♦-2♦ relay
+diamonds is at the opening.  I'd open 1♦ until the artificial 1♣ - 1♦ - 2♦ relay
 (21+ any) takes over.
 
 ### 2245
 
 Similar to (31)45, but I consider it balanced.  Balanced 15--20 hands are happy
-with 1NT and 1♣-1♦-1NT.
+with 1NT and 1♣ - 1♦ - 1NT.

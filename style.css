@@ -11,6 +11,10 @@ html {
 	hyphens: auto;
 }
 
+th {
+	text-align: left;
+}
+
 .♥,
 .♦ {
 	color: #d33;

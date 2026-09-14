@@ -5,8 +5,8 @@ obvious advantage is that we get a "support double" by completing the transfer
 even without intervention. I generalize it to all non-jump responses
 to end the debate between standard and negative free bids.
 
-- 1♦ or (1♦)X: transfer, 4+♥
-- 1♥ or (1♥)X: transfer, 4+♠
+- 1♦ or (1♦) X: transfer, 4+♥
+- 1♥ or (1♥) X: transfer, 4+♠
 - 1♠: transfer to 1NT, partly ask for stopper
 - 2♣: transfer, 5+♦
 - 2♠: transfer, 5+♣
@@ -31,7 +31,7 @@ wider than the minimum 2M.  The full rebid tables follow in
 Natural notrump is not very useful after a double, so let's also use it for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
-| 1♣(X) | - |
+| 1♣ (X) | - |
 |-------|---|
 | XX    | NF BAL G/T, 10+
 | 1♦!   | TRF, 7+, 4+♥
@@ -51,7 +51,7 @@ transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 Transferring to diamonds is not very useful, so 2♣ falls back to a single raise.
 
-| 1♣(1♦) | - |
+| 1♣ (1♦) | - |
 |--------|---|
 | X!     | TRF, 7+, 4+♥
 | 1♥!    | TRF, 7+, 4+♠
@@ -72,7 +72,7 @@ Transferring to diamonds is not very useful, so 2♣ falls back to a single rais
 Transferring to hearts is not very useful, so 2♦ falls back to a negative free
 bid.
 
-| 1♣(1♥) | - |
+| 1♣ (1♥) | - |
 |--------|---|
 | X!     | TRF, 7+, 4+♠
 | 1♠!    | TRF to 1NT, 8+
@@ -92,7 +92,7 @@ bid.
 Transferring to spades is not very useful, so 2♥ falls back to a negative free
 bid.
 
-| 1♣(1♠) | - |
+| 1♣ (1♠) | - |
 |--------|---|
 | X!     | NEG, 7+, (4--5♥ or BAL FG)
 | 1NT    | NAT, 8--10

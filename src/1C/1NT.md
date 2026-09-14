@@ -3,19 +3,19 @@
 I group these positive notrump responses together for simplicity. These
 responses deny 4-card majors and 6-card minors.
 
-| 1♣- | Strength | Distribution |
+| 1♣ - | Strength | Distribution |
 |-----|----------|--------------|
 | 1NT |  8--10   | 2--3♠, 2--3♥, 2--5♦, 2--5♣
 | 2NT | 10--11   | 2--3♠, 2--3♥, 2--5♦, 2--5♣
 
-## 1♣-1NT {#1C-1NT}
+## 1♣ - 1NT {#1C-1NT}
 
 I took the artificial 2♦ relay from [FunBridge](https://funbridge.com).  I found
 it better than most Polish Club literature.  I also swap steps for minor suits
 for consistency with the bidding system.  Clubs probably indicates a fit, so it
 deserves the higher step.
 
-| 1♣-1NT- | BAL 8--10 |
+| 1♣ - 1NT - | BAL 8--10 |
 |---------|-----------|
 | 2♣      | S/O, 12--14, 6+♣
 | 2♦!     | (R) INV+
@@ -27,7 +27,7 @@ deserves the higher step.
 | 3NT     | S/O, 16+
 | 4♣♦     | S/T, SOL 7+#
 
-| 1♣-1NT-2♦- | (R) INV+ |
+| 1♣ - 1NT -<br>2♦ - | (R) INV+ |
 |------------|----------|
 | 2♥!        | 5--6♦
 | 2♠!        | 5--6♣
@@ -38,9 +38,9 @@ deserves the higher step.
 | 3♠!        | MAX, 6=♣
 | 3NT        | MAX, 2--4♦, 2--4♣
 
-## 1♣-2NT {#1C-2NT}
+## 1♣ - 2NT {#1C-2NT}
 
-| 1♣-2NT- | INV 10--11 |
+| 1♣ - 2NT - | INV 10--11 |
 |---------|------------|
 | 3♣      | S/O, 12--13, 6+♣
 | 3♦!     | S/T, 18+, 0--4♠, 0--4♥

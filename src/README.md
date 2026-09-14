@@ -34,15 +34,15 @@ I evaluate stopper quality as [GIB] does.
 
 ## Bidding notation
 
-Separate calls with spaces: `1NT - 2♣ (X) XX -`.  Parenthesize each opposing
+Separate calls with spaces: <code>1NT - 2♣ (X) XX -</code>.  Parenthesize each opposing
 non-pass call.  Write passes as `-`, retaining `P` for initial passes or when
 discussing a single call, such as a table row offering pass.  Thus
-`P - 1♥ - 1NT - -` starts with a passed hand and ends with opener passing.
+<code>P - 1♥ - 1NT - -</code> starts with a passed hand and ends with opener passing.
 
 Each bidding table's header gives the auction before the body row's call or
 continuation.  Include intervening passes explicitly.  In auction table headers,
 use `<br>` for a new round after four calls, counting passes:
-`1NT - 2♣ -<br>2♦ -`.  Write the auction out in full, however long; keep body
+<code>1NT - 2♣ -&lt;br>2♦ -</code>.  Write the auction out in full, however long; keep body
 continuations inline because the header already determines their round position.
 Keep headings and prose auctions inline, and retain existing heading IDs when
 changing their displayed notation.
@@ -62,16 +62,16 @@ Strength ranges and suit lengths keep their compact notation.
 [abbr]: http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 - **All conditions:** write `A and B` or `A, B`; for longer lists, write
-  `A, B, and C` or `A, B, C`.  For example, `INV, 9--11, 6+♣`.
+  `A, B, and C` or `A, B, C`.  For example, <code>INV, 9--11, 6+♣</code>.
 - **Alternatives:** write every `or` explicitly: `A or B or C`.
 - **Grouping:** use parentheses when mixing conditions and alternatives.
-  `NAT, (11--14 or 18+), 4+♦` requires natural diamonds with either strength
-  range.  `(11--16, 3=♥) or (17, 4=♠, 3=♥)` describes two cases.
+  <code>NAT, (11--14 or 18+), 4+♦</code> requires natural diamonds with either strength
+  range.  <code>(11--16, 3=♥) or (17, 4=♠, 3=♥)</code> describes two cases.
 - **Long alternatives:** keep separate lines, with an explicit `or` between
   alternatives.  Colons and semicolons have their ordinary punctuation meanings.
 
 Parentheses within shapes such as `33(43)` still identify suits whose lengths
-may swap order.  Compact suit notation and the `(R)` relay tag are unchanged.
+may swap order.  Compact suit notation and the <code>(R)</code> relay tag are unchanged.
 
 A notable example is the [1♣ opening](Openings.md).
 

@@ -1,152 +1,80 @@
 # Opener's rebids
 
-Continuations to the [Cachalot](../COMP_1.md) transfers.  Opener completes the
-major at the 1-level with exactly 3-card support (11--17, right-siding the suit),
-supports four trumps at the 2-level, and otherwise rebids as over the uncontested
-[positive 1M](../1M.md).  Odwrotka 2♦ stays the game-forcing 3-card raise.
+This is the most challenging position in this bidding system.  The previous 1♣
+hardly narrows down opener's hand shape and strength.  Hope is not lost, though.
+The 1♣ opening is just about as nebulous as a takeout double, and the latter has
+proven its effectiveness in a century of competitive bidding.
 
-## Over (X)
+## After XX
 
-No overcall suit means no cuebid, so the whole 1♣-1M structure is available.
+The key feature of XX is to start penalty process.  Our further doubles are
+penalty rather than takeout.
 
-| 1♣(X)-1♦!- | TRF, 4+♥ |
+- **Pass:** content with current contract
+- **Double:** to penalize opposing contract
+- **Bid a strain at the lowest level:** to compete
+- **Jump to a higher level:** strong and distributional
+
+| 1♣(X)XX | BAL INV+ |
+|---------|----------|
+| P       | S/O, 4+♣
+| 1♦♥♠    | NAT, 4+#
+| 1NT     | BAL MIN, 2--4♣
+| 2♣      | MIN, 6+♣
+| 2♦+     | STR NAT
+| 2NT     | BAL, 18+
+| 3NT!    | SOL 7+♣
+
+## After a transfer to 1M
+
+One step below 1M, including the stolen X, is a transfer to 1M.  Bid as if 1♣-1M
+most of the time.  However, there are two key differences.
+
+One difference is that opener can bid 1M.  Opener now has a way to show 3-card
+support even when RHO does not compete.
+
+| Values      | 3=M | 4+M |
+|-------------|-----|-----|
+| MIN, 11--14 | 1M  | 2M  |
+| INV, 15--16 | 1M  | 3M  |
+| FG, 17+     | 2♦! | 2♦! |
+
+The other difference is that opener gets 2♦♥ cuebids after 1♣(1♥)X.  I'd keep 2♦
+as Odwrotka, while 2♥ just asks for stopper.  The 1♣ opener is scarcely proud of
+diamonds.  Competition spares this reason to have an artiricial 2♦ reverse.
+
+| 1♣(1♥)X- | TRF, 4+♠  |
+|----------|-----------|
+| 2♦!      | FG, 3+♠   |
+| 2♥!      | FG, 0--2♠ |
+
+## After the negative double
+
+This is the only 1-level X response not a stolen transfer.  It is more urgent to
+find 4-4 heart fits than transfer to 1NT.
+
+| 1♣(1♠)X- | NEG: 4--5♥ or BAL FG |
+|----------|----------------------|
+| 2♦!      | FG, 3+♥
+| 2♠!      | FG, 0--2♥
+
+## After minor suit transfers over (X)
+
+Only after (X)1♠, the transfer to diamonds, is opener's 2♦ natural.
+
+| 1♣(X)1♠!- | TRF, 5+♦ |
+|-----------|----------|
+| 1NT       | BAL MIN
+| 2♣        | NF, 5+♣
+| 2♦        | MIN, 3+♦
+
+| 1♣(X)1NT!- | TRF, 5+♣ |
 |------------|----------|
-| 1♥         | 3=♥, 11--17
-| 1♠         | F, 4+♠
-| 1NT        | BAL 12--14, 2--3♠, 2--3♥
-| 2♣         | UNBAL, 11--17, 5+♣, 0--3♠, 0--3♥
-| 2♦!        | FG, 3+♥
-| 2♥         | MIN, 11--14, 4=♥
-| 2♠!        | FG, 5+♦, 5+♣
-| 2NT        | FG, 2--3♠, 1--2♥, 3--5♦, 3--5♣
-| 3♣         | FG, 6+♣
-| 3♦         | FG, 6+♦
-| 3♥         | INV, 15--17, 4+♥
-| 3♠!        | SPL, 0--1♠, 4+♥
-| 3NT        | SOL 7+♣, partial stops in ♠ and ♦
-| 4♣!        | SPL, 0--1♣, 4+♥
-| 4♦!        | SPL, 0--1♦, 4+♥
+| 2♣         | MIN, 2+♣
+| 2♦!        | UNBAL FG
 
-| 1♣(X)-1♥!- | TRF, 4+♠ |
-|------------|----------|
-| 1♠         | 3=♠, 11--17
-| 1NT        | BAL 12--14, 2--3♠, 2--3♥
-| 2♣         | UNBAL, 11--17, 5+♣, 0--3♠, 0--3♥
-| 2♦!        | FG, 3+♠
-| 2♥         | FG, 5+♥
-| 2♠!        | MIN, 11--14, 4=♠
-| 2NT        | FG, 0--2♠, 2--4♥, 2--5♦, 2--5♣
-| 3♣         | FG, 6+♣
-| 3♦         | FG, 6+♦
-| 3♥!        | FG, 5+♦, 5+♣
-| 3♠         | INV, 15--17, 4+♠
-| 3NT        | SOL 7+♣, partial stops in ♥ and ♦
-| 4♣!        | SPL, 0--1♣, 4+♠
-| 4♦!        | SPL, 0--1♦, 4+♠
-| 4♥!        | SPL, 0--1♥, 4+♠
+## After 1NT or a transfer to 1NT
 
-| 1♣(X)-1♠!- | TRF, 5+♦ |
-|------------|----------|
-| 1NT        | BAL, right-sides NT
-| 2♣         | NAT, 5+♣
-| 2♦         | ♦ support, 3+♦
-| 2♥         | NAT, 4+♥
-| 2♠         | NAT, 4+♠
-| 2NT        | FG, ♦ support
-| 3♦         | ♦ support, INV+
-| 3NT        | S/O
-
-| 1♣(X)-1NT!- | TRF, 5+♣ |
-|-------------|----------|
-| 2♣          | ♣ support, completes
-| 2♦          | NAT, 4+♦
-| 2♥          | NAT, 4+♥
-| 2♠          | NAT, 4+♠
-| 2NT         | BAL, right-sides NT
-| 3♣          | ♣ support, INV+
-| 3NT         | S/O
-
-## Over (1♦)
-
-Opener passes X! to defend with real diamonds, so there is no natural 3♦.  The
-rebids otherwise mirror 1♣-1M: 2♦ is the usual Odwrotka, 1NT promises a diamond
-stopper, and the cue above Odwrotka, 3♦, asks for one.
-
-| 1♣(1♦)-X!- | TRF, 4+♥ |
-|------------|----------|
-| P          | PEN, 4+♦
-| 1♥         | 3=♥, 11--17
-| 1♠         | F, 4+♠
-| 1NT        | BAL 12--14, 2--3♠, 2--3♥, ♦ stop
-| 2♣         | UNBAL, 11--17, 5+♣, 0--3♠, 0--3♥
-| 2♦!        | FG, 3+♥
-| 2♥         | MIN, 11--14, 4=♥
-| 2♠!        | FG, 5+♦, 5+♣
-| 2NT        | FG, 2--3♠, 1--2♥, 3--5♦, 3--5♣
-| 3♣         | FG, 6+♣
-| 3♦!        | CUE, FG, asks for a ♦ stopper
-| 3♥         | INV, 15--17, 4+♥
-| 3♠!        | SPL, 0--1♠, 4+♥
-| 3NT        | SOL 7+♣, partial stops in ♠ and ♦
-| 4♣!        | SPL, 0--1♣, 4+♥
-| 4♦!        | SPL, 0--1♦, 4+♥
-
-| 1♣(1♦)-1♥!- | TRF, 4+♠ |
-|-------------|----------|
-| 1♠          | 3=♠, 11--17
-| 1NT         | BAL 12--14, 2--3♠, 2--3♥, ♦ stop
-| 2♣          | UNBAL, 11--17, 5+♣, 0--3♠, 0--3♥
-| 2♦!         | FG, 3+♠
-| 2♥          | FG, 5+♥
-| 2♠!         | MIN, 11--14, 4=♠
-| 2NT         | FG, 0--2♠, 2--4♥, 2--5♦, 2--5♣
-| 3♣          | FG, 6+♣
-| 3♦!         | CUE, FG, asks for a ♦ stopper
-| 3♥!         | FG, 5+♦, 5+♣
-| 3♠          | INV, 15--17, 4+♠
-| 3NT         | SOL 7+♣, partial stops in ♥ and ♦
-| 4♣!         | SPL, 0--1♣, 4+♠
-| 4♦!         | SPL, 0--1♦, 4+♠
-| 4♥!         | SPL, 0--1♥, 4+♠
-
-| 1♣(1♦)-1♠!- | TRF to 1NT, 8+ |
-|-------------|----------------|
-| 1NT         | completes, ♦ stop
-| 2♣          | NAT, 5+♣, no ♦ stop
-| 2♦!         | CUE, FG, asks for a ♦ stopper
-| 2NT         | 18+, ♦ stop
-| 3NT         | S/O
-
-## Over (1♥)
-
-Opener passes X! to defend with real hearts.  The rebids mirror 1♣-1♠, except 2♥,
-the cue above Odwrotka, asks for a heart stopper rather than showing a fit, which
-Odwrotka 2♦ already does; 1NT promises a heart stopper.
-
-| 1♣(1♥)-X!- | TRF, 4+♠ |
-|------------|----------|
-| P          | PEN, 4+♥
-| 1♠         | 3=♠, 11--17
-| 1NT        | BAL 12--14, 2--3♠, 2--3♥, ♥ stop
-| 2♣         | UNBAL, 11--17, 5+♣, 0--3♠, 0--3♥
-| 2♦!        | FG, 3+♠
-| 2♥!        | CUE, FG, asks for a ♥ stopper
-| 2♠!        | MIN, 11--14, 4=♠
-| 2NT        | FG, 0--2♠, 2--4♥, 2--5♦, 2--5♣
-| 3♣         | FG, 6+♣
-| 3♦         | FG, 6+♦
-| 3♥!        | FG, 5+♦, 5+♣
-| 3♠         | INV, 15--17, 4+♠
-| 3NT        | SOL 7+♣, partial stops in ♦
-| 4♣!        | SPL, 0--1♣, 4+♠
-| 4♦!        | SPL, 0--1♦, 4+♠
-| 4♥!        | SPL, 0--1♥, 4+♠
-
-| 1♣(1♥)-1♠!- | TRF to 1NT, 8+ |
-|-------------|----------------|
-| 1NT         | completes, ♥ stop
-| 2♣          | NAT, 5+♣, no ♥ stop
-| 2♦          | NAT, 5+♦, no ♥ stop
-| 2♥!         | CUE, FG, asks for a ♥ stopper
-| 2NT         | 18+, ♥ stop
-| 3NT         | S/O
+I suggest keeping 2♦ as an artificial ask like
+[after a transfer to 1M](#after-a-transfer-to-1m).  This 2♦ is the same as
+[1♣-1NT-2♦](../1NT.md#1C-1NT).

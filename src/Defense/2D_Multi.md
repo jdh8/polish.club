@@ -24,8 +24,8 @@ The non-forcing Herbert negative step serves as an escape.
 Here I recommend a modified version of Rumpelsohl.  Frequently pass 2♦x with 4+
 diamonds to ease slam exploration, especially for minor suit slams.
 
-| (2♦) X - | OPT, (either major or 19+) |
-|------|---|
+| (2♦) X - | |
+|------|-|
 | 2M!  | P/C
 | 2NT! | INV+, REV LEB
 | 3♣   | PRE, usually 5+♣
@@ -36,8 +36,8 @@ diamonds to ease slam exploration, especially for minor suit slams.
 | 4♣!  | STR choice of games
 | 4♦!  | PRE choice of games
 
-| (2♦) X - 2NT<br>- | REV LEB |
-|-----|---|
+| (2♦) X - 2NT<br>- | |
+|-----|-|
 | 3♣! | P/C, 12--14
 | 3♦! | S/T, 18+
 | 3M  | NAT, 15--17, 5+#
@@ -74,8 +74,8 @@ holding the other major.
 Partner is limited and balanced like the 1NT opening.  I suggest playing like
 Rumpelsohl at 2♥x.
 
-| (2♦) 2♥ - | BAL 16--18 |
-|-----|---|
+| (2♦) 2♥ - | |
+|-----|-|
 | P   | S/O, 4+♥
 | 2♠  | S/O, 4+♠
 | 2NT | LEB, (3+♣ or STAY)
@@ -86,14 +86,14 @@ Rumpelsohl at 2♥x.
 
 ## Transfer to minors
 
-| (2♦) 2♠ - | 14+, 5+♣ |
-|------|---|
+| (2♦) 2♠ - | |
+|------|-|
 | 2NT! | NF NEG, 0--2♣
 | 3♣   | To play
 | 3♦♥♠ | NAT F
 
-| (2♦) 2NT - | 14+, 5+♦ |
-|---------|---|
+| (2♦) 2NT - | |
+|---------|-|
 | 3♣!     | NF NEG, 0--2♦
 | 3♦      | To play
 | 3♥♠, 4♣ | NAT F

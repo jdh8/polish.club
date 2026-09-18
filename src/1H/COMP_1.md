@@ -3,8 +3,8 @@
 Notrump becomes cuebid after a double.  We still need fit-showing jumps, so
 Truscott 2NT fits well.
 
-| 1♥ (X) | - |
-|------|---|
+| 1♥ (X) | |
+|------|-|
 | XX   | NF BAL G/T, 10+
 | 1♠   | Usually 5+♠
 | 1NT! | TRF, 5+♣
@@ -20,8 +20,8 @@ Truscott 2NT fits well.
 found that 1♥ (1♠) is highly similar to 1♥ (X) and introduced the following
 bidding structure to BTU in 1999.
 
-| 1♥ (1♠) | - |
-|------|---|
+| 1♥ (1♠) | |
+|------|-|
 | X    | T/O, maybe BAL
 | 1NT! | TRF, 5+♣
 | 2♣!  | TRF, 5+♦

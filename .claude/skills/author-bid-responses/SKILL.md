@@ -38,7 +38,8 @@ principle. The abbreviation list lives in `book.toml`; `NOTES.md` and
    (e.g. `1♣ - 3♦!` is `src/1C.md:30` → `3♦! | BAL FG, 12--15, 2--3♠, 2--3♥, 3--4♦, 3--4♣`).
    Read the **description cell** for what it shows: strength, suit lengths, and the
    F/INV/FG tag.
-2. Read the **header gloss** and the prose above the table for the bidder's range.
+2. Read the **parent table row** and the prose above the table for the bidder's
+   range; the header cell only carries variable or opposing-call constraints.
 3. Reconstruct the **full auction** and get the opener's range from `src/Openings.md`
    or the opening file (e.g. 1♣ = the three variants in `src/1C.md:1-16`).
 4. Determine **whose call comes next** and what that hand already knows.

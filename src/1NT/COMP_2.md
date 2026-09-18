@@ -8,8 +8,8 @@ hands more often.
 
 [run]: https://www.ptt.cc/man/BridgeClub/D6D1/D49B/D823/DD4E/M.1160796412.A.8E9.html
 
-| 1NT (X) | - |
-|------|---|
+| 1NT (X) | |
+|------|-|
 | XX   | PEN
 | 2♣!  | P/C, (5+♣ or (4+♦, 4+♠♥))
 | 2♦!  | P/C, (5+♦ or (4+♠, 4+♥))
@@ -19,8 +19,8 @@ hands more often.
 
 Opener often runs with clubs because it is hard for responder to do so.
 
-| 1NT (X) - - | - |
-|-----|---|
+| 1NT (X) - - | |
+|-----|-|
 | XX  | 5+ suit
 | 2♣! | 4+♣, 4+ another suit
 
@@ -59,8 +59,8 @@ Ignore the (2♣) overcall.  X replaces the Stayman 2♣ as usual.
 structure saves bidding space.  Showing the suit quickly also improves
 competitive accuracy.
 
-| 1NT (2♦) | - |
-|------|---|
+| 1NT (2♦) | |
+|------|-|
 | X    | OPT
 | 2M   | NAT NF
 | 2NT! | TRF to 3♣
@@ -69,8 +69,8 @@ competitive accuracy.
 | 3♥!  | INV+ TRF to 3♠
 | 3♠!  | FG TRF to 3NT or 4♣
 
-| 1NT (2♥) | - |
-|------|---|
+| 1NT (2♥) | |
+|------|-|
 | X    | OPT
 | 2♠   | NAT NF
 | 2NT! | TRF to 3♣
@@ -84,8 +84,8 @@ hearts.
 
 [larryco]: https://www.larryco.com/bridge-articles/transfer-lebensohl
 
-| 1NT (2♠) | - |
-|------|---|
+| 1NT (2♠) | |
+|------|-|
 | X    | OPT
 | 2NT! | TRF to 3♣
 | 3♣!  | TRF to 3♦

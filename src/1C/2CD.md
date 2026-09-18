@@ -15,8 +15,8 @@ contract.  When we only have a game, we want to play in a major suit despite
 a better minor fit. However, we play the best fit in a slam to maximize our
 chances, especially at IMPs.
 
-| 1♣ - 2♣ - | FG, 5+♦ |
-|-----|---|
+| 1♣ - 2♣ - | |
+|-----|-|
 | 2♦! | NAT, (11--14 or 18+), 4+♦
 | 2♥  | S/T, 17+, 5+♥
 | 2♠  | S/T, 17+, 5+♠
@@ -27,8 +27,8 @@ chances, especially at IMPs.
 | 3♠  | S/T, 15+, 4+♠, 5+♣
 | 3NT | COG, 15--17, 0--2♦
 
-| 1♣ - 2♦ - | FG, 5+♣ |
-|------|---|
+| 1♣ - 2♦ - | |
+|------|-|
 | 2♥   | S/T, 17+, 5+♥
 | 2♠   | S/T, 17+, 5+♠
 | 2NT  | NAT, (12--14 or 18+)

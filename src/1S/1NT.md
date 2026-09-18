@@ -1,7 +1,7 @@
 # Semi-forcing 1NT
 
-| 1♠ - 1NT - | NAT NF, 0--3♠ |
-|------|---|
+| 1♠ - 1NT - | |
+|------|-|
 | 2♣   | 11--16, 2+♣
 | 2♦   | 11--16, 4+♦
 | 2♥   | 11--16, 4+♥
@@ -41,8 +41,8 @@ narrow maximum, so responder places the contract.  The only artificial bid is 3�
 asking whether opener holds three hearts so that a 5--3 heart game can replace 4♠
 or 3NT.  Everything else is natural — a weak club one-suiter has to pass.
 
-| 1♠ - 1NT -<br>2NT - | 15--16, 6=♠ |
-|-----|---|
+| 1♠ - 1NT -<br>2NT - | |
+|-----|-|
 | 3♣! | Ask for 3+♥
 | 3♦  | S/O, 6+♦
 | 3♥  | S/O, 6+♥
@@ -50,7 +50,7 @@ or 3NT.  Everything else is natural — a weak club one-suiter has to pass.
 | 3NT | S/O
 | 4♠  | S/O, 3=♠
 
-| 1♠ - 1NT -<br>2NT - 3♣ - | Ask for 3+♥ |
-|-----|---|
+| 1♠ - 1NT -<br>2NT - 3♣ - | |
+|-----|-|
 | 3♦! | 0--2♥
 | 3♥  | 3+♥

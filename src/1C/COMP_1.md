@@ -31,8 +31,8 @@ wider than the minimum 2M.  The full rebid tables follow in
 Natural notrump is not very useful after a double, so let's also use it for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
-| 1♣ (X) | - |
-|------|---|
+| 1♣ (X) | |
+|------|-|
 | XX   | NF BAL G/T, 10+
 | 1♦!  | TRF, 7+, 4+♥
 | 1♥!  | TRF, 7+, 4+♠
@@ -51,8 +51,8 @@ transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 Transferring to diamonds is not very useful, so 2♣ falls back to a single raise.
 
-| 1♣ (1♦) | - |
-|-----|---|
+| 1♣ (1♦) | |
+|-----|-|
 | X!  | TRF, 7+, 4+♥
 | 1♥! | TRF, 7+, 4+♠
 | 1♠! | TRF to 1NT, 8+
@@ -72,8 +72,8 @@ Transferring to diamonds is not very useful, so 2♣ falls back to a single rais
 Transferring to hearts is not very useful, so 2♦ falls back to a negative free
 bid.
 
-| 1♣ (1♥) | - |
-|-----|---|
+| 1♣ (1♥) | |
+|-----|-|
 | X!  | TRF, 7+, 4+♠
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
@@ -92,8 +92,8 @@ bid.
 Transferring to spades is not very useful, so 2♥ falls back to a negative free
 bid.
 
-| 1♣ (1♠) | - |
-|-----|---|
+| 1♣ (1♠) | |
+|-----|-|
 | X!  | NEG, 7+, (4--5♥ or BAL FG)
 | 1NT | NAT, 8--10
 | 2♣! | TRF, 10+, 5+♦

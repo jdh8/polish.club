@@ -10,8 +10,8 @@ preempts.
 - Unlike 1♣ (X), there is no space for Transfer Walsh here.
 - Reuse 1♦ (X) 2♣ for Flannery because the rebidding problem persists.
 
-| 1♦ (X) | - |
-|------|---|
+| 1♦ (X) | |
+|------|-|
 | XX   | NF BAL G/T, 10+
 | 1M   | F, 7+, 4+#
 | 1NT! | TRF, 7+, 5+♣
@@ -25,8 +25,8 @@ preempts.
 
 ## Over (1♥)
 
-| 1♦ (1♥) | - |
-|-----|---|
+| 1♦ (1♥) | |
+|-----|-|
 | X!  | TRF, 7+, 4+♠
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
@@ -42,8 +42,8 @@ preempts.
 
 ## Over (1♠)
 
-| 1♦ (1♠) | - |
-|-----|---|
+| 1♦ (1♠) | |
+|-----|-|
 | X!  | NEG, 7+, (4--5♥ or BAL FG)
 | 1NT | NAT, 8--10
 | 2♣  | F, 10+, 5+♣

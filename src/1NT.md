@@ -17,8 +17,8 @@ Narrow (11--16) major suit openings welcome Precision-like continuations.  Fast
 and precise bidding follows.  Now we open 1NT for balanced 17-counts and 1♣ for
 unbalanced ones.
 
-| 1NT - | BAL 15--17 |
-|------|---|
+| 1NT - | |
+|------|-|
 | 2♣!  | STAY, maybe crawling
 | 2♦!  | TRF, 5+♥
 | 2♥!  | TRF, 5+♠
@@ -78,8 +78,8 @@ four level.  With a maximum and a doubleton in each major (e.g. 22(54)), opener
 picks 3NT instead.  With a maximum and slam interest, opener control-bids 4♣ or
 4♦ rather than jumping straight to game:
 
-| 1NT - 3♦ - | INV+, 5+♠, 5+♥ |
-|-----|---|
+| 1NT - 3♦ - | |
+|-----|-|
 | 3♥  | MIN, prefers ♥
 | 3♠  | MIN, prefers ♠
 | 3NT | MAX, dislikes both majors
@@ -92,16 +92,16 @@ A choice-of-games responder raises opener's three-level pick to game.
 
 ## Minor suit transfers
 
-| 1NT - 2♠ - | 6+♣ or QUANT INV |
-|-----------|---|
+| 1NT - 2♠ - | |
+|-----------|-|
 | 2NT       | MIN
 | 3♣!       | MAX, 1--3♣
 | 3♣ - 3♦!  | FG PUP STAY
 | 3♣ - 3♥♠! | SPL, 0--1#
 | 3♦♥♠!     | MAX, 4--6♣, good stopper
 
-| 1NT - 2NT - | 6+♦ or (5+♦, 4+♣) |
-|------|---|
+| 1NT - 2NT - | |
+|------|-|
 | 3♣!  | 1--2♦
 | 3♦   | 3--4♦
 | 3♥♠! | 5--6♦, good stopper
@@ -109,8 +109,8 @@ A choice-of-games responder raises opener's three-level pick to game.
 
 ## Puppet Stayman at 3♣
 
-| 1NT - 3♣ - | PUP STAY |
-|----------|---|
+| 1NT - 3♣ - | |
+|----------|-|
 | 3♦!      | 2--4♠, 2--4♥
 | 3♦ - 3♥! | Smolen TRF, 4=♠
 | 3♦ - 3♠! | Smolen TRF, 4=♥

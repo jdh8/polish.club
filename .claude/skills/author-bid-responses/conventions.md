@@ -26,9 +26,11 @@ The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
 - Follow **Bidding notation** in `src/README.md` for spaces, passes, opponents,
   round breaks, and alternative auctions.
 - A **header row** is the row directly above the `|---|---|` separator. Cell 1 is
-  the auction through the opponent's last call, including a pass; cell 2 is a
-  short gloss (usually the bidder's range/shape).
-  Example: `| 1♣ - 2♣ - | FG, 5+♦ |`.
+  the auction through the opponent's last call, including a pass; cell 2 holds
+  only **constraints**: a suit-variable restriction as an inequality, or the
+  meaning of an opposing call. Never our own call's meaning (the parent table
+  defines it). Empty when there is nothing to say.
+  Examples: `| 1♣ - 2♣ - | |`, `| (1X) 1Y - | X < Y |`, `| 1NT (2♣) | Both majors |`.
 - **Body rows**: cell 1 is the call, cell 2 is the dense description. The trailing
   pipe is omitted (repo style): `| 2♦!    | NAT, (11--14 or 18+), 4+♦`.
 - Order body rows **cheapest call first** (1♦ before 1♥ … before 3NT).

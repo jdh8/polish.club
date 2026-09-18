@@ -42,8 +42,10 @@ passes (likely a HUM).  Thus <code>P - 1♥ - 1NT -</code> starts with 2-3 initi
 passes and the 1♥ opener gets to bid.
 
 The header of a bidding table shows the auction so far.  Body rows then adds
-calls.  In a table header, start each new round with `<br>`: <code>1NT - 2♣
--&lt;br>2♦ -</code>.  Do not use `<br>` in body rows.
+calls.  The second header cell states constraints: restrictions on suit
+variables as inequalities, such as <code>X < Y</code>, or the meaning of an
+opposing call, such as <code>Both majors</code>.  Start each new round with
+`<br>`: <code>1NT - 2♣ -&lt;br>2♦ -</code>.  Do not use `<br>` in body rows.
 
 ## Punctuation
 

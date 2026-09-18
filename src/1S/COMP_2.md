@@ -27,10 +27,10 @@ Natural defense suffices over 1♠ (1NT).
 Transfers à la Rubens apply over 1♠ (2♣♦♥).  Note that 2NT is natural because
 we still have 2♠.
 
-| 1♠ (2X) | |
+| 1♠ (2x) | |
 |-----|-|
 | X   | T/O
-| 2Y  | NF, 5+#
+| 2y  | NF, 5+#
 | 2♠  | NF, 3+♠
 | 2NT | NAT, 9--11
 | 3♥! | LIM+, 3+♠

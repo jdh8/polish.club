@@ -3,8 +3,8 @@
 RKCB is a powerful modern tool for slam bidding.  It checks quality of trumps
 and controls at the same time.  Nevertheless, its location at 4NT can be
 inconvenient when the agreed trump is a minor suit.  As per the useful space
-principle, the fix is to move RKCB down to 4X+1.  Sometimes, this treatment
-conflicts with an existing natural 4Y.  I propose the following algorithm to
+principle, the fix is to move RKCB down to 4x+1.  Sometimes, this treatment
+conflicts with an existing natural 4y.  I propose the following algorithm to
 resolve where RKCB is.
 
 1. Do not use RKCB for minor suits.  Use Turbo 4NT or even 4♣♦ instead.
@@ -14,7 +14,7 @@ resolve where RKCB is.
 - **Key cards** are the 4 aces and the trump king.
 - The 10th trump equates to the trump queen.
 
-| 4Y - | |
+| 4y - | |
 |----|-|
 | +1 | 1 or 4 key cards
 | +2 | 0 or 3 key cards
@@ -25,7 +25,7 @@ resolve where RKCB is.
 
 Spiral scan[^spiral] is a relay scheme that maps lower steps to more important
 features.  Anti-spiral scan, to a slam-forcing asking bid, attempts signing off
-at 6X to deny the most important feature.  In general, the higher the step, the
+at 6x to deny the most important feature.  In general, the higher the step, the
 fewer features it indicates.
 
 [^spiral]: Regina Bridge Club.  [Spiral scanning after RKCB](https://reginabridge.com/content/conventions/Spiral%20scanning%20after%20RKCB.txt).  
@@ -33,41 +33,41 @@ Neil H. Timm.  [Using Spiral Scan Bids with Jacoby 2NT](https://www.bridgewebs.c
 
 ## Asking for the trump queen
 
-To ask for the trump queen after 4Y+1 and 4Y+2, bid the cheapest step other than
-5X.  If the asking bid is below 5X, we can stop at 5X with neither the trump
+To ask for the trump queen after 4y+1 and 4y+2, bid the cheapest step other than
+5x.  If the asking bid is below 5x, we can stop at 5x with neither the trump
 queen nor any useful void.
 
-| 5Z -                | 5Z < 5X |
+| 5z -                | 5z < 5x |
 |---------------------|---|
-| 5X                  | No trump Q
-| 6X                  | No trump Q but a useful void
-| \[5X+1..6X&minus;1] | Trump Q and *this* king
+| 5x                  | No trump Q
+| 6x                  | No trump Q but a useful void
+| \[5x+1..6x&minus;1] | Trump Q and *this* king
 | 5NT                 | Trump Q but no side kings
 
-If the asking bid is above 5X, it is slam-forcing and the anti-spiral scan comes
+If the asking bid is above 5x, it is slam-forcing and the anti-spiral scan comes
 into play.  The cheapest step catches all unallocated side kings.  This
 agreement helps further asking.
 
-| 5Z -                | 5Z > 5X |
+| 5z -                | 5z > 5x |
 |---------------------|---|
-| 6X                  | No trump Q
-| 6X&minus;1          | Trump Q but no side kings
-| \[5Z+2..6X&minus;2] | Trump Q and *this* king
+| 6x                  | No trump Q
+| 6x&minus;1          | Trump Q but no side kings
+| \[5z+2..6x&minus;2] | Trump Q and *this* king
 | 5NT                 | Trump Q and the king of X&minus;1
-| 5Z+1                | Trump Q and an unallocated side king
+| 5z+1                | Trump Q and an unallocated side king
 
 ## Asking for side kings
 
 After the queen ask is located (or not needed because the previous response
-shows 2 or 5 key cards), the next available step other than 5X asks only for
+shows 2 or 5 key cards), the next available step other than 5x asks only for
 side kings.
 
-| 5Z -                | 5Z > 5X |
+| 5z -                | 5z > 5x |
 |---------------------|---|
-| 6X                  | No side kings
-| \[5Z+2..6X&minus;1] | *This* king
-| 5NT                 | The king of Z
-| 5Z+1                | An unallocated side king
+| 6x                  | No side kings
+| \[5z+2..6x&minus;1] | *This* king
+| 5NT                 | The king of z
+| 5z+1                | An unallocated side king
 
 ## 1430 vs 0314
 

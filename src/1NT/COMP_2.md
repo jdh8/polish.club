@@ -15,7 +15,7 @@ hands more often.
 | 2♦!  | P/C, (5+♦ or (4+♠, 4+♥))
 | 2M   | NF, 5+#
 | 2NT! | CUE, good unbalanced hand
-| 3X   | PRE, 6+#
+| 3x   | PRE, 6+#
 
 Opener often runs with clubs because it is hard for responder to do so.
 
@@ -46,7 +46,7 @@ This kind of 2♣︎ requires extra care.  I recommend BTU vs Unusual.
 
 ### (2♣) specifies one major
 
-This position is analogous to [(1M) 1NT](../Defense/1Y/1NT.md).  X replaces
+This position is analogous to [(1M) 1NT](../Defense/1y/1NT.md).  X replaces
 the Gladiator 2♣.
 
 ### (2♣) specifies no major

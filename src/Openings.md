@@ -15,7 +15,7 @@ major.  This method makes 1♣ - 1♦ - 3m limited enough (21--23) for their lev
 | 2♦!  | PRE, 4--10, 6+♠♥
 | 2M!  | PRE, 4--10, 5=#, 4+♦♣
 | 2NT! | UNT, 4--10, 5+♦, 5+♣
-| 3X   | PRE, 7+#
+| 3x   | PRE, 7+#
 | 3NT! | Gambling, SOL 7+♦♣, 0--1 outside A/K
 | 4♣!  | PRE, S-SOL 8+♠♥, 0--1 outside A/K
 | 4♦!  | PRE, SOL 8+♠♥, no outside A/K

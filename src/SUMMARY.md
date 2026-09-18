@@ -50,7 +50,7 @@
 - [Multi 2♦](2D.md)
 - [Muiderberg 2M](2M.md)
 - [Unusual 2NT opening](2NT.md)
-- [BTU Namyats](4X.md)
+- [BTU Namyats](4x.md)
 
 # Competitive conventions
 
@@ -65,12 +65,12 @@
 # Defensive bidding
 
 - [Suit variables](Defense/SuitVariables.md)
-- [Natural (1Y)](Defense/1Y.md)
-  - [(1Y) X](Defense/1Y/X.md)
-  - [(1Y) 1Z](Defense/1Y/1Z.md)
-  - [(1Y) 1NT](Defense/1Y/1NT.md)
-  - [(1Y) 2Y](Defense/1Y/2Y.md)
+- [Natural (1y)](Defense/1y.md)
+  - [(1y) X](Defense/1y/X.md)
+  - [(1y) 1z](Defense/1y/1z.md)
+  - [(1y) 1NT](Defense/1y/1NT.md)
+  - [(1y) 2y](Defense/1y/2y.md)
 - [Natural (1NT)](Defense/1NT.md)
   - [(1NT) 2♣ Landy](Defense/1NT/2C.md)
-- [Natural (2X)](Defense/2X.md)
+- [Natural (2x)](Defense/2x.md)
 - [Multi (2♦)](Defense/2D_Multi.md)

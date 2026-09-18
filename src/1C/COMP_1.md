@@ -39,7 +39,7 @@ transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 | 1♠!  | TRF, 7+, 5+♦
 | 1NT! | TRF, 7+, 5+♣
 | 2♣   | PRE, 0--7, 5+♣
-| 2X   | PRE, 0--7, 6+#
+| 2x   | PRE, 0--7, 6+#
 | 2NT! | TRF: (PRE, 7+♣) or (FG, 6+♣)
 | 3♣!  | TRF: (PRE, 7+♦) or (FG, 6+♦)
 | 3♦!  | TRF: (PRE, 7+♥) or (FG, 6+♥)

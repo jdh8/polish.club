@@ -1,4 +1,4 @@
-# (1Y) 1NT {#1y1nt}
+# (1y) 1NT {#1y1nt}
 
 I suggest playing Gladiator at (1M) 1NT, which is more effective against a major
 suit opening, especially 1♠.  Aggressor can have 5 hearts at (1♠) 1NT because 2♥
@@ -19,7 +19,7 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 | 2♠!      | STAY, INV+, 4=♥
 | 2♠ - 3♠! | COG, e.g. MAX 3433
 | 2NT!     | NF INV, 5+♣
-| 3X       | FG, 5+#
+| 3x       | FG, 5+#
 | 3♠!      | SPL, 0--1♠, 4=♥
 | 4♣♦!     | Leaping Michaels, 5+♥, usually 5+#
 | 4♥       | S/O, 6+♥
@@ -76,7 +76,7 @@ I have not yet come up with how we utilize the slow cuebid.
 | 2♥!      | STAY, INV+, 4=♠
 | 2♥ - 3♥! | COG, e.g. MAX 4333
 | 2NT!     | NF INV, 5+♣
-| 3X       | FG, 5+#
+| 3x       | FG, 5+#
 | 3♥!      | SPL, 0--1♥, 4=♠
 | 4♣♦!     | Leaping Michaels, 5+♠, usually 5+#
 | 4♥!      | Leaping Michaels, 5+♦, 5+♣

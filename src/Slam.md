@@ -17,7 +17,7 @@ Consequently, conventional notrumps ask quantitative questions.  These
 conventions work perfectly for spades but sometimes impose problems on minor
 suits.
 
-Kickback originally applies to RKCB.  The lowest control bid above 4X swaps with
+Kickback originally applies to RKCB.  The lowest control bid above 4x swaps with
 4NT.  This approach can be generalized to other conventional notrumps, such as
 (non-)serious 3NT and Turbo 4NT.
 

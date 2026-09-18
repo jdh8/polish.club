@@ -19,7 +19,7 @@ there is nothing else to escape.
 
 Append `!` with **no space** to any call that does not naturally show the
 denomination named: `2♠!`, `3♦!`, `2NT!`, `4M!`, `3♣♦!`. Natural calls get no `!`.
-The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
+The marker goes after the whole token, including shorthand (`3M!`, `4x!`).
 
 ## Table format (GitHub-flavored pipe tables)
 
@@ -30,7 +30,7 @@ The marker goes after the whole token, including shorthand (`3M!`, `4X!`).
   only **constraints**: a suit-variable restriction as an inequality, or the
   meaning of an opposing call. Never our own call's meaning (the parent table
   defines it). Empty when there is nothing to say.
-  Examples: `| 1♣ - 2♣ - | |`, `| (1X) 1Y - | X < Y |`, `| 1NT (2♣) | Both majors |`.
+  Examples: `| 1♣ - 2♣ - | |`, `| (1y) X - | x < y < z |`, `| 1NT (2♣) | Both majors |`.
 - **Body rows**: cell 1 is the call, cell 2 is the dense description. The trailing
   pipe is omitted (repo style): `| 2♦!    | NAT, (11--14 or 18+), 4+♦`.
 - Order body rows **cheapest call first** (1♦ before 1♥ … before 3NT).

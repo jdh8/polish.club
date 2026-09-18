@@ -4,15 +4,15 @@ We use Checkback Gladiator to an XYZ auction.  There are 3 artificial
 relays in Checkback Gladiator:
 
 - **2♣:** several variants:
-  - to play 2X
+  - to play 2x
   - strongly shaped invitation
   - balanced invitation
   - special game force to rebid 3NT
 - **2♦:** game-forcing checkback
 - **2NT:** transfer to clubs
 
-As a corollary, natural 2X are wide-range invitations and 3X become slam tries.
-Compared with XYZ in literature, direct 2X are swapped with the variants in 2♣.
+As a corollary, natural 2x are wide-range invitations and 3x become slam tries.
+Compared with XYZ in literature, direct 2x are swapped with the variants in 2♣.
 This is because invitations are prone to competition.
 
 ## 1♦ - 1♥ - 1♠ {#1D-1H-1S}
@@ -88,7 +88,7 @@ Obvious maximum rebids are 2♠ and 3♥.  The other rebids show minimum hands.
 
 ### By passed hand
 
-There are definitely no slam tries by passed hand.  Direct 3X become strongly
+There are definitely no slam tries by passed hand.  Direct 3x become strongly
 shaped invitations without a doubt.  The debate is whether 2♦ is still an
 artificial checkback.  To avoid confusion, I suggest keeping 2♦ artificial.
 Openings in the third and fourth seat can be light.  Hence, 2♦ invites full

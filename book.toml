@@ -9,6 +9,15 @@ git-repository-url = "https://github.com/jdh8/polish.club"
 edit-url-template = "https://github.com/jdh8/polish.club/edit/main/{path}"
 smart-punctuation = true
 
+[output.html.redirect]
+"/Defense/1Y.html" = "/Defense/1y.html"
+"/Defense/1Y/X.html" = "/Defense/1y/X.html"
+"/Defense/1Y/1Z.html" = "/Defense/1y/1z.html"
+"/Defense/1Y/1NT.html" = "/Defense/1y/1NT.html"
+"/Defense/1Y/2Y.html" = "/Defense/1y/2y.html"
+"/Defense/2X.html" = "/Defense/2x.html"
+"/4X.html" = "/4x.html"
+
 [preprocessor.replace]
 
 [preprocessor.replace.list]

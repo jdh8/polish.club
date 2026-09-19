@@ -1,4 +1,4 @@
-# (1y) 1NT {#1y1nt}
+# (1y) 1NT
 
 I suggest playing Gladiator at (1M) 1NT, which is more effective against a major
 suit opening, especially 1♠.  Aggressor can have 5 hearts at (1♠) 1NT because 2♥
@@ -10,7 +10,7 @@ This version of Gladiator originates from a [BTU gadget][gadget].
 
 [gadget]: https://www.ptt.cc/man/BridgeClub/D6D1/D49B/M.983965409.A.html
 
-## (1♠) 1NT {#(1S)1NT}
+## (1♠) 1NT
 
 | (1♠) 1NT - | |
 |----------|-|
@@ -67,7 +67,7 @@ Slow 3NT still has 3=♥ if the right-hand opponent bids up to 2NT.
 
 I have not yet come up with how we utilize the slow cuebid.
 
-## (1♥) 1NT {#(1H)1NT}
+## (1♥) 1NT
 
 | (1♥) 1NT - | |
 |----------|-|
@@ -97,7 +97,7 @@ I have not yet come up with how we utilize the slow cuebid.
 | 3♦♠ | INV, 6+#
 | 3♥! | SPL, 0--1♥, 0--3♠
 
-## (1♣♦) 1NT {#(1m)1NT}
+## (1♣♦) 1NT
 
 Otherwise, I suggest ignoring the minor suit opening.  Take the 1NT overcall as
 [a strong notrump opening](../1NT.md).

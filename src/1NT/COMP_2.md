@@ -1,6 +1,6 @@
 # Competitive bidding
 
-## 1NT (X) {#1ntx}
+## 1NT (X)
 
 I suggest [Terrorist's runout][run] regardless of what (X) means.  This runout
 also applies to a conventional double, yet responder can also pass balanced
@@ -24,7 +24,7 @@ Opener often runs with clubs because it is hard for responder to do so.
 | XX  | 5+ suit
 | 2♣! | 4+♣, 4+ another suit
 
-## 1NT (2♣) {#1NT(2C)}
+## 1NT (2♣)
 
 *Systems on* is a decent approach over 1NT (2♣︎).  The overcall is somewhat
 ignored, and X replaces the stolen bid of 2♣.  Since continuations over 1NT are
@@ -53,7 +53,7 @@ the Gladiator 2♣.
 
 Ignore the (2♣) overcall.  X replaces the Stayman 2♣ as usual.
 
-## 1NT (2♦♥♠) {#1nt2}
+## 1NT (2♦♥♠)
 
 **Rubinsohl** covers these auctions.  As with Rubens advances, transfer
 structure saves bidding space.  Showing the suit quickly also improves
@@ -93,7 +93,7 @@ hearts.
 | 3♥!  | FG TRF to 3NT or 4♣
 | 3♠!  | FG STAY
 
-## 1NT (2NT) {#1nt2nt}
+## 1NT (2NT)
 
 [BTU vs Unusual](../BTUVU.md) suffices.
 

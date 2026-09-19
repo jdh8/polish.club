@@ -49,7 +49,7 @@ principle. The abbreviation list lives in `book.toml`; `NOTES.md` and
 - Read the **closest authored continuation in this repo** and mirror its
   step-allocation and tag vocabulary. Good models: `src/1C/2CD.md` (a combined
   file), `src/1C/2H.md` (single response with pass-or-correct), `src/1C/1D.md`
-  (file + inline `{#anchor}` sections).
+  (file + inline `## …` sections).
 - Optionally consult the sibling systems for prior art before inventing:
   `/home/jdh8/src/blueberry-precision`, `/home/jdh8/src/cranberry-moscito`,
   `/home/jdh8/src/watermelon-dutch` (same conventions).

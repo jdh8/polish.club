@@ -42,12 +42,13 @@ The marker goes after the whole token, including shorthand (`3M!`, `4x!`).
 - **File path** mirrors the auction: opening directory + the call. `1♣ - 2♥` →
   `src/1C/2H.md`; `1♠ - 2♦` → `src/1S/2R.md` (combined). Letters: ♣→C ♦→D ♥→H ♠→S,
   NT stays `NT`.
-- **Inline anchor** for a deeper continuation: `## 1♣ - 1♦ - 2♣ {#1C-1D-2C}` — the id
-  uses the compact auction with glyphs mapped to letters. Preserve existing IDs
-  when changing visible auction notation.
+- **Inline section** for a deeper continuation: plain `## 1♣ - 1♦ - 2♣`. Add an
+  explicit ID (`{#1C-1D-2C}`, compact auction with glyphs mapped to letters) only
+  when something links to it (here or a sibling book) and the auto ID is bad.
+  Preserve existing IDs when changing visible auction notation.
 - **File vs inline**: a *first response to an opener-level artificial call* (depth
   2, e.g. `1♣ - 3♦`) gets its **own file** `src/<OPENER>/<CALL>.md`. A continuation
-  *under an already-authored response* gets an **inline `## … {#anchor}` section**
+  *under an already-authored response* gets an **inline `## …` section**
   in the existing file.
 - **Combined files**: when two calls pair naturally, follow precedent and use one
   file with two tables: `2CD.md` (swapped 2♣/2♦), `2R.md` (red transfers 2♦/2♥),

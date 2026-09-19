@@ -1,4 +1,4 @@
-# (1y) X {#1yx}
+# (1y) X
 
 The takeout double is one of the oldest conventions.  Most players bid naturally
 to the double.  However, I suggest transfer advances at 3y+.  This way, we can

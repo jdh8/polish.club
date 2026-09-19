@@ -19,7 +19,7 @@ unbid (minor) suits.
 Different from [BTU vs Unusual](BTUVU.md), 2♠ and 2NT are two-under transfers.
 The non-forcing Herbert negative step serves as an escape.
 
-## (2♦) X {#2x}
+## (2♦) X
 
 Here I recommend a modified version of Rumpelsohl.  Frequently pass 2♦x with 4+
 diamonds to ease slam exploration, especially for minor suit slams.
@@ -69,7 +69,7 @@ holding the other major.
 - (2♦) X (2♠) - (3♥) X = Usually hearts
 - (2♦) X (2♠) - (3♥) - = Spades!
 
-## (2♦) 2♥ {#22}
+## (2♦) 2♥
 
 Partner is limited and balanced like the 1NT opening.  I suggest playing like
 Rumpelsohl at 2♥x.

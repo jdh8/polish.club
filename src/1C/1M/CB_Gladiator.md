@@ -15,7 +15,7 @@ As a corollary, natural 2x are wide-range invitations and 3x become slam tries.
 Compared with XYZ in literature, direct 2x are swapped with the variants in 2♣.
 This is because invitations are prone to competition.
 
-## 1♣ - 1♥ - 1♠ {#1C-1H-1S}
+## 1♣ - 1♥ - 1♠
 
 | 1♣ - 1♥ -<br>1♠ - | |
 |------|-|
@@ -102,7 +102,7 @@ openers.
 |-----|-|
 | 2♦! | STR INV, 5--6♥
 
-## 1♣ - 1♥ - 1NT {#1C-1H-1NT}
+## 1♣ - 1♥ - 1NT
 
 The special game force via 2♣ is choice of games with (5332).  This treatment
 helps concealing declarer's distribution most of the time.
@@ -134,7 +134,7 @@ helps concealing declarer's distribution most of the time.
 | 3♥  | INV, S-SOL 6+♥
 | 3NT | COG, 5♥(332)
 
-## 1♣ - 1♠ - 1NT {#1C-1S-1NT}
+## 1♣ - 1♠ - 1NT
 
 | 1♣ - 1♠ -<br>1NT - | |
 |----------|-|

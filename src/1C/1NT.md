@@ -38,7 +38,7 @@ deserves the higher step.
 | 3♠! | MAX, 6=♣
 | 3NT | MAX, 2--4♦, 2--4♣
 
-## 1♣ - 2NT {#1C-2NT}
+## 1♣ - 2NT
 
 | 1♣ - 2NT - | |
 |-----|-|

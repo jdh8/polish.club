@@ -70,7 +70,15 @@ Strength ranges and suit lengths keep their compact notation.
 Parentheses within shapes such as `33(43)` still identify suits whose lengths
 may swap order.  Compact suit notation and the <code>(R)</code> relay tag are unchanged.
 
-A notable example is the [1♣ opening](Openings.md).
+The precedence between `,` `and` `or` is undefined on purpose.  Clarify visually
+ambiguous [`eats(,) shoots and leaves`][ESL].  Only `:` binds looser than all of
+them, so a tag may govern an unparenthesized phrase: `eats: shoots and
+leaves`.  Otherwise, put a comma at every break of the same level:
+
+- `eats shoots, (and) leaves`
+- `eats, shoots, (and) leaves`
+
+[ESL]: https://en.wikipedia.org/wiki/Eats,_Shoots_%26_Leaves
 
 ## References
 

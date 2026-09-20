@@ -18,7 +18,7 @@ preempts.
 | 2♣!  | ART, 5--11, 5+♠, 4+♥
 | 2♦   | PRE, 0--7, 4+♦
 | 2M   | PRE, 0--7, 6+#
-| 2NT! | TRF: (PRE, 7+♣) or (FG 6+♣)
+| 2NT! | TRF: (PRE, 7+♣) or (FG, 6+♣)
 | 3♣!  | INV+ TRF, 4+♦
 | 3♦   | CONST, 8--10, 4+♦
 | 3M   | PRE, 7+#

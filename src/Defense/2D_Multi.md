@@ -49,7 +49,7 @@ than setting their doubled partscore.
 
 | (2♦) X (2M) | P/C |
 |------|---|
-| X    | PEN, good 4+# and usually short in the other major
+| X    | PEN, good 4+#, usually short in the other major
 | 2♠!  | P/C
 | 2NT! | TRF, 5+♣
 | 3♣!  | TRF, 5+♦

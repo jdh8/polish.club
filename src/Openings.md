@@ -4,7 +4,7 @@ Strawberry 1♣ opening contains minimum clubs like *Polish Club 2020: Expert*. 
 adjust the 1♦ opening to contain 18--20 unbalanced diamonds with no 4-card
 major.  This method makes 1♣ - 1♦ - 3m limited enough (21--23) for their level.
 
-|  -   | |
+|      | |
 |------|-|
 | 1♣!  | F, Polish Club, showing either:<br>(12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣)<br>or (11--16, (5+♣ or 4414))<br>or (17+, unsuitable for 1♦ and 1NT)
 | 1♦   | 11--20, (5+♦ or (UNBAL, 4=♦, 1--5♣))

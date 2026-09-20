@@ -78,7 +78,7 @@ Rumpelsohl at 2♥x.
 |-----|-|
 | P   | S/O, 4+♥
 | 2♠  | S/O, 4+♠
-| 2NT | LEB, (3+♣ or STAY)
+| 2NT | LEB: 3+♣ or STAY
 | 3♣! | TRF, 5+♦
 | 3♦! | TRF, INV+, 5+♥
 | 3♥! | TRF, INV+, 5+♠

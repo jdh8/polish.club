@@ -1,8 +1,16 @@
 # Openings
 
-Strawberry 1♣ opening contains minimum clubs like *Polish Club 2020: Expert*. I
-adjust the 1♦ opening to contain 18--20 unbalanced diamonds with no 4-card
-major.  This method makes 1♣ - 1♦ - 3m limited enough (21--23) for their level.
+Strawberry 1♣ opening contains minimum clubs like *Polish Club 2020: Expert*.
+This modern adjustment frees up 2♣ to preempt.
+
+Strawberry 1♦ contains 18--20 unbalanced diamonds.  This method makes 1♣ -
+1♦ - 3♣♦ limited enough (21--23) for their level.
+
+Precision-like 1♥♠ narrow down possibilities.  Responder judges better and bids
+faster:
+
+- Game jumps are not only weak preempts but also non-slam values.
+- Frequent passes thraten to close bidding when games are out of sight.
 
 |      | |
 |------|-|

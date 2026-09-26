@@ -1,10 +1,12 @@
 # Openings
 
-Strawberry 1♣ opening contains minimum clubs like *Polish Club 2020: Expert*.
-This modern adjustment frees up 2♣ to preempt.
+The 1♣ opening in *Polish Club 2020: Expert* contains minimum clubs.  This
+modern adjustment frees up 2♣ to preempt.
 
-Strawberry 1♦ contains 18--20 unbalanced diamonds.  This method makes 1♣ -
-1♦ - 3♣♦ limited enough (21--23) for their level.
+[DUCE Polish][DUCE] 1♦ contains 18--20 unbalanced diamonds.  This method makes
+1♣ - 1♦ - 3♣♦ limited enough (21--23) for their level.
+
+[DUCE]: https://iccs.pl/wp-content/uploads/2020/11/Wspolny-Jezyk-DUCE-wersja-Q1.2021.pdf
 
 Precision-like 1♥♠ narrow down possibilities.  Responder judges better and bids
 faster:

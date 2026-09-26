@@ -1,9 +1,12 @@
 # ![Strawberry Polish Club](favicon-743d6a64.svg)
 
-Strawberry Polish Club is a BTU-flavored Polish Club largely based on *Polish
-Club 2020: Expert*.  Polish Club serves as a gateway to the world of forcing
-clubs.  Its 5-card major openings show 11--16 points.  Its bidding structure is
-similar to 2/1, the lingua franca of modern bridge.
+Strawberry Polish Club has a wider 1♦ and narrower 1♥♠︎ than *Polish Club 2020:
+Expert*.  The wide 1♦ aims to solve rebidding problems in the nebulous 1♣
+opening.  Precision-like narrow major suits are followed by precise educated
+guesses and hence harder to defend.
+
+Polish Club serves as a gateway to the world of forcing clubs.  Its bidding
+structure is similar to 2/1, the lingua franca of modern bridge.
 
 ## Hand evaluation
 

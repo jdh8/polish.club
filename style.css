@@ -23,9 +23,16 @@ th {
 
 .coal,
 .navy,
-.ayu,
-.rust .sidebar {
+.ayu {
 	--red: #f66;
+}
+
+.rust {
+	--red: #a21;
+}
+
+.rust .sidebar {
+	--red: #f77;
 }
 
 /* mdBook falls back to coal without JS */

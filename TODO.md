@@ -32,11 +32,6 @@ Dead-end artificial calls from the discovery audit. Feed to
   src/2D.md, src/2M.md and src/2NT.md assume a 4--10 preempt, and a passed
   hand holds neither the 3♥ relay nor the 3♠ puppet over 2NT
 
-## Reword src/Openings.md
-
-- Minor-suit bullet: a Polish 1♣ can hold two clubs, so only 1♦ directs the
-  lead; justify 1♣ by partscore competition and require a five-card minor
-
 ## Housekeeping
 
 - Run fmt.py as its own commit; it also reformats src/1C/1D.md, src/1D.md,

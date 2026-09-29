@@ -9,6 +9,7 @@
 html {
 	font-family: "Open Sans", "Source Han Suits", sans-serif;
 	hyphens: auto;
+	--red: #b22;
 }
 
 th {
@@ -20,9 +21,23 @@ th {
 	margin-bottom: 1em;
 }
 
+.coal,
+.navy,
+.ayu,
+.rust .sidebar {
+	--red: #f66;
+}
+
+/* mdBook falls back to coal without JS */
+@media (prefers-color-scheme: dark) {
+	html:not(.js) {
+		--red: #f66;
+	}
+}
+
 .♥,
 .♦ {
-	color: #d33;
+	color: var(--red);
 }
 
 .♠,

@@ -12,7 +12,7 @@ Precision-like 1♥♠ narrow down possibilities.  Responder judges better and b
 faster:
 
 - Game jumps are not only weak preempts but also non-slam values.
-- Frequent passes thraten to close bidding when games are out of sight.
+- Frequent passes threaten to close bidding when games are out of sight.
 
 |      | |
 |------|-|
@@ -54,7 +54,7 @@ one-level opening nor a preempt.
 
 ## Late seats
 
-Partner's opening pass limits their hand and changes the purpose of an opening.
+Partner's initial pass limits their hand and changes the purpose of an opening.
 A light opening directs the lead and competes for the partscore.
 
 Light openings are for balanced and wasted hands, whose values scatter in short

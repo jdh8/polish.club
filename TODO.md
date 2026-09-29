@@ -23,10 +23,3 @@ Dead-end artificial calls from the discovery audit. Feed to
 - `1♥ - 2♠ - 2NT!`          · src/1H.md · invite 6+♠
 - `(1♠) 1NT - 2♠!`, `(1♥) 1NT - 2♥!` · src/Defense/1y/1NT.md · Gladiator STAY (only
   the COG rebid is shown)
-
-# Late-seat openings
-
-## Housekeeping
-
-- Run fmt.py as its own commit; it also reformats src/1C/1D.md, src/1D.md,
-  src/Defense/1y.md and src/Defense/1y/2y.md

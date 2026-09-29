@@ -1,15 +1,7 @@
-# Passed-hand responses
+# Drury 2♣
 
-Late-seat 1♠ reduces to a fairly natural system.
-
-| P - 1♠ - | |
-|-----|-|
-| 2♣! | LIM, 3+♠
-| 2♦♥ | INV, 5+#
-| 2♠  | CONST, 3+♠
-| 3♠  | CONST, 4+♠
-
-## (Reverse) Drury
+A passed hand cannot force to game, so 2♣ shows a limit raise instead of the
+[game-forcing relay](2C.md).  Other responses to [1♠](../1S.md) are unchanged.
 
 Reverse Drury is de facto standard.  The original Drury becomes the *lesser*
 panda.

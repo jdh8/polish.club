@@ -39,7 +39,24 @@ faster:
 - **18--20:** 1♣ - 1♦ - 1NT
 - **21+:** 1♣ - 1♦ - 2♦
 
+## Opening floors
+
+An 11-count is a normal minimum for 1♥♠, but a selective minimum for 1♣♦.
+
+- **Major suits:** Open balanced 11-counts with a five-card major.  Shortness
+  or an unusually strong suit is not required.
+- **Minor suits:** Balanced hands normally need 12.  An 11-count needs extra
+  playing strength, such as useful shortness or a strong long suit.  Pass an
+  ordinary balanced 11-count with a five-card minor.
+
+The ranges describe hands we may open, not a requirement to open every hand
+within them.  Passing is appropriate when a hand qualifies for neither a
+one-level opening nor a preempt.
+
 ## Choosing the minor suit with (xx)45
+
+Apply the [opening floors](#opening-floors) first.  This table chooses the
+opening for a hand already worth opening.
 
 |        | (40)45 | (31)45 |  2245  |
 |:-------|:------:|:------:|:------:|

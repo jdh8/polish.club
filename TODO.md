@@ -26,10 +26,6 @@ Dead-end artificial calls from the discovery audit. Feed to
 
 # Late-seat openings
 
-## Decide
-
-- src/1H/Drury.md · can `2♠` (4+♠) be light, as 2♥ is on the spade page?
-
 ## Write
 
 - Fourth-seat replies opposite 11--14: natural 2♣ in src/2C.md has none;

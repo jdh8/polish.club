@@ -9,6 +9,6 @@ panda.
 | P - 1♥ -<br>2♣ - | |
 |------|-|
 | 2♦!  | (R)
-| 2♥   | S/O, a light opening
+| 2♥   | PRE, a light opening
 | 2♠   | 4+♠
 | 2NT+ | NAT FG

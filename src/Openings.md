@@ -71,15 +71,15 @@ suits.  Light shapely hands still open at the 2-level, so the ranges overlap.
 | 1♥  | 9--16, 5+♥, 3+♠ when 9--10
 | 1♠  | 9--16, 5+♠
 
-**Fourth-seat** 2♣ reduces to natural Precision.  The other 2-level openings
-keep their shapes but upgrade to intermediate values.
+**Fourth-seat** 2♣ reduces to a natural jump.  The other 2-level openings keep
+their shapes but upgrade to intermediate values.
 
 | P P P | |
 |-------|-|
-| 2♣    | 11--14, 6+♣
-| 2♦!   | 11--14, 6+♠♥
-| 2♥♠!  | 11--14, 5=#, 4+♦♣
-| 2NT!  | 11--14, 5+♦, 5+♣
+| 2♣    | 9--12, 6+♣
+| 2♦!   | 9--12, 6+♠♥
+| 2♥♠!  | 9--12, 5=#, 4+♦♣
+| 2NT!  | 9--12, 5+♦, 5+♣
 
 ## Choosing the minor suit with (xx)45
 

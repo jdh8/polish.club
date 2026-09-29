@@ -26,12 +26,6 @@ Dead-end artificial calls from the discovery audit. Feed to
 
 # Late-seat openings
 
-## Write
-
-- Fourth-seat replies opposite 11--14: natural 2♣ in src/2C.md has none;
-  src/2D.md, src/2M.md and src/2NT.md assume a 4--10 preempt, and a passed
-  hand holds neither the 3♥ relay nor the 3♠ puppet over 2NT
-
 ## Housekeeping
 
 - Run fmt.py as its own commit; it also reformats src/1C/1D.md, src/1D.md,

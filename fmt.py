@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Re-align Markdown table columns in src/.
 
+Only two-column tables, i.e. bidding tables, are touched.  Wider tables keep
+their hand alignment.
+
 Column width is the widest body cell.  Header cells are exempt and overhang,
 keeping the first column narrow under long auction headers.  A last column
 that no body row supplies (body rows ending without a pipe) gets a fixed
@@ -41,6 +44,8 @@ def fmt(path):
 
         sep, _ = cells(l)
         n = len(sep)
+        if n != 2:
+            out.append(l); i += 1; continue
         body = []
         j = i + 1
         while j < len(lines) and lines[j].startswith('|') and not lines[j].startswith('|-'):

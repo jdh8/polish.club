@@ -1,3 +1,4 @@
+/* Typography */
 /* Subset of Source Han Sans JP for suits */
 @font-face {
 	font-family: "Source Han Suits";
@@ -9,9 +10,9 @@
 html {
 	font-family: "Open Sans", "Source Han Suits", sans-serif;
 	hyphens: auto;
-	--red: #b22;
 }
 
+/* Tables */
 th {
 	text-align: left;
 }
@@ -19,6 +20,22 @@ th {
 .table-wrapper {
 	margin-top: 1em;
 	margin-bottom: 1em;
+}
+
+/* Suits */
+.♥,
+.♦ {
+	color: var(--red);
+}
+
+.♠,
+.♣ {
+	color: var(--fg);
+}
+
+/* Suit red per theme */
+html {
+	--red: #b22;
 }
 
 .coal,
@@ -31,27 +48,18 @@ th {
 	--red: #a21;
 }
 
-.rust .sidebar {
-	--red: #f77;
-}
-
-/* mdBook falls back to coal without JS */
+/* Dark no-script fallback = coal */
 @media (prefers-color-scheme: dark) {
 	html:not(.js) {
 		--red: #f66;
 	}
 }
 
-.♥,
-.♦ {
-	color: var(--red);
-}
-
-.♠,
-.♣ {
-	color: var(--fg);
-}
-
+/* Sidebar */
 .sidebar {
 	--fg: var(--sidebar-fg);
+}
+
+.rust .sidebar {
+	--red: #f77;
 }

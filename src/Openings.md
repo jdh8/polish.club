@@ -18,18 +18,17 @@ faster:
 |------|-|
 | 1♣!  | F, Polish Club, showing either:<br>(12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣)<br>or (11--16, (5+♣ or 4414))<br>or (17+, unsuitable for 1♦ and 1NT)
 | 1♦   | 11--20, (5+♦ or (UNBAL, 4=♦, 1--5♣))
-| 1♥   | 11--16, 5+♥
-| 1♠   | 11--16, 5+♠
+| 1♥♠  | 11--16, 5+#
 | 1NT  | BAL 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣
 | 2♣!  | PRE, 4--10, 4+♠, 4+♥, not 44(32) if VUL
 | 2♦!  | PRE, 4--10, 6+♠♥
-| 2M!  | PRE, 4--10, 5=#, 4+♦♣
+| 2♥♠! | PRE, 4--10, 5=#, 4+♦♣
 | 2NT! | UNT, 4--10, 5+♦, 5+♣
 | 3x   | PRE, 7+#
 | 3NT! | Gambling, SOL 7+♦♣, 0--1 outside A/K
 | 4♣!  | PRE, S-SOL 8+♠♥, 0--1 outside A/K
 | 4♦!  | PRE, SOL 8+♠♥, no outside A/K
-| 4M   | PRE, 8+#
+| 4♥♠  | PRE, 8+#
 | 4NT! | UNT, 6+♦, 6+♣
 
 ## The notrump ladder
@@ -64,20 +63,23 @@ suits.  Light shapely hands still open at the 2-level, so the ranges overlap.
 - **Minor suits:** Such 11-counts are good for 1♣♦ if these minor suits are
   worth leading.
 - **Major suits:** Such hands can go lower to 9+.  Drury protects fitted hands
-  from going too far.
+  from going too far.  A light 1♥ promises 3+♠, so opener can always pass 1♠.
+  Light hearts with short spades open 2♦♥ or pass.
 
-| P -  | |
-|------|-|
-| 1♥   | 9--16, 5+♥
-| 1♠   | 9--16, 5+♠
+| P - | |
+|-----|-|
+| 1♥  | 9--16, 5+♥, 3+♠ when 9--10
+| 1♠  | 9--16, 5+♠
 
-**Fourth-seat** 2-level preempts reduce to natural intermediate jumps.  Drury
-already well handles two suiters involving 5-card majors.
+**Fourth-seat** 2♣ reduces to natural Precision.  The other 2-level openings
+keep their shapes but upgrade to intermediate values.
 
 | P P P | |
 |-------|-|
-| 2♣♦♥♠ | 9--13, 6+#
-| 2NT!  | 10--13, 5+♦, 5+♣
+| 2♣    | 11--14, 6+♣
+| 2♦!   | 11--14, 6+♠♥
+| 2♥♠!  | 11--14, 5=#, 4+♦♣
+| 2NT!  | 11--14, 5+♦, 5+♣
 
 ## Choosing the minor suit with (xx)45
 

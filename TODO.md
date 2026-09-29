@@ -45,8 +45,6 @@ Dead-end artificial calls from the discovery audit. Feed to
 
 ## Reword src/Openings.md
 
-- [ ] "Drury protects fitted hands from going too far" holds only for raises
-      through 2♣; try "Drury keeps three-card limit raises at the 2-level"
 - [ ] Minor-suit bullet: a Polish 1♣ can hold two clubs, so only 1♦ directs the
       lead; justify 1♣ by partscore competition and require a five-card minor
 - [ ] "Partner's opening pass" → "Partner's initial pass"

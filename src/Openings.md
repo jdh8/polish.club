@@ -62,8 +62,8 @@ suits.  Light shapely hands still open at the 2-level, so the ranges overlap.
 
 - **Minor suits:** Such 11-counts are good for 1♣♦ if these minor suits are
   worth leading.
-- **Major suits:** Such hands can go lower to 9+.  Drury protects fitted hands
-  from going too far.  A light 1♥ promises 3+♠, so opener can always pass 1♠.
+- **Major suits:** Such hands can go lower to 9+.  Drury keeps 3-card limit
+  raises at the 2-level.  A light 1♥ promises 3+♠, so opener can always pass 1♠.
   Light hearts with short spades open 2♦♥ or pass.
 
 | P - | |

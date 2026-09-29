@@ -53,6 +53,32 @@ The ranges describe hands we may open, not a requirement to open every hand
 within them.  Passing is appropriate when a hand qualifies for neither a
 one-level opening nor a preempt.
 
+## Late seats
+
+Partner's opening pass limits their hand and changes the purpose of an opening.
+A light opening directs the lead and competes for the partscore.
+
+Light openings are for balanced and wasted hands, whose values scatter in short
+suits.  Light shapely hands still open at the 2-level, so the ranges overlap.
+
+- **Minor suits:** Such 11-counts are good for 1♣♦ if these minor suits are
+  worth leading.
+- **Major suits:** Such hands can go lower to 9+.  Drury protects fitted hands
+  from going too far.
+
+| P -  | |
+|------|-|
+| 1♥   | 9--16, 5+♥
+| 1♠   | 9--16, 5+♠
+
+**Fourth-seat** 2-level preempts reduce to natural intermediate jumps.  Drury
+already well handles two suiters involving 5-card majors.
+
+| P P P | |
+|-------|-|
+| 2♣♦♥♠ | 9--13, 6+#
+| 2NT!  | 10--13, 5+♦, 5+♣
+
 ## Choosing the minor suit with (xx)45
 
 Apply the [opening floors](#opening-floors) first.  This table chooses the

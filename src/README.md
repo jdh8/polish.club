@@ -41,7 +41,7 @@ I measured how these counts correlate to levels with double-dummy censuses in
 
 - **Game:** [3NT][notrump-game], [4♥♠][major-game], [5♣♦][minor-game]
 - **Slam:** [suit][suit-slam], [notrump][notrump-slam]
-- **Other evaluators:** [NLTC][nltc-census], [Zar points][zar]
+- **Other evaluators:** [NLTC][nltc-census], [Zar][zar]
 
 [pons]: https://github.com/jdh8/pons
 [major-game]: https://github.com/jdh8/pons/blob/main/docs/major-game-threshold.md

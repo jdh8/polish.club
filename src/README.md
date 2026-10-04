@@ -10,17 +10,24 @@ structure is similar to 2/1, the lingua franca of modern bridge.
 
 ## Hand evaluation
 
-- **HCP:** the well-known Milton Work's 4321 count
-- **Total points:** HCP + distribution points (void = 3, singleton = 2, doubleton
-  = 1, subtract 1 for each short suit with HCP)
-- [**Fifths**](https://bridge.thomasoandrews.com/bridge/valuations/cardvaluesfor3nt.html):
-  4.0--2.8--1.8--1.0--0.4, adjusted HCP for notrump contracts especially 3NT
-- **BUM-RAP:** 4.5--3--1.5--0.75--0.25, adjusted HCP for suit contracts
-- **NLTC:** Count 1.5--1.0--0.5 losers for each missing AKQ
+- **HCP:** the well-known Milton Work's 4-3-2-1 count
+- **Points:** HCP + upgrade
+  - Upgrade an unbalanced hand by 1
+  - Upgrade by 1 more with 10+ cards in the two longest suits
+  - Cancel one upgrade per short suit (0--2 cards) with wasted honors
+    - Wasted: any honors other than Ax or Kx
+- **Support points:** points once a fit is found
+  - Trumps: HCP
+  - Side suits: HCP + shortness
+    - Void = 3, singleton = 2, doubleton = 1
+    - Subtract 1 per short suit with HCP
+  - Add 1 with 10+ cards in the two longest suits
 
-NLTC is a good single hand evaluator but not very additive.  It suits preemptive
-initial actions but not for showing supports.  I wrote a [blog article][nltc] on
-that topic.
+### NLTC
+
+NLTC counts 1.5--1.0--0.5 losers for each missing AKQ.  It is a good single hand
+evaluator but not very additive.  It suits preemptive initial actions but not
+for showing supports.  I wrote a [blog article][nltc] on that topic.
 
 [nltc]: https://jdh8.org/nltc-a-good-single-hand-evaluator/
 

@@ -81,7 +81,7 @@ it in words rather than inventing an abbreviation.
 
 ## Hand evaluation
 
-Methods (HCP, Total points, Fifths, BUM-RAP, NLTC) and stopper definitions live
+Methods (HCP, points, support points, NLTC) and stopper definitions live
 in `src/README.md` — read it rather than relying on a copy here.
 
 ## Fit-promised calls need little authoring

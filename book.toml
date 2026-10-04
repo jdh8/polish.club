@@ -35,7 +35,6 @@ smart-punctuation = true
 BML = "Bridge Bidding Markup Language"
 BTU = "Bridge Taiwan University"
 COG = "choice of games"
-NLTC = "New Losing Trick Count"
 
 # WBF-listed abbreviations
 # http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf

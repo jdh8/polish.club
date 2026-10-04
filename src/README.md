@@ -42,6 +42,24 @@ I evaluate stopper quality as [GIB] does.
 
 [GIB]: https://www.bridgebase.com/doc/gib_descriptions.php
 
+### Double-dummy research
+
+I measured how these counts correlate to levels with double-dummy censuses in
+[pons].
+
+- **Game:** [3NT][notrump-game], [4♥♠][major-game], [5♣♦][minor-game]
+- **Slam:** [suit][suit-slam], [notrump][notrump-slam]
+- **Other evaluators:** [NLTC][nltc-census], [Zar points][zar]
+
+[pons]: https://github.com/jdh8/pons
+[major-game]: https://github.com/jdh8/pons/blob/main/docs/major-game-threshold.md
+[minor-game]: https://github.com/jdh8/pons/blob/main/docs/minor-game-threshold.md
+[notrump-game]: https://github.com/jdh8/pons/blob/main/docs/notrump-game-threshold.md
+[suit-slam]: https://github.com/jdh8/pons/blob/main/docs/suit-slam.md
+[notrump-slam]: https://github.com/jdh8/pons/blob/main/docs/notrump-slam.md
+[nltc-census]: https://github.com/jdh8/pons/blob/main/docs/nltc.md
+[zar]: https://github.com/jdh8/pons/blob/main/docs/zar.md
+
 ## Bidding notation
 
 Separate calls with spaces: <code>1NT - 2♣ (X) XX -</code>.  Parenthesize

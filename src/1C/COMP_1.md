@@ -1,4 +1,4 @@
-# Competing at the 1-level
+# Competitive bidding
 
 *Polish Club 2020* already incorporates Transfer Walsh at the 1-level.  One
 obvious advantage is that we get a "support double" by completing the transfer
@@ -104,3 +104,21 @@ bid.
 | 3♣  | PRE, 6+♣
 | 3♦♥ | PRE, 7+#
 | 3♠! | Gambling, SOL 7+ suit without stopper
+
+## Over (1NT)
+
+Bidding against 1♣ (1NT) is analogous to a weak notrump.  The agreement to
+borrow Landy 2♣ here is also called Landik.
+
+| 1♣ (1NT) | |
+|------|-|
+| X    | PEN, INV+
+| 2♣!  | UNBAL, 4+♠, 4+♥
+| 2NT! | UNBAL FG
+
+After 2♣, advance as in the [Landy defense to 1NT](../Defense/1NT/2C.md).
+
+## Over (2♣+)
+
+Treat 1♣ (2♣+) like [1NT (2♣+)](../1NT/COMP_2.md).  Opener has shown no suit
+but strength.

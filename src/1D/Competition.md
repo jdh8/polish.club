@@ -1,6 +1,6 @@
 # Competitive bidding
 
-This part shares similarities with [the 1♣ opening](../1C/COMP_1.md).
+This part shares similarities with [the 1♣ opening](../1C/Competition.md).
 There are also differences because 1♦ shows a long suit that allows further
 preempts.
 

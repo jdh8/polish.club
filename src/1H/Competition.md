@@ -110,4 +110,4 @@ switch roles.
 | 2♠!  | TRF, 5+♣
 | 2NT! | NF T/O
 
-If (2♥) shows two known suits, [BTU vs Unusual](../BTUVU.md) applies.
+If (2♥) shows two known suits, [BTU vs Unusual](../BTUvsUnusual.md) applies.

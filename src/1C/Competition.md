@@ -24,7 +24,7 @@ the uncontested [positive 1M](1M.md), where Odwrotka 2♦, the natural raises,
 and the side suits all keep their meaning.  Because Odwrotka still shows the
 game-forcing 3-card raise, the bare completion is limited to 11--17, though
 wider than the minimum 2M.  The full rebid tables follow in
-[opener's rebids](COMP_1/Opener.md).
+[opener's rebids](Competition/Opener.md).
 
 ## Over (X)
 
@@ -120,5 +120,5 @@ After 2♣, advance as in the [Landy defense to 1NT](../Defense/1NT/2C.md).
 
 ## Over (2♣+)
 
-Treat 1♣ (2♣+) like [1NT (2♣+)](../1NT/COMP_2.md).  Opener has shown no suit
+Treat 1♣ (2♣+) like [1NT (2♣+)](../1NT/Competition.md).  Opener has shown no suit
 but strength.

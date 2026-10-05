@@ -95,7 +95,7 @@ hearts.
 
 ## 1NT (2NT)
 
-[BTU vs Unusual](../BTUVU.md) suffices.
+[BTU vs Unusual](../BTUvsUnusual.md) suffices.
 
 | 1NT (2NT) | 5+♦, 5+♣ |
 |-----|---|

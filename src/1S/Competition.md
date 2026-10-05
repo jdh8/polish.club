@@ -66,4 +66,4 @@ switch roles.
 | 3♥!  | LIM+, 3+♠
 | 3♠   | COMP, 3+♠
 
-If (2♠) shows two known suits, [BTU vs Unusual](../BTUVU.md) applies.
+If (2♠) shows two known suits, [BTU vs Unusual](../BTUvsUnusual.md) applies.

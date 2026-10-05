@@ -105,3 +105,12 @@ hearts.
 | 3♥♠ | NF, 5+#
 | 3NT | S/O
 | 4♣! | COG, 4+♠, 5+♥
+
+## 1NT (3♣)
+
+| 1NT (3♣) | |
+|------|---|
+| X    | OPT
+| 3♦!  | INV+ TRF to 3♥
+| 3♥!  | INV+ TRF to 3♠
+| 3♠!  | FG TRF to 3NT or 4♦

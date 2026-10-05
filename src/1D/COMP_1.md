@@ -1,4 +1,4 @@
-# Competing at the 1-level
+# Competitive bidding
 
 This part shares similarities with [the 1♣ opening](../1C/COMP_1.md).
 There are also differences because 1♦ shows a long suit that allows further
@@ -54,3 +54,70 @@ preempts.
 | 3♣♥ | PRE, 7+#
 | 3♦  | PRE, 0--7, 4+♦
 | 3♠! | Gambling, SOL 7+♣ without stopper
+
+## Over (1NT)
+
+Bidding against 1♣♦ (1NT) is analogous to a weak notrump.  The agreement to
+borrow Landy 2♣ here is also called Landik.
+
+| 1♦ (1NT) | |
+|------|-|
+| X    | PEN, INV+
+| 2♣!  | UNBAL, 4+♠, 4+♥
+| 2NT! | UNBAL FG
+
+After 2♣, advance as in the [Landy defense to 1NT](../Defense/1NT/2C.md).
+
+## Over (2♣)
+
+With clubs directly below diamonds, bidding after 1♦ (2♣) is pretty natural.
+
+| 1♦ (2♣) | |
+|-----|-|
+| X!  | T/O, INV+
+| 2♦  | PRE, 4+♦
+| 2M  | NF, 5+#
+| 2NT | NAT INV
+| 3♣! | INV+, 4+♦
+| 3♦  | CONST, 4+♦
+| 3M  | FG, usually 6+#
+
+## Over (2♦)
+
+BTU vs Unusual handles 1♦ (2♦) well.  The third cuebid 2NT shows tolerance in
+both minors.
+
+| 1♦ (2♦) | Both majors |
+|------|---|
+| X    | PEN for either major
+| 2♥!  | FG+, 5+♣
+| 2♠!  | INV+, 4+♦
+| 2NT! | INV+, 3+♦, 4+♣
+| 3♥♠! | Ask for stopper
+
+## Over (2M)
+
+Rubinsohl follows 1♦ (2M).  The forcing raise 3♣ and the preemptive raise 3♦
+put immediate pressure on the opponents with the diamond fit.  FunBridge also
+inspired the Strawberry add-on of 3♥♠.
+
+| 1♦ (2M) | |
+|----------|-|
+| X!       | OPT, INV+
+| 2♠       | NF, 5+♠
+| 2NT!     | TRF, 5+♣
+| 3♣!      | INV+, 4+♦
+| 3♦       | NF, 4+♦
+| 3♥!      | FG, 5=OM
+| 3♥ - 3♠! | Ask for stopper
+| 3♠!      | FG, 6+OM
+
+<figure>
+    <img src="funbridge-spec.png" alt="">
+    <figcaption>
+        Screenshot from
+        <a href="https://play.funbridge.com/settings/engine">
+            FunBridge game engine specifications (requires login)
+        </a>
+    </figcaption>
+</figure>

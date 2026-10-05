@@ -11,8 +11,8 @@ Dead-end artificial calls from the discovery audit. Feed to
 - `(1y) X - 3♠!`   · src/Defense/1y/X.md  · ask for stopper
 - `(1y) 1M - 2m - 3y!`  · src/Defense/1y/1z.md  · FG, ask for stopper
 - `1NT (2♣) 3♥♠!`    · src/1NT/COMP_2.md   · ask for stopper
-- `1♦ (2♦) 3♥♠!`     · src/1D/COMP_2.md    · ask for stopper
-- `1♦ (2M) 3♥ - 3♠!` · src/1D/COMP_2.md    · ask for stopper
+- `1♦ (2♦) 3♥♠!`     · src/1D/COMP_1.md    · ask for stopper
+- `1♦ (2M) 3♥ - 3♠!` · src/1D/COMP_1.md    · ask for stopper
 - `(1NT) X - 2♦!`    · src/Defense/1NT.md  · Woolsey — doubler names the major
 - `1♣ competitive — responder's transfers` · src/1C/COMP_1.md
 

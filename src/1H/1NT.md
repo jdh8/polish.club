@@ -72,21 +72,3 @@ direct 3♥ is the weaker raise with 3 trumps.
 |-----|-|
 | 3♣♦ | INV, 6+#
 | 3♥  | INV, 2+♥
-
-## Precision 2NT
-
-Like [1♠ - 1NT - 2NT](../1S/1NT.md#precision-2nt), opener has pinned a narrow
-hand — a maximum with a weak six-card suit — so responder simply places the
-contract.  Here the spade puppet has nothing to find: 1NT denied spades, so
-there is no second major, and the escape suits ♣♦ straddle hearts rather than
-sitting below the trump suit. Every call is therefore a natural sign-off — pass
-with a balanced minimum or retreat to a long minor or take the 6--3 heart fit at
-the level your strength buys.
-
-| 1♥ - 1NT -<br>2NT - | |
-|-----|-|
-| 3♣  | S/O, 6+♣
-| 3♦  | S/O, 6+♦
-| 3♥  | S/O, 3=♥
-| 3NT | S/O, 0--2♥
-| 4♥  | S/O, 3=♥

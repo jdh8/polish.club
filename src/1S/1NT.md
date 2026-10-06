@@ -37,18 +37,13 @@ The threshold of suit quality is based on [Binky Points][binky]:
 ## Precision 2NT
 
 The invitational 2NT from Precision shows 6 cards in the major.  Opener is a
-narrow maximum, so responder places the contract.  The only artificial bid is 3♣,
-asking whether opener holds three hearts so that a 5--3 heart game can replace 4♠
-or 3NT.  Everything else is natural — a weak club one-suiter has to pass.
+narrow maximum, so responder places the contract.  The only artificial bid is
+3♣, asking whether opener holds three hearts so the best contract is 4♥.
+Everything else is natural.  A weak club one-suiter has to pass.
 
 | 1♠ - 1NT -<br>2NT - | |
 |-----|-|
 | 3♣! | Ask for 3+♥
-| 3♦  | S/O, 6+♦
-| 3♥  | S/O, 6+♥
-| 3♠  | S/O, 3=♠
-| 3NT | S/O
-| 4♠  | S/O, 3=♠
 
 | 1♠ - 1NT -<br>2NT - 3♣ - | |
 |-----|-|

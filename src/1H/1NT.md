@@ -1,12 +1,13 @@
-# Non-forcing 1NT
+# Semi-forcing 1NT
 
-Opener is free to pass 1♥ - 1NT with a balanced minimum.  The best major fit at
-1♥ - 1NT - - is balanced 5-3.  Opener can judge when to pass quite safely.
+Opener passes 1♥ - 1NT only with a balanced 11--12.  The best major fit at
+1♥ - 1NT - - is balanced 5-3.  With 13--14, opener has to bid, so 2♣ can be a
+doubleton as in [1♠ - 1NT](../1S/1NT.md), and 2♦ can be 4531.
 
 | 1♥ - 1NT - | |
 |------|-|
-| 2♣   | 11--16, 3+♣
-| 2♦   | 11--16, 4+♦
+| 2♣   | 11--16, 2+♣
+| 2♦   | 11--16, 3+♦
 | 2♥   | 11--14, 6+♥
 | 2♠   | 15--16, 4+♠
 | 2NT! | 15--16, 6=♥, ≤ ♥AJ9
@@ -32,36 +33,37 @@ direct three-level raise is the weaker, to-play version.
 |-----|-|
 | 2♦  | NF, 5+♦
 | 2♥  | NF, usually 2--3♥
-| 2♠! | INV, 4+♣
-| 2NT | BAL INV
-| 3♣  | NF, 4+♣
+| 2♠! | ART INV
+| 2NT | NAT INV
+| 3♣  | NF, 5+♣
 | 3♦  | INV, 6+♦
 | 3♥  | INV, 3=♥
 
 | 1♥ - 1NT -<br>2♦ - | |
 |-----|-|
 | 2♥  | NF, usually 2--3♥
-| 2♠! | INV, 4+♦
-| 2NT | BAL INV
-| 3♣  | INV, 6+♣
+| 2♠! | ART INV
+| 2NT | NAT INV
+| 3♣  | NF, 6+♣
 | 3♦  | NF, 4+♦
 | 3♥  | INV, 3=♥
 
 | 1♥ - 1NT -<br>2♥ - | |
 |-----|-|
-| 2♠! | INV, 2+♥
-| 2NT | BAL INV
+| 2♠! | ART INV
+| 2NT | NAT INV
 | 3♣♦ | INV, 6+#
 | 3♥  | NF, 3+♥
 
 ## Precision 2NT
 
-Like [1♠ - 1NT - 2NT](../1S/1NT.md#precision-2nt), opener has pinned a narrow hand — a
-maximum with a weak six-card suit — so responder simply places the contract.  Here
-the spade puppet has nothing to find: 1NT denied spades, so there is no second major,
-and the escape suits ♣♦ straddle hearts rather than sitting below the trump suit.
-Every call is therefore a natural sign-off — pass with a balanced minimum or retreat to
-a long minor or take the 6--3 heart fit at the level your strength buys.
+Like [1♠ - 1NT - 2NT](../1S/1NT.md#precision-2nt), opener has pinned a narrow
+hand — a maximum with a weak six-card suit — so responder simply places the
+contract.  Here the spade puppet has nothing to find: 1NT denied spades, so
+there is no second major, and the escape suits ♣♦ straddle hearts rather than
+sitting below the trump suit. Every call is therefore a natural sign-off — pass
+with a balanced minimum or retreat to a long minor or take the 6--3 heart fit at
+the level your strength buys.
 
 | 1♥ - 1NT -<br>2NT - | |
 |-----|-|

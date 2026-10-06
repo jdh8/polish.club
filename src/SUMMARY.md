@@ -24,7 +24,7 @@
   - [Competitive bidding](1D/Competition.md)
 - [Natural 1♥](1H.md)
   - [Natural 1♥ - 1♠](1H/1S.md)
-  - [Non-forcing 1NT](1H/1NT.md)
+  - [Semi-forcing 1NT](1H/1NT.md)
   - [Game-forcing relay 2♣](1H/2C.md)
   - [Drury 2♣](1H/Drury.md)
   - [Stenberg 2NT](1H/2NT.md)

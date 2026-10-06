@@ -125,3 +125,5 @@ leaves`.  Otherwise, put a comma at every break of the same level:
 ### Other systems
 
 - Benito Garozzo et al.  [Sistemi Ambra](http://www.infobridge.it/Sistemi_ambra_eng.pdf)
+- Eric Kokish & Beverly Kraft.
+  [*Weak Notrump System*](https://bridgewithdan.com/wp-content/uploads/2019/07/WEAK-NOTRUMP-SYSTEM-Kokish-Kraft-Jan-2008.pdf) (2008)

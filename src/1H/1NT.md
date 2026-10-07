@@ -1,13 +1,14 @@
-# Semi-forcing 1NT
+# Non-forcing 1NT
 
-Opener passes 1♥ - 1NT only with a balanced 11--12.  The best major fit at
-1♥ - 1NT - - is balanced 5-3.  With 13--14, opener has to bid, so 2♣ can be a
-doubleton as in [1♠ - 1NT](../1S/1NT.md), and 2♦ can be 4531.
+Responder bids 1♠ with any 4+♠, and the [transfer raise](../1H.md) takes the
+3-card limit raise out of 1NT.  Thus, 1NT denies most major fits.  Opener passes
+1NT with any balanced minimum, just as over [1♠ - 1NT](../1S/1NT.md).  A
+balanced medium still has to bid 2♣ on a doubleton, and 2♦ can be 4531.
 
 | 1♥ - 1NT - | |
 |------|-|
-| 2♣   | 11--16, 2+♣
-| 2♦   | 11--16, 3+♦
+| 2♣   | (11--16, 4+♣) or BAL 13--14
+| 2♦   | (11--16, 4+♦) or (13--14, 4531)
 | 2♥   | 11--14, 6+♥
 | 2♠   | 15--16, 4+♠
 | 2NT! | 15--16, 6=♥, ≤ ♥AJ9
@@ -35,7 +36,6 @@ opener signs off in 2NT or 3♣ or bids game.
 | 2NT | NAT INV
 | 3♣  | NF, 5+♣
 | 3♦  | INV, 6+♦
-| 3♥  | LIM, 3=♥
 
 Over 2♦♥ there are two or more invitations to carry, so 2♠ becomes a
 [puppet to 2NT][heitzman].  The following 3-bid is then the invitational version
@@ -50,7 +50,6 @@ of the same call, while the direct 3-bid is to play.
 | 2NT | NAT INV
 | 3♣  | NF, 6+♣
 | 3♦  | NF, 4+♦
-| 3♥  | LIM, 3=♥
 
 | 1♥ - 1NT -<br>2♦ - 2♠! -<br>2NT - | |
 |----|-|

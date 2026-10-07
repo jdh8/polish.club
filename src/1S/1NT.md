@@ -1,8 +1,14 @@
-# Semi-forcing 1NT
+# Non-forcing 1NT
+
+The [transfer raise](../1S.md) takes the 3-card limit raise out of 1NT, and
+the [2♦ transfer](2D.md) takes the invitational hands with 5+♥.  Thus, 1NT
+denies most major fits.  Opener passes 1NT with any balanced minimum instead of
+keeping it semi-forcing as in 2/1.  A balanced medium still has to bid 2♣ on a
+doubleton.
 
 | 1♠ - 1NT - | |
 |------|-|
-| 2♣   | 11--16, 2+♣
+| 2♣   | (11--16, 4+♣) or BAL 13--14
 | 2♦   | 11--16, 4+♦
 | 2♥   | 11--16, 4+♥
 | 2♠   | 11--14, 6+♠

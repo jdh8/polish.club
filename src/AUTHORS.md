@@ -15,5 +15,10 @@ We are also influenced by Bo-Yin Yang "Terrorist", our legendary bidding theoris
 
 ## My other bidding systems
 
-- [Blueberry Precision Club](https://jdh8.github.io/blueberry-precision/)
-- [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch/)
+<style>
+.icon { height: 1em; vertical-align: -0.125em; }
+</style>
+
+- <img class="icon" alt="" src="blueberry-precision.svg"> [Blueberry Precision Club](https://jdh8.github.io/blueberry-precision/)
+- <img class="icon" alt="" src="muscat-walsh.svg"> [Muscat Walsh](https://jdh8.github.io/muscat-walsh/)
+- <img class="icon" alt="" src="watermelon-dutch.svg"> [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch/)

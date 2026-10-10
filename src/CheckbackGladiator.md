@@ -3,9 +3,20 @@
 Checkback Gladiator is our name for a variant of [XYZ][xyz], the two-way
 checkback in which 2♣ puppets to 2♦ and 2♦ is an artificial game force.  The
 version here was taught at BTU as *two-way puppet checkback*, [documented on
-PTT as early as 1999][ptt].  It applies after 1♣ - 1M - 1♠, 1♦ - 1M - 1♠, and
-every 1x - 1M - 1NT, with the auction-specific tables in [1♣ - 1M][1c],
-[1♦ - 1M][1d], and [1♥ - 1♠][1h].
+PTT as early as 1999][ptt].
+
+The point is to sort responder's strength.  After 1X - 1Y - 1Z, responder may
+want to sign off, invite, or force to game, and natural bids cannot tell these
+apart cheaply.  So the convention applies to 1X - 1Y - 1Z whenever:
+
+1. **Y shows a suit,** natural or by transfer.  Responder seldom needs to play
+   exactly 2♣ or 2♦ after showing a suit, so both are free to be relays.
+2. **Responder is unlimited.**  Otherwise there is no wide range to sort.
+
+Our 1M responses after 1♣, 1♦, and 1♥ qualify, with the auction-specific
+tables in [1♣ - 1M][1c], [1♦ - 1M][1d], and [1♥ - 1♠][1h].  The negative
+1♣ - 1♦ does not: it is a catchall showing no suit, and the unlimited hand is
+opener's, so we find a playable spot and let opener describe instead.
 
 [xyz]: https://en.wikipedia.org/wiki/XYZ_convention
 [ptt]: https://www.ptt.cc/man/BridgeClub/D6D1/D49B/D130/M.924860463.A.html

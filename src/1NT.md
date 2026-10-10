@@ -71,24 +71,24 @@ bid 3♦ for invitational+ 5+ 5+ majors.
 - **Invitational:**  Bid 3♦.
 - **Choice of games:**  Bid 3♦ most of the time.  Transfer to spades and then
   bid 4♥ if you prefer 4♠ > 4♥ > 3NT.
-- **Slam try:**  Transfer to spades and then bid 3♥.
+- **Slam try:**  Bid 3♦, then bid on over opener's pick.
 
 Opener picks the major, declining game at the three level or accepting at the
 four level.  With a maximum and a doubleton in each major (e.g. 22(54)), opener
-picks 3NT instead.  With a maximum and slam interest, opener control-bids 4♣ or
-4♦ rather than jumping straight to game:
+picks 3NT instead.  With a maximum and slam interest, opener bids 4♣ or 4♦ to
+set hearts or spades rather than jumping straight to game:
 
 | 1NT - 3♦ - | |
 |-----|-|
 | 3♥  | MIN, prefers ♥
 | 3♠  | MIN, prefers ♠
 | 3NT | MAX, dislikes both majors
-| 4♣! | MAX, S/T in ♥, CTRL
-| 4♦! | MAX, S/T in ♠, CTRL
-| 4♥  | MAX, prefers ♥, S/O
-| 4♠  | MAX, prefers ♠, S/O
+| 4♣! | MAX, S/T in ♥
+| 4♦! | MAX, S/T in ♠
+| 4♥♠ | S/O
 
-A choice-of-games responder raises opener's three-level pick to game.
+A choice-of-games responder raises opener's three-level pick to game.  The next
+step (3♠ over 3♥, 3NT over 3♠) is a generic slam try.
 
 ## Minor suit transfers
 

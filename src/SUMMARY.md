@@ -49,15 +49,13 @@
 - [Unusual 2NT opening](2NT.md)
 - [BTU Namyats](4x.md)
 
-# Competitive conventions
+# Conventions
 
+- [Checkback Gladiator](CheckbackGladiator.md)
 - [Cuebids](Cuebids.md)
 - [BTU vs Unusual](BTUvsUnusual.md)
-
-# Slam bidding
-
 - [Slam bidding](Slam.md)
-- [Kickback RKCB 1430](Slam/Kickback1430.md)
+  - [Kickback RKCB 1430](Slam/Kickback1430.md)
 
 # Defensive bidding
 

@@ -1,19 +1,9 @@
-# Checkback Gladiator (XYZ variant)
+# Checkback Gladiator
 
-We use Checkback Gladiator to an XYZ auction.  There are 3 artificial
-relays in Checkback Gladiator:
+This chapter lists the auctions.  [The convention chapter][cbg] explains the
+scheme, the name, and its history.
 
-- **2♣:** several variants:
-  - to play 2x
-  - strongly shaped invitation
-  - balanced invitation
-  - special game force to rebid 3NT
-- **2♦:** game-forcing checkback
-- **2NT:** transfer to clubs
-
-As a corollary, natural 2x are wide-range invitations and 3x become slam tries.
-Compared with XYZ in literature, direct 2x are swapped with the variants in 2♣.
-This is because invitations are prone to competition.
+[cbg]: ../../CheckbackGladiator.md
 
 ## 1♦ - 1♥ - 1♠
 

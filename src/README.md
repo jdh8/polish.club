@@ -1,4 +1,4 @@
-# ![Strawberry Polish Club](favicon-743d6a64.svg)
+# ![Strawberry Polish Club](favicon-cc2d341e.svg)
 
 Strawberry Polish Club has a wider 1♦ and narrower 1♥♠︎ than *Polish Club 2020:
 Expert*.  The wide 1♦ aims to solve rebidding problems in the nebulous 1♣

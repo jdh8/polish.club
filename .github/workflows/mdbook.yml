@@ -46,7 +46,10 @@ jobs:
       - name: Install PDF toolchain
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-libertinus fonts-noto-cjk librsvg2-bin
+          sudo apt-get install -y --no-install-recommends pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin
+          # Ubuntu has no Libertinus package; fetch the release OTFs
+          curl -sLO https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip
+          unzip -qj Libertinus-7.051.zip '*.otf' -d ~/.fonts && fc-cache -f
       - run: mdbook build
       - run: python3 print.py
       - uses: actions/upload-pages-artifact@v5

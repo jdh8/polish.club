@@ -99,7 +99,7 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 \directlua{luaotfload.add_fallback("cjk", {"Noto Serif CJK TC:mode=harf;script=hani;"})}
 \setmainfont{Libertinus Serif}[RawFeature={fallback=cjk}]
 \setsansfont{Libertinus Sans}[RawFeature={fallback=cjk}]
-\setmonofont{Libertinus Mono}
+\renewcommand\ttfamily\sffamily  % no monospace in print: code spans go in Libertinus Sans
 \definecolor{suitred}{HTML}{BB2222}
 % Red hearts and diamonds everywhere, except inside links (\plainsuittrue), as on the website
 \newif\ifplainsuit \protected\def\plainsuiton{\plainsuittrue}  % robust for captions

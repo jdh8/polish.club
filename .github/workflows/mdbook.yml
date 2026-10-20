@@ -44,10 +44,13 @@ jobs:
         with:
           tool: mdbook-replace
       - name: Install PDF toolchain
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin
+          version: 1.0
+          execute_install_scripts: true  # TeX Live builds its formats in postinst
+      - name: Install Libertinus  # Ubuntu has no package; fetch the release OTFs
         run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin
-          # Ubuntu has no Libertinus package; fetch the release OTFs
           curl -sLO https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip
           unzip -qj Libertinus-7.051.zip '*.otf' -d ~/.fonts && fc-cache -f
       - run: mdbook build

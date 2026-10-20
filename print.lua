@@ -59,3 +59,11 @@ function Table(t)
   end
   return t
 end
+
+-- Unnumbered chapters (front and back matter) via KOMA's \addchap, which also sets the running head
+function Header(el)
+  if el.level == 2 and el.classes:includes('unnumbered') then
+    local title = pandoc.write(pandoc.Pandoc({pandoc.Plain(el.content)}), 'latex'):gsub('\n$', '')
+    return pandoc.RawBlock('latex', '\\addchap{' .. title .. '}\\label{' .. el.identifier .. '}')
+  end
+end

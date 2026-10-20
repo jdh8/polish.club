@@ -104,12 +104,11 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 \definecolor{codebg}{HTML}{ECECEC}
 \renewcommand\texttt[1]{{\sffamily\highLight[codebg]{\kern.15em #1\kern.15em}}}
 \definecolor{suitred}{HTML}{BB2222}
-% Red hearts and diamonds everywhere, except inside links (\plainsuittrue), as on the website
-\newif\ifplainsuit \protected\def\plainsuiton{\plainsuittrue}  % robust for captions
+% Red hearts and diamonds everywhere, links included
 \let\♥=♥ \let\♦=♦  % one-char control symbols survive hyperref bookmark strings
 \catcode`♥=\active \catcode`♦=\active
-\def♥{\texorpdfstring{\ifplainsuit\♥\else\textcolor{suitred}{\♥}\fi}{\♥}}
-\def♦{\texorpdfstring{\ifplainsuit\♦\else\textcolor{suitred}{\♦}\fi}{\♦}}
+\def♥{\texorpdfstring{\textcolor{suitred}{\♥}}{\♥}}
+\def♦{\texorpdfstring{\textcolor{suitred}{\♦}}{\♦}}
 % Page reference after an internal link, omitted when the target is on this page
 \usepackage{refcount}
 \newcommand\pref[1]{\ifnum\getpagerefnumber{#1}=\value{page}\else~(p.\,\pageref{#1})\fi}

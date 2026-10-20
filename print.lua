@@ -6,8 +6,6 @@ function RawInline(el)
 end
 
 function Link(el)
-  el.content:insert(1, pandoc.RawInline('latex', '{\\plainsuiton '))
-  el.content:insert(pandoc.RawInline('latex', '}'))
   if el.target:sub(1, 1) ~= '#' then return el end
   return {el, pandoc.RawInline('latex', '\\pref{' .. el.target:sub(2) .. '}')}
 end

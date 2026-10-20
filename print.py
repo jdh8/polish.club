@@ -123,8 +123,10 @@ subprocess.run(['rsvg-convert', '-f', 'pdf', '-o', OUT / 'favicon.pdf', 'theme/f
 subprocess.run(['pandoc', OUT / 'book.md', '-o', OUT / 'polish-club.tex', '-s', '--top-level-division=part',
                 '--columns=10000', '--lua-filter=print.lua', '-H', OUT / 'preamble.tex'], check=True)
 for _ in range(3):
-    subprocess.run(['lualatex', '-interaction=batchmode', '-halt-on-error', '-output-directory', OUT, OUT / 'polish-club.tex'],
-                   check=True, stdout=subprocess.DEVNULL)
+    if subprocess.run(['lualatex', '-interaction=batchmode', '-halt-on-error', '-output-directory', OUT, OUT / 'polish-club.tex'],
+                      stdout=subprocess.DEVNULL).returncode:
+        log = (OUT / 'polish-club.log').read_text(errors='replace').splitlines()
+        raise SystemExit('\n'.join(log[-40:]))
 pathlib.Path('book').mkdir(exist_ok=True)
 shutil.copy(OUT / 'polish-club.pdf', 'book/polish-club.pdf')
 print('book/polish-club.pdf')

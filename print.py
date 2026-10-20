@@ -117,7 +117,7 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 \setcounter{secnumdepth}{-2}  % no section numbers in the front matter; restored at \mainmatter
 \usepackage{graphicx}
 \subject{\includegraphics[height=3cm]{favicon.pdf}}
-''')
+'''.replace('favicon.pdf', str(OUT / 'favicon.pdf')))  # TeX Live 2023 does not search the output directory
 
 subprocess.run(['rsvg-convert', '-f', 'pdf', '-o', OUT / 'favicon.pdf', 'theme/favicon.svg'], check=True)
 subprocess.run(['pandoc', OUT / 'book.md', '-o', OUT / 'polish-club.tex', '-s', '--top-level-division=part',

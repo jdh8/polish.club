@@ -1,19 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="2.75 1.06 34.5 34.5">
-  <!-- stalk branching to each grape, drawn first so the grapes sit on it -->
-  <g fill="none" stroke="#8b5a2b" stroke-linecap="round" stroke-linejoin="round">
-    <path stroke-width="4" d="M20,2.5 V10"/>
-    <path stroke-width="3" d="M10.07,15.06 L20,10 L29.94,15.06 M20,10 V26.65"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="1.17 -0.81 37.67 37.67">
+  <!-- stalk stub only; it disappears into the cluster -->
+  <path fill="none" stroke="#4f7a1f" stroke-width="4" stroke-linecap="butt" d="M20,0.5 Q19,8 20,20"/>
+  <!-- overlapping grapes, back to front, so no forks show -->
+  <g stroke="#fff" stroke-width="0.8">
+    <circle cx="10.07" cy="15.06" r="8.5" fill="#7fb52f"/>
+    <circle cx="29.94" cy="15.06" r="8.5" fill="#7fb52f"/>
+    <circle cx="20" cy="26.65" r="8.5" fill="#8dc63f"/>
   </g>
-  <g fill="#009900">
-    <!-- three grapes = three lobes of Libertinus Sans ♣ -->
-    <circle cx="10.07" cy="15.06" r="7"/>
-    <circle cx="29.94" cy="15.06" r="7"/>
-    <circle cx="20" cy="26.65" r="7.5"/>
-  </g>
-  <!-- highlights so they read as grapes -->
   <g fill="#fff" opacity="0.5">
-    <ellipse cx="8.02" cy="12.6" rx="1.64" ry="1.07" transform="rotate(-35 8.02 12.6)"/>
-    <ellipse cx="27.89" cy="12.6" rx="1.64" ry="1.07" transform="rotate(-35 27.89 12.6)"/>
-    <ellipse cx="17.8" cy="24.02" rx="1.76" ry="1.15" transform="rotate(-35 17.8 24.02)"/>
+    <ellipse cx="7.6" cy="12.1" rx="1.9" ry="1.2" transform="rotate(-35 7.6 12.1)"/>
+    <ellipse cx="27.5" cy="12.1" rx="1.9" ry="1.2" transform="rotate(-35 27.5 12.1)"/>
+    <ellipse cx="17.5" cy="23.7" rx="1.9" ry="1.2" transform="rotate(-35 17.5 23.7)"/>
   </g>
 </svg>

@@ -7,3 +7,6 @@ faster.
 Read it at <https://polish.club/>.
 
 Build locally with `mdbook serve`.
+
+Typeset the PDF with `python3 print.py` (needs pandoc, lualatex, rsvg-convert,
+Libertinus and Noto Serif CJK TC); it lands in `book/polish-club.pdf`.

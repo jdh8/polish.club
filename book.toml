@@ -4,6 +4,7 @@ title = "Strawberry Polish Club"
 
 [output.html]
 additional-css = ["style.css"]
+additional-js = ["pdf-link.js"]
 site-url = "https://polish.club/"
 git-repository-url = "https://github.com/jdh8/polish.club"
 edit-url-template = "https://github.com/jdh8/polish.club/edit/main/{path}"

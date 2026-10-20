@@ -43,7 +43,12 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v3
         with:
           tool: mdbook-replace
+      - name: Install PDF toolchain
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-libertinus fonts-noto-cjk librsvg2-bin
       - run: mdbook build
+      - run: python3 print.py
       - uses: actions/upload-pages-artifact@v5
         with:
           path: book

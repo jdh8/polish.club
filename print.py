@@ -124,6 +124,10 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 subprocess.run(['rsvg-convert', '-f', 'pdf', '-o', OUT / 'favicon.pdf', 'theme/favicon.svg'], check=True)
 subprocess.run(['pandoc', OUT / 'book.md', '-o', OUT / 'polish-club.tex', '-s', '--top-level-division=part',
                 '--columns=10000', '--lua-filter=print.lua', '-H', OUT / 'preamble.tex'], check=True)
+# Close every page of a broken table with the bottom rule.  Room reserved for \endfoot also keeps
+# \endlastfoot on the last row's page, where pandoc's lone \endlastfoot could start an empty continuation.
+tex = OUT / 'polish-club.tex'
+tex.write_text(tex.read_text().replace('\\bottomrule\\noalign{}\n\\endlastfoot', '\\bottomrule\\noalign{}\n\\endfoot\n\\bottomrule\\noalign{}\n\\endlastfoot'))
 for _ in range(3):
     if subprocess.run(['lualatex', '-interaction=batchmode', '-halt-on-error', '-output-directory', OUT, OUT / 'polish-club.tex'],
                       stdout=subprocess.DEVNULL).returncode:

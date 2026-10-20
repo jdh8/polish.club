@@ -27,6 +27,32 @@ end
 -- widths; otherwise (pandoc would split line-broken tables evenly) each column
 -- gets its longest line, and the last column absorbs any overflow by wrapping.
 function Table(t)
+  -- Header auctions get one row per <br> line, so they space like single-line headers
+  local head = {}
+  for _, r in ipairs(t.head.rows) do
+    local lines, k = {}, 1
+    for i, c in ipairs(r.cells) do
+      local j = 1
+      for _, b in ipairs(c.contents) do
+        for _, x in ipairs(b.content or {}) do
+          if x.t == 'LineBreak' then j = j + 1
+          else
+            lines[j] = lines[j] or {}
+            lines[j][i] = lines[j][i] or {}
+            table.insert(lines[j][i], x)
+          end
+        end
+      end
+      k = math.max(k, j)
+    end
+    for j = 1, k do
+      local cells = {}
+      for i = 1, #r.cells do cells[i] = pandoc.Cell({pandoc.Plain((lines[j] or {})[i] or {})}) end
+      head[#head + 1] = pandoc.Row(cells)
+    end
+  end
+  t.head.rows = head
+
   local n, max, broken = #t.colspecs, {}, false
   for i = 1, n do max[i] = 0 end
   local function scan(rows)
@@ -41,7 +67,7 @@ function Table(t)
   for _, body in ipairs(t.bodies) do scan(body.body) end
   local total = 0
   for i = 1, n do total = total + max[i] + 3 end
-  if total <= LINE and not broken then return nil end
+  if total <= LINE and not broken then return t end
   local used = 0
   for i = 1, n - 1 do
     t.colspecs[i] = {t.colspecs[i][1], (max[i] + 3) / LINE}

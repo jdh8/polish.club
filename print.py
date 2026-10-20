@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Typeset the book as a PDF: SUMMARY.md order -> one Markdown file -> pandoc -> lualatex.
 
-Needs pandoc, lualatex, rsvg-convert, Libertinus (fontconfig) and Noto Serif CJK TC.
+Needs pandoc, lualatex with lua-ul and luacolor, rsvg-convert, Libertinus (fontconfig) and Noto Serif CJK TC.
 Output: book/polish-club.pdf; intermediates in build/.
 """
 import datetime, html, pathlib, posixpath, re, shutil, subprocess, tomllib
@@ -99,7 +99,10 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 \directlua{luaotfload.add_fallback("cjk", {"Noto Serif CJK TC:mode=harf;script=hani;"})}
 \setmainfont{Libertinus Serif}[RawFeature={fallback=cjk}]
 \setsansfont{Libertinus Sans}[RawFeature={fallback=cjk}]
-\renewcommand\ttfamily\sffamily  % no monospace in print: code spans go in Libertinus Sans
+% Code spans: no monospace in print; Libertinus Sans on the website's light gray, breakable across lines
+\usepackage{luacolor,lua-ul}
+\definecolor{codebg}{HTML}{ECECEC}
+\renewcommand\texttt[1]{{\sffamily\highLight[codebg]{\kern.15em #1\kern.15em}}}
 \definecolor{suitred}{HTML}{BB2222}
 % Red hearts and diamonds everywhere, except inside links (\plainsuittrue), as on the website
 \newif\ifplainsuit \protected\def\plainsuiton{\plainsuittrue}  % robust for captions

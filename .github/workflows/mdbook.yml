@@ -46,11 +46,13 @@ jobs:
       - name: Install PDF toolchain  # ~80 s; cache-apt-pkgs-action restores faster but drops dependencies such as lmodern
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk fonts-inconsolata librsvg2-bin
-      - name: Install Libertinus  # Ubuntu has no package; fetch the release OTFs
+          sudo apt-get install -y --no-install-recommends pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin
+      - name: Install Libertinus and Source Code Pro  # Ubuntu has no Libertinus package; fetch the release OTFs
         run: |
           curl -sLO https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip
-          unzip -qj Libertinus-7.051.zip '*.otf' -d ~/.fonts && fc-cache -f
+          curl -sLO https://github.com/adobe-fonts/source-code-pro/releases/download/2.042R-u/1.062R-i/1.026R-vf/OTF-source-code-pro-2.042R-u_1.062R-i.zip
+          unzip -qj Libertinus-7.051.zip '*.otf' -d ~/.fonts
+          unzip -qj OTF-source-code-pro-2.042R-u_1.062R-i.zip '*.otf' -d ~/.fonts && fc-cache -f
       - run: mdbook build
       - run: python3 print.py
       - uses: actions/upload-pages-artifact@v5

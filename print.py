@@ -99,11 +99,10 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 \directlua{luaotfload.add_fallback("cjk", {"Noto Serif CJK TC:mode=harf;script=hani;"})}
 \setmainfont{Libertinus Serif}[RawFeature={fallback=cjk}]
 \setsansfont{Libertinus Sans}[RawFeature={fallback=cjk}]
-\directlua{luaotfload.add_fallback("mono", {"Libertinus Serif:mode=harf;"})}
-\setmonofont{Inconsolata}[Scale=MatchLowercase,RawFeature={fallback=mono}]  % suits and ≤ from Libertinus
+\setmonofont{Source Code Pro}[Scale=MatchLowercase]  % the website's code font
 % Code spans: monospace on the website's light gray, breakable across lines
 \usepackage{luacolor,lua-ul}
-\definecolor{codebg}{HTML}{ECECEC}
+\definecolor{codebg}{HTML}{F2F2F2}
 \renewcommand\texttt[1]{{\ttfamily\highLight[codebg]{\kern.15em #1\kern.15em}}}
 \definecolor{suitred}{HTML}{BB2222}
 % Red hearts and diamonds everywhere, links included

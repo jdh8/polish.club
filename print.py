@@ -99,10 +99,12 @@ doc += [f'| {k} | {v} |\n' for k, v in sorted(abbr.items(), key=lambda kv: kv[0]
 \directlua{luaotfload.add_fallback("cjk", {"Noto Serif CJK TC:mode=harf;script=hani;"})}
 \setmainfont{Libertinus Serif}[RawFeature={fallback=cjk}]
 \setsansfont{Libertinus Sans}[RawFeature={fallback=cjk}]
-% Code spans: no monospace in print; Libertinus Sans on the website's light gray, breakable across lines
+\directlua{luaotfload.add_fallback("mono", {"Libertinus Serif:mode=harf;"})}
+\setmonofont{Inconsolata}[Scale=MatchLowercase,RawFeature={fallback=mono}]  % suits and ≤ from Libertinus
+% Code spans: monospace on the website's light gray, breakable across lines
 \usepackage{luacolor,lua-ul}
 \definecolor{codebg}{HTML}{ECECEC}
-\renewcommand\texttt[1]{{\sffamily\highLight[codebg]{\kern.15em #1\kern.15em}}}
+\renewcommand\texttt[1]{{\ttfamily\highLight[codebg]{\kern.15em #1\kern.15em}}}
 \definecolor{suitred}{HTML}{BB2222}
 % Red hearts and diamonds everywhere, links included
 \let\♥=♥ \let\♦=♦  % one-char control symbols survive hyperref bookmark strings

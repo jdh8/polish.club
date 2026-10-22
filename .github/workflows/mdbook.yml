@@ -43,12 +43,14 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v3
         with:
           tool: mdbook-replace
+      - run: sudo apt-get update  # the action trusts the image's lists, which name ghostscript debs gone from the mirror
       - name: Install PDF toolchain  # explicit lmodern, plain-generic (ulem) and fonts-recommended (pzdr): neither apt nor the cache pulls them in
         uses: awalsh128/cache-apt-pkgs-action@v1
         with:
           packages: pandoc texlive-luatex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin lmodern texlive-plain-generic texlive-fonts-recommended
           version: 1.0
           execute_install_scripts: true  # TeX Live builds its formats in postinst
+      - run: sudo mktexlsr  # a restore runs postinst but not dpkg triggers, so TeX's file index misses the fonts
       - name: Install Libertinus and Source Code Pro  # Ubuntu has no Libertinus package; fetch the release OTFs
         run: |
           curl -sLO https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip

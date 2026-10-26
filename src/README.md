@@ -79,13 +79,16 @@ Strength ranges and suit lengths keep their compact notation.
 [abbr]: http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 - **All conditions:** write `A and B` or `A, B`; for longer lists, write
-  `A, B, and C` or `A, B, C`.  For example, <code>INV, 9--11, 6+♣</code>.
+  `A and B and C` or `A, B, C`.  For example, <code>INV, 9--11, 6+♣</code>.
 - **Alternatives:** write every `or` explicitly: `A or B or C`.
 - **Grouping:** `and` and `or` bind tighter than `,`, so
   <code>NAT, 11--14 or 18+, 4+♦</code> requires natural diamonds with either
-  strength range.  A comma before the last `and` or `or` (Oxford comma) marks a
-  flat list instead: `A, B, or C` is `A or B or C`.  Parenthesize an alternative
-  that contains a comma: <code>(11--16, 3=♥) or (17, 4=♠, 3=♥)</code>.
+  strength range.  Parenthesize an alternative that contains a comma:
+  <code>(11--16, 3=♥) or (17, 4=♠, 3=♥)</code>.
+- **Oxford comma:** a comma before `and` or `or` joins clauses, never items:
+  <code>(11--16, 3=♥), (17, 4=♠, 3=♥), or (18+, 3=♥)</code>.  Items are short
+  enough for `A and B and C`, and a comma-free list leaves no doubt where it
+  stops.
 - **Long alternatives:** keep separate lines, with an explicit `or` between
   alternatives.  Colons and semicolons have their ordinary punctuation meanings.
 
@@ -99,7 +102,6 @@ unparenthesized phrase: `eats: shoots, leaves`.  Thus
 
 - `eats shoots and leaves` is `(eats shoots) and leaves`
 - `eats, shoots and leaves` is `eats, (shoots and leaves)`
-- `eats, shoots, and leaves` is `eats, shoots, leaves`
 
 [ESL]: https://en.wikipedia.org/wiki/Eats,_Shoots_%26_Leaves
 

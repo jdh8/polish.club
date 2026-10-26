@@ -14,7 +14,7 @@ scheme, the name, and its history.
 | 2♦!  | FG CB
 | 2♥!  | INV, 5+♥
 | 2♠!  | INV, 4+♠
-| 2NT! | TRF, (PRE or FG), 6+♣
+| 2NT! | TRF, PRE or FG, 6+♣
 | 3♣   | S/T, 5+♣, 5+♥
 | 3♦   | S/T, 5+♦, 5+♥
 | 3♥   | S/T, 6+♥
@@ -105,7 +105,7 @@ helps concealing declarer's distribution most of the time.
 | 2♦!      | FG CB
 | 2♥!      | INV, 5+♥
 | 2♠!      | INV, 4+♠
-| 2NT!     | TRF, (PRE or FG), 6+♣
+| 2NT!     | TRF, PRE or FG, 6+♣
 | 3♣       | S/T, 5+♣, 5+♥
 | 3♦       | S/T, 5+♦, 5+♥
 | 3♥       | S/T, 6+♥
@@ -135,7 +135,7 @@ helps concealing declarer's distribution most of the time.
 | 2♦!      | FG CB
 | 2♥!      | INV, 4+♥, 5+♠
 | 2♠!      | INV, 5+♠
-| 2NT!     | TRF, (PRE or FG), 6+♣
+| 2NT!     | TRF, PRE or FG, 6+♣
 | 3♣       | S/T, 5+♣, 5+♠
 | 3♦       | S/T, 5+♦, 5+♠
 | 3♥       | S/T, 5+♥, 5+♠

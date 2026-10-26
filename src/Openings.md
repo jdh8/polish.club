@@ -16,7 +16,7 @@ faster:
 
 |      | |
 |------|-|
-| 1♣!  | F, Polish Club, showing either:<br>(12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣)<br>or (11--16, (5+♣ or 4414))<br>or (17+, unsuitable for 1♦ and 1NT)
+| 1♣!  | F, Polish Club, showing either:<br>(12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣)<br>or (11--16, 5+♣ or 4414)<br>or (17+, unsuitable for 1♦ and 1NT)
 | 1♦   | 11--20, (5+♦ or (UNBAL, 4=♦, 1--5♣))
 | 1♥♠  | 11--16, 5+#
 | 1NT  | BAL 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣

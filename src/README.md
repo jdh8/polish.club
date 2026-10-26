@@ -81,22 +81,25 @@ Strength ranges and suit lengths keep their compact notation.
 - **All conditions:** write `A and B` or `A, B`; for longer lists, write
   `A, B, and C` or `A, B, C`.  For example, <code>INV, 9--11, 6+♣</code>.
 - **Alternatives:** write every `or` explicitly: `A or B or C`.
-- **Grouping:** use parentheses when mixing conditions and alternatives.
-  <code>NAT, (11--14 or 18+), 4+♦</code> requires natural diamonds with either strength
-  range.  <code>(11--16, 3=♥) or (17, 4=♠, 3=♥)</code> describes two cases.
+- **Grouping:** `and` and `or` bind tighter than `,`, so
+  <code>NAT, 11--14 or 18+, 4+♦</code> requires natural diamonds with either
+  strength range.  A comma before the last `and` or `or` (Oxford comma) marks a
+  flat list instead: `A, B, or C` is `A or B or C`.  Parenthesize an alternative
+  that contains a comma: <code>(11--16, 3=♥) or (17, 4=♠, 3=♥)</code>.
 - **Long alternatives:** keep separate lines, with an explicit `or` between
   alternatives.  Colons and semicolons have their ordinary punctuation meanings.
 
 Parentheses within shapes such as `33(43)` still identify suits whose lengths
 may swap order.  Compact suit notation and the <code>(R)</code> relay tag are unchanged.
 
-The precedence between `,` `and` `or` is undefined on purpose.  Clarify visually
-ambiguous [`eats(,) shoots and leaves`][ESL].  Only `:` binds looser than all of
-them, so a tag may govern an unparenthesized phrase: `eats: shoots and
-leaves`.  Otherwise, put a comma at every break of the same level:
+The precedence between `and` and `or` is undefined on purpose; parenthesize
+when mixing them.  Only `:` binds looser than everything, so a tag may govern an
+unparenthesized phrase: `eats: shoots, leaves`.  Thus
+[`eats(,) shoots and leaves`][ESL] is unambiguous:
 
-- `eats shoots, (and) leaves`
-- `eats, shoots, (and) leaves`
+- `eats shoots and leaves` is `(eats shoots) and leaves`
+- `eats, shoots and leaves` is `eats, (shoots and leaves)`
+- `eats, shoots, and leaves` is `eats, shoots, leaves`
 
 [ESL]: https://en.wikipedia.org/wiki/Eats,_Shoots_%26_Leaves
 

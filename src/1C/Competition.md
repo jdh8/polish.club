@@ -40,10 +40,10 @@ transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 | 1NT! | TRF, 7+, 5+♣
 | 2♣   | PRE, 0--7, 5+♣
 | 2x   | PRE, 0--7, 6+#
-| 2NT! | TRF: (PRE, 7+♣) or (FG, 6+♣)
-| 3♣!  | TRF: (PRE, 7+♦) or (FG, 6+♦)
-| 3♦!  | TRF: (PRE, 7+♥) or (FG, 6+♥)
-| 3♥!  | TRF: (PRE, 7+♠) or (FG, 6+♠)
+| 2NT! | TRF, (PRE, 7+♣) or (FG, 6+♣)
+| 3♣!  | TRF, (PRE, 7+♦) or (FG, 6+♦)
+| 3♦!  | TRF, (PRE, 7+♥) or (FG, 6+♥)
+| 3♥!  | TRF, (PRE, 7+♠) or (FG, 6+♠)
 | 3♠!  | Gambling, SOL 7+ suit with no stopper outside
 | 3NT! | Gambling, SOL 7+ suit with one stopper outside
 
@@ -63,8 +63,8 @@ Transferring to diamonds is not very useful, so 2♣ falls back to a single rais
 | 2♠! | TRF, 10+, 5+♣
 | 2NT | NAT INV, 10--11
 | 3♣  | PRE, 6+♣
-| 3♦! | TRF: (PRE, 7+♥) or (FG, 6+♥)
-| 3♥! | TRF: (PRE, 7+♠) or (FG, 6+♠)
+| 3♦! | TRF, (PRE, 7+♥) or (FG, 6+♥)
+| 3♥! | TRF, (PRE, 7+♠) or (FG, 6+♠)
 | 3♠! | Gambling, SOL 7+ suit without stopper
 
 ## Over (1♥)
@@ -84,7 +84,7 @@ bid.
 | 2NT | NAT INV, 10--11
 | 3♣  | PRE, 6+♣
 | 3♦  | PRE, 7+♦
-| 3♥! | TRF: (PRE, 7+♠) or (FG, 6+♠)
+| 3♥! | TRF, (PRE, 7+♠) or (FG, 6+♠)
 | 3♠! | Gambling, SOL 7+ suit without stopper
 
 ## Over (1♠)

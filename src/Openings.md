@@ -19,7 +19,7 @@ faster:
 | 1♣!  | F, Polish Club, showing either:<br>(12--14, 2--4♠, 2--4♥, 2--4♦, 2--4♣)<br>or (11--16, 5+♣ or 4414)<br>or (17+, unsuitable for 1♦ and 1NT)
 | 1♦   | 11--20, (5+♦ or (UNBAL, 4=♦, 1--5♣))
 | 1♥♠  | 11--16, 5+#
-| 1NT  | BAL 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣
+| 1NT  | 15--17, 2--5♠, 2--5♥, 2--6♦, 2--6♣
 | 2♣!  | PRE, 4--10, 4+♠, 4+♥, not 44(32) if VUL
 | 2♦!  | PRE, 4--10, 6+♠♥
 | 2♥♠! | PRE, 4--10, 5=#, 4+♦♣
@@ -105,5 +105,5 @@ diamonds is at the opening.  I'd open 1♦ until the artificial 1♣ - 1♦ - 2�
 
 ### 2245
 
-Similar to (31)45, but I consider it balanced.  Balanced 15--20 hands are happy
-with 1NT and 1♣ - 1♦ - 1NT.
+Similar to (31)45, but 1NT and 1♣ - 1♦ - 1NT accept (5422), so 15--20 hands
+need not open 1♦.

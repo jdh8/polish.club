@@ -15,18 +15,14 @@ We are also influenced by Bo-Yin Yang "Terrorist", our legendary bidding theoris
 
 ## My other bidding systems
 
-<style>
-.icon { height: 1em; vertical-align: -0.125em; }
-</style>
-
-- <img class="icon" alt="" src="blueberry-precision.svg"> [Blueberry Precision Club](https://jdh8.github.io/blueberry-precision/)
-- <img class="icon" alt="" src="cranberry-moscito.svg"> [Cranberry Moscito](https://jdh8.github.io/cranberry-moscito/)
-- <img class="icon" alt="" src="muscat-walsh.svg"> [Muscat Walsh](https://jdh8.github.io/muscat-walsh/)
-- <img class="icon" alt="" src="watermelon-dutch.svg"> [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch/)
+- [Blueberry Precision Club](https://jdh8.github.io/blueberry-precision/)
+- [Cranberry Moscito](https://jdh8.github.io/cranberry-moscito/)
+- [Muscat Walsh](https://jdh8.github.io/muscat-walsh/)
+- [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch/)
 
 ## Research
 
-- <img class="icon" alt="" src="wbridge5.svg"> [Wbridge5](https://jdh8.github.io/wbridge5.book/),
+- [Wbridge5](https://jdh8.github.io/wbridge5.book/),
   a technical report of the bidding system of the Wbridge5 program
 
 ## Tutorial

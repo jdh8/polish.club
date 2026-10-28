@@ -20,6 +20,7 @@ We are also influenced by Bo-Yin Yang "Terrorist", our legendary bidding theoris
 </style>
 
 - <img class="icon" alt="" src="blueberry-precision.svg"> [Blueberry Precision Club](https://jdh8.github.io/blueberry-precision/)
+- <img class="icon" alt="" src="cranberry-moscito.svg"> [Cranberry Moscito](https://jdh8.github.io/cranberry-moscito/)
 - <img class="icon" alt="" src="muscat-walsh.svg"> [Muscat Walsh](https://jdh8.github.io/muscat-walsh/)
 - <img class="icon" alt="" src="watermelon-dutch.svg"> [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch/)
 

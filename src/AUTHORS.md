@@ -24,6 +24,11 @@ We are also influenced by Bo-Yin Yang "Terrorist", our legendary bidding theoris
 - <img class="icon" alt="" src="muscat-walsh.svg"> [Muscat Walsh](https://jdh8.github.io/muscat-walsh/)
 - <img class="icon" alt="" src="watermelon-dutch.svg"> [Watermelon Dutch Doubleton](https://jdh8.github.io/watermelon-dutch/)
 
+## Research
+
+- <img class="icon" alt="" src="wbridge5.svg"> [Wbridge5](https://jdh8.github.io/wbridge5.book/),
+  a technical report of the bidding system of the Wbridge5 program
+
 ## Tutorial
 
 - [橋牌入門：從規則到二蓋一](https://jdh8.github.io/bridge-tutorial/), a

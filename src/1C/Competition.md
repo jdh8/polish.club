@@ -28,18 +28,26 @@ wider than the minimum 2M.  The full rebid tables follow in
 
 ## Over (X)
 
+I am proposing a novel approach: P is forcing while XX is negative.  This method
+is fairly common in strong clubs, e.g. [Viking Precision 2007][vp].  I am
+bringing it here because Polish Club faces the same problem in my opinion.  It
+is more urgent to brake a strong opener than to seek penalty.
+
+[vp]: https://bridge.downagain.be/FD/main.php?vul=9&dealer=9&system=smp7cltvhrh
+
 Natural notrump is not very useful after a double, so let's also use it for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 | 1♣ (X) | |
 |------|-|
-| XX   | NF BAL G/T, 10+
-| 1♦!  | TRF, 7+, 4+♥
-| 1♥!  | TRF, 7+, 4+♠
-| 1♠!  | TRF, 7+, 5+♦
-| 1NT! | TRF, 7+, 5+♣
-| 2♣   | PRE, 0--7, 5+♣
-| 2x   | PRE, 0--7, 6+#
+| XX!  | NEG, 0--4
+| P!   | F, 5+, 0--3♠, 0--3♥
+| 1♦!  | TRF, 5+, 4+♥
+| 1♥!  | TRF, 5+, 4+♠
+| 1♠!  | TRF, 8+, 5+♦
+| 1NT! | TRF, 8+, 5+♣
+| 2♣♦  | PRE, 0--7, 6+#
+| 2♥♠  | CONST, 8--11, 6+#
 | 2NT! | TRF, (PRE, 7+♣) or (FG, 6+♣)
 | 3♣!  | TRF, (PRE, 7+♦) or (FG, 6+♦)
 | 3♦!  | TRF, (PRE, 7+♥) or (FG, 6+♥)
@@ -53,8 +61,8 @@ Transferring to diamonds is not very useful, so 2♣ falls back to a single rais
 
 | 1♣ (1♦) | |
 |-----|-|
-| X!  | TRF, 7+, 4+♥
-| 1♥! | TRF, 7+, 4+♠
+| X!  | TRF, 5+, 4+♥
+| 1♥! | TRF, 5+, 4+♠
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
 | 2♣  | NF, 5--10, 5+♣
@@ -74,7 +82,7 @@ bid.
 
 | 1♣ (1♥) | |
 |-----|-|
-| X!  | TRF, 7+, 4+♠
+| X!  | TRF, 5+, 4+♠
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
 | 2♣! | TRF, 10+, 5+♦

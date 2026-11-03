@@ -27,26 +27,12 @@ penalty rather than takeout.
 
 ## After a transfer to 1M
 
-One step below 1M, including the stolen X, is a transfer to 1M.  Bid as if 1♣ - 1M
-most of the time.  However, there are two key differences.
+One step below 1M, including the stolen X, is a transfer to 1M.  Being one step
+cheaper, the transfer can be slightly weaker than 1♣ - 1M.  Bid as if facing a
+[Transfer Walsh][t-walsh] response.  See my [Muscat Walsh][muscat] for example.
 
-One difference is that opener can bid 1M.  Opener now has a way to show 3-card
-support even when RHO does not compete.
-
-| Values      | 3=M | 4+M |
-|-------------|-----|-----|
-| MIN, 11--14 | 1M  | 2M  |
-| INV, 15--16 | 1M  | 3M  |
-| FG, 17+     | 2♦! | 2♦! |
-
-The other difference is that opener gets 2♦♥ cuebids after 1♣ (1♥) X.  I'd keep 2♦
-as Odwrotka, while 2♥ just asks for stopper.  The 1♣ opener is scarcely proud of
-diamonds.  Competition spares this reason to have an artiricial 2♦ reverse.
-
-| 1♣ (1♥) X - | |
-|-----|-----------|
-| 2♦! | FG, 3+♠   |
-| 2♥! | FG, 0--2♠ |
+[muscat]: https://jdh8.github.io/muscat-walsh
+[t-walsh]: https://en.wikipedia.org/wiki/Transfer_Walsh
 
 ## After the negative double
 

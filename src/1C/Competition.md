@@ -41,9 +41,9 @@ transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 | 1♣ (X) | |
 |------|-|
 | XX!  | NEG, 0--4
-| P!   | F, 5+, 0--3♠, 0--3♥
-| 1♦!  | TRF, 5+, 4+♥
-| 1♥!  | TRF, 5+, 4+♠
+| P!   | F, 5+
+| 1♦!  | TRF, 7+, 4+♥
+| 1♥!  | TRF, 7+, 4+♠
 | 1♠!  | TRF, 8+, 5+♦
 | 1NT! | TRF, 8+, 5+♣
 | 2♣♦  | PRE, 0--7, 6+#
@@ -61,8 +61,8 @@ Transferring to diamonds is not very useful, so 2♣ falls back to a single rais
 
 | 1♣ (1♦) | |
 |-----|-|
-| X!  | TRF, 5+, 4+♥
-| 1♥! | TRF, 5+, 4+♠
+| X!  | TRF, 7+, 4+♥
+| 1♥! | TRF, 7+, 4+♠
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
 | 2♣  | NF, 5--10, 5+♣
@@ -82,7 +82,7 @@ bid.
 
 | 1♣ (1♥) | |
 |-----|-|
-| X!  | TRF, 5+, 4+♠
+| X!  | TRF, 7+, 4+♠
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
 | 2♣! | TRF, 10+, 5+♦

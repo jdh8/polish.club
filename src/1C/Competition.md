@@ -28,26 +28,18 @@ wider than the minimum 2M.  The full rebid tables follow in
 
 ## Over (X)
 
-I am proposing a novel approach: P is forcing while XX is negative.  This method
-is fairly common in strong clubs, e.g. [Viking Precision 2007][vp].  I am
-bringing it here because Polish Club faces the same problem in my opinion.  It
-is more urgent to brake a strong opener than to seek penalty.
-
-[vp]: https://bridge.downagain.be/FD/main.php?vul=9&dealer=9&system=smp7cltvhrh
-
 Natural notrump is not very useful after a double, so let's also use it for
 transfers.  Then 1♠ takes care of diamonds, the only suit left over.
 
 | 1♣ (X) | |
 |------|-|
-| XX!  | NEG, 0--4
-| P!   | F, 5+
+| XX   | PEN, 9+
 | 1♦!  | TRF, 7+, 4+♥
 | 1♥!  | TRF, 7+, 4+♠
 | 1♠!  | TRF, 8+, 5+♦
 | 1NT! | TRF, 8+, 5+♣
-| 2♣♦  | PRE, 0--7, 6+#
-| 2♥♠  | CONST, 8--11, 6+#
+| 2♣   | PRE, (0--7, 6+♣) or (5--7, 5+♣)
+| 2♦♥♠ | PRE, 0--7, 6+#
 | 2NT! | TRF, (PRE, 7+♣) or (FG, 6+♣)
 | 3♣!  | TRF, (PRE, 7+♦) or (FG, 6+♦)
 | 3♦!  | TRF, (PRE, 7+♥) or (FG, 6+♥)

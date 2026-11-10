@@ -8,14 +8,41 @@ proven its effectiveness in a century of competitive bidding.
 ## After XX
 
 The key feature of XX is to start penalty process.  Our further doubles are
-penalty rather than takeout.
+penalty rather than takeout.  We do not let opponents play their undoubled
+contract from now on.
 
-- **Forcing pass:** catchall takeout
-- **Double:** penalty
-- **Bid 2♣ or below:** to compete
-- **Cuebid:** game-forcing two-suited takeout, clubs and a new suit
-- **3NT:** 15--17, to play
-- **Other:** 18+, natural
+### RHO advances
+
+RHO bids most of the time.  Opener can freely pass without ending the auction.
+The pass becomes a forcing catchall.
+
+| 1♣ (X) XX (..) | |
+|----------------|-|
+| P!             | (R), F
+| X              | PEN
+| 1NT            | 11--14, stopper
+| 2♣             | 11--14, 6+♣
+| 3♣             | FG, 6+♣
+| New suit       | FG, 5+#
+| Cuebid         | FG T/O
+
+| 1♣ (X) XX (2y) | |
+|----------------|-|
+| 2NT            | 13--14, stopper
+
+### RHO passes
+
+Opener passes only when 1♣xx is good, which may become the final contract.
+Thus, the 1-level suits are escapes.
+
+| 1♣ (X) XX - | |
+|-------------|-|
+| 1♦          | 11--14, 3+♦
+| 1♥♠         | 11--14, 4+#
+| 1NT         | 11--13, 2--5♣
+| 2♣          | 11--14, 6+♣
+| 2♦♥♠        | FG, 5+#
+| 3♣          | FG, 6+♣
 
 ## After a transfer to 1M
 

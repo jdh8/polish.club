@@ -10,20 +10,12 @@ proven its effectiveness in a century of competitive bidding.
 The key feature of XX is to start penalty process.  Our further doubles are
 penalty rather than takeout.
 
-- **Pass:** content with current contract
-- **Double:** to penalize opposing contract
-- **Bid a strain at the lowest level:** to compete
-- **Jump to a higher level:** strong and distributional
-
-| 1♣ (X) XX - | |
-|------|-|
-| P    | S/O, 4+♣
-| 1♦♥♠ | NAT, 4+#
-| 1NT  | BAL MIN, 2--4♣
-| 2♣   | MIN, 6+♣
-| 2♦+  | STR NAT
-| 2NT  | BAL, 18+
-| 3NT! | SOL 7+♣
+- **Forcing pass:** catchall takeout
+- **Double:** penalty
+- **Bid 2♣ or below:** to compete
+- **Cuebid:** game-forcing two-suited takeout, clubs and a new suit
+- **3NT:** 15--17, to play
+- **Other:** 18+, natural
 
 ## After a transfer to 1M
 

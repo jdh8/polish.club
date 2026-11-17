@@ -14,7 +14,7 @@ preempts.
 |------|-|
 | XX   | NF BAL G/T, 10+
 | 1M   | F, 7+, 4+#
-| 1NT! | TRF, 7+, 5+♣
+| 1NT! | TRF, 8+, 5+♣
 | 2♣!  | ART, 5--11, 5+♠, 4+♥
 | 2♦   | CONST, 5--9, 4+♦
 | 2M   | PRE, 0--7, 6+#
@@ -42,18 +42,22 @@ preempts.
 
 ## Over (1♠)
 
+To play both forcing and negative free bids in hearts, this system sacrifices
+natural 1♦ (1♠) 1NT.  This transfer scheme is similar to 1♠ (X) 1NT but slightly
+more convoluted; 2♣ transfers through diamonds to hearts.
+
 | 1♦ (1♠) | |
-|-----|-|
-| X!  | NEG, 7+, 4--5♥ or BAL FG
-| 1NT | NAT, 8--10
-| 2♣  | F, 10+, 5+♣
-| 2♦! | TRF, 10+, 5+♥
-| 2♥  | NF, usually 6+♥
-| 2♠! | CONST+, 8+, 4+♦
-| 2NT | NAT INV, 10--11
-| 3♣♥ | PRE, 7+#
-| 3♦  | PRE, 0--7, 4+♦
-| 3♠! | Gambling, SOL 7+♣ without stopper
+|------|-|
+| X!   | NEG, 7+, 4--5♥ or BAL FG
+| 1NT! | TRF, 10+, 5+♣
+| 2♣!  | TRF, 10+, 5+♥
+| 2♦   | CONST, 5--9, 4+♦
+| 2♥   | NF, usually 6+♥
+| 2♠!  | INV+, 10+, 4+♦
+| 2NT  | NAT INV, 10--11
+| 3♣♥  | PRE, 7+#
+| 3♦   | PRE, 0--5, 4+♦
+| 3♠!  | Gambling, SOL 7+♣ without stopper
 
 ## Over (1NT)
 

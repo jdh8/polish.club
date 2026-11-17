@@ -16,11 +16,11 @@ preempts.
 | 1M   | F, 7+, 4+#
 | 1NT! | TRF, 7+, 5+♣
 | 2♣!  | ART, 5--11, 5+♠, 4+♥
-| 2♦   | PRE, 0--7, 4+♦
+| 2♦   | CONST, 5--9, 4+♦
 | 2M   | PRE, 0--7, 6+#
 | 2NT! | TRF, (PRE, 7+♣) or (FG, 6+♣)
 | 3♣!  | INV+ TRF, 4+♦
-| 3♦   | CONST, 8--10, 4+♦
+| 3♦   | PRE, 0--5, 4+♦
 | 3M   | PRE, 7+#
 
 ## Over (1♥)
@@ -31,12 +31,12 @@ preempts.
 | 1♠! | TRF to 1NT, 8+
 | 1NT | NAT, 8--10
 | 2♣  | F, 10+, 5+♣
-| 2♦  | CONST, 6--9, 4+♦
+| 2♦  | CONST, 5--9, 4+♦
 | 2♥! | TRF, 6+♠
 | 2♠! | INV+, 10+, 4+♦
 | 2NT | NAT INV, 10--11
 | 3♣  | PRE, 7+♣
-| 3♦  | PRE, 0--6, 4+♦
+| 3♦  | PRE, 0--5, 4+♦
 | 3♥! | TRF, (PRE, 7+♠) or (FG, 6+♠)
 | 3♠! | Gambling, SOL 7+♣ without stopper
 
@@ -75,11 +75,11 @@ With clubs directly below diamonds, bidding after 1♦ (2♣) is pretty natural.
 | 1♦ (2♣) | |
 |-----|-|
 | X!  | T/O, INV+
-| 2♦  | PRE, 4+♦
+| 2♦  | CONST, 5--9, 4+♦
 | 2M  | NF, 5+#
 | 2NT | NAT INV
 | 3♣! | INV+, 4+♦
-| 3♦  | CONST, 4+♦
+| 3♦  | PRE, 0--5, 4+♦
 | 3M  | FG, usually 6+#
 
 ## Over (2♦)
